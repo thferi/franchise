@@ -1,0 +1,346 @@
+[
+    {
+        "address": "Baja, Vörösmarty u. 6.",
+        "content": "<img class=\"lozad img image zoom\" width=\"320\" height=\"240\" alt=\"Baja, Vörösmarty u. 6.\" data-src=\"/pub/media/pharmacies/2024_Baja.jpg\" /><br><h4 style=\"text-align: center\">Baja</h4><div class=\"text\"><p>Vörösmarty u. 6.</p><p><span>Nyitvatartás: </span>H-P: 8-19-ig, Sz: 8-13-ig</p></div>",
+        "lat": "46.1808",
+        "lon": "18.9528",
+        "city": "Baja",
+        "opening_hours_detailed": "H-P: 8-19-ig, Sz: 8-13-ig"
+    },
+    {
+        "address": "Békéscsaba, Andrássy út 14.",
+        "content": "<img class=\"lozad img image zoom\" width=\"320\" height=\"240\" alt=\"Békéscsaba, Andrássy út 14.\" data-src=\"/pub/media/pharmacies/2024_BekescsabaAndrassy.jpg\" /><br><h4 style=\"text-align: center\">Békéscsaba</h4><div class=\"text\"><p>Andrássy út 14.</p><p><span>Nyitvatartás: </span>H-P: 8-19-ig, Sz: 8-13-ig</p></div>",
+        "lat": "46.6784",
+        "lon": "21.0949",
+        "city": "Békéscsaba",
+        "opening_hours_detailed": "H-P: 8-19-ig, Sz: 8-13-ig"
+    },
+    {
+        "address": "Békéscsaba, Kazinczy u. 16.",
+        "content": "<img class=\"lozad img image zoom\" width=\"320\" height=\"240\" alt=\"Békéscsaba, Kazinczy u. 16.\" data-src=\"/pub/media/pharmacies/2024_BekescsabaKazinczy.jpg\" /><br><h4 style=\"text-align: center\">Békéscsaba</h4><div class=\"text\"><p>Kazinczy u. 16.</p><p><span>Nyitvatartás: </span>H-P: 7.30-18.30-ig, Sz: 7.30-12.30-ig</p></div>",
+        "lat": "46.6801",
+        "lon": "21.0804",
+        "city": "Békéscsaba",
+        "opening_hours_detailed": "H-P: 7.30-18.30-ig, Sz: 7.30-12.30-ig"
+    },
+    {
+        "address": "Békéscsaba <br> </br>, Szabadság tér 24. <br> </br>",
+        "content": "<img class=\"lozad img image zoom\" width=\"320\" height=\"240\" alt=\"Békéscsaba <br> </br>, Szabadság tér 24. <br> </br>\" data-src=\"/pub/media/pharmacies/2024_BekescsabaSzabadsag.jpg\" /><br><h4 style=\"text-align: center\">Békéscsaba <br> </br></h4><div class=\"text\"><p>Szabadság tér 24. <br> </br></p><p><span>Nyitvatartás: </span>H-CS: 8-19-ig, P: 8-13-ig</p></div>",
+        "lat": "46.6781",
+        "lon": "21.0996",
+        "city": "Békéscsaba",
+        "opening_hours_detailed": "H-CS: 8-19-ig, P: 8-13-ig"
+    },
+    {
+        "address": "Budapest, Üllői út 65-67.",
+        "content": "<img class=\"lozad img image zoom\" width=\"320\" height=\"240\" alt=\"Budapest, Üllői út 65-67.\" data-src=\"/pub/media/pharmacies/2025_Budapest_Ferencvaros.jpg\" /><br><h4 style=\"text-align: center\">Budapest</h4><div class=\"text\"><p>Üllői út 65-67.</p><p><span>Nyitvatartás: </span>H-P: 8-20-ig</p></div>",
+        "lat": "47.484",
+        "lon": "19.0751",
+        "city": "Budapest",
+        "opening_hours_detailed": "H-P: 8-20-ig"
+    },
+    {
+        "address": "Budapest ÁRKÁD <br>Pingvin Patika EXTRA, Kerepesi út 61.",
+        "content": "<img class=\"lozad img image zoom\" width=\"320\" height=\"240\" alt=\"Budapest ÁRKÁD <br>Pingvin Patika EXTRA, Kerepesi út 61.\" data-src=\"/pub/media/pharmacies/2025_Budapest_Arkad.jpg\" /><br><h4 style=\"text-align: center\">Budapest ÁRKÁD <br>Pingvin Patika EXTRA</h4><div class=\"text\"><p>Kerepesi út 61.</p><p>-1 szint Intersparral szemben</p><p><span>Nyitvatartás: </span>H-Sz: 9-21-ig,V: 10-19-ig </p></div>",
+        "lat": "47.5026",
+        "lon": "19.1374",
+        "city": "Budapest ÁRKÁD Pingvin Patika EXTRA",
+        "opening_hours_detailed": "H-Sz: 9-21-ig,V: 10-19-ig"
+    },
+    {
+        "address": "Budapest, Füst Milán utca 28.",
+        "content": "<img class=\"lozad img image zoom\" width=\"320\" height=\"240\" alt=\"Budapest, Füst Milán utca 28.\" data-src=\"/pub/media/pharmacies/2025_Budapest_FustMilan.jpg\" /><br><h4 style=\"text-align: center\">Budapest</h4><div class=\"text\"><p>Füst Milán utca 28.</p><p><span>Nyitvatartás: </span>H-Sz: 7:30-20-ig, V: 8-13-ig</p></div>",
+        "lat": "47.6011",
+        "lon": "19.0591",
+        "city": "Budapest",
+        "opening_hours_detailed": "H-Sz: 7:30-20-ig, V: 8-13-ig"
+    },
+    {
+        "address": "Cegléd, Múzeum u. 2-4.",
+        "content": "<img class=\"lozad img image zoom\" width=\"320\" height=\"240\" alt=\"Cegléd, Múzeum u. 2-4.\" data-src=\"/pub/media/pharmacies/2024_Cegled.jpg\" /><br><h4 style=\"text-align: center\">Cegléd</h4><div class=\"text\"><p>Múzeum u. 2-4.</p><p><span>Nyitvatartás: </span>H-P: 8-19-ig, Sz: 8-13-ig</p></div>",
+        "lat": "47.1729",
+        "lon": "19.7978",
+        "city": "Cegléd",
+        "opening_hours_detailed": "H-P: 8-19-ig, Sz: 8-13-ig"
+    },
+    {
+        "address": "Csongrád, Dob u. 2.",
+        "content": "<img class=\"lozad img image zoom\" width=\"320\" height=\"240\" alt=\"Csongrád, Dob u. 2.\" data-src=\"/pub/media/pharmacies/2024_Csongrad.jpg\" /><br><h4 style=\"text-align: center\">Csongrád</h4><div class=\"text\"><p>Dob u. 2.</p><p><span>Nyitvatartás: </span>H-P: 8-19-ig, Sz: 8-13-ig</p></div>",
+        "lat": "46.7108",
+        "lon": "20.1439",
+        "city": "Csongrád",
+        "opening_hours_detailed": "H-P: 8-19-ig, Sz: 8-13-ig"
+    },
+    {
+        "address": "Debrecen, Hatvan u. 22/C",
+        "content": "<img class=\"lozad img image zoom\" width=\"320\" height=\"240\" alt=\"Debrecen, Hatvan u. 22/C\" data-src=\"/pub/media/pharmacies/2024_DebrecenHatvan.jpg\" /><br><h4 style=\"text-align: center\">Debrecen</h4><div class=\"text\"><p>Hatvan u. 22/C</p><p><span>Nyitvatartás: </span>H-P: 8-19-ig, Sz: 8-13-ig</p></div>",
+        "lat": "47.5309",
+        "lon": "21.6203",
+        "city": "Debrecen",
+        "opening_hours_detailed": "H-P: 8-19-ig, Sz: 8-13-ig"
+    },
+    {
+        "address": "Debrecen, Mester u. 7.",
+        "content": "<img class=\"lozad img image zoom\" width=\"320\" height=\"240\" alt=\"Debrecen, Mester u. 7.\" data-src=\"/pub/media/pharmacies/2024_DebrecenMester.jpg\" /><br><h4 style=\"text-align: center\">Debrecen</h4><div class=\"text\"><p>Mester u. 7.</p><p><span>Nyitvatartás: </span>H-P: 8-19-ig, Sz: 8-13-ig</p></div>",
+        "lat": "47.535",
+        "lon": "21.6204",
+        "city": "Debrecen",
+        "opening_hours_detailed": "H-P: 8-19-ig, Sz: 8-13-ig"
+    },
+    {
+        "address": "Debrecen, Petőfi tér 1.",
+        "content": "<img class=\"lozad img image zoom\" width=\"320\" height=\"240\" alt=\"Debrecen, Petőfi tér 1.\" data-src=\"/pub/media/pharmacies/2024_DebrecenPetofi.jpg\" /><br><h4 style=\"text-align: center\">Debrecen</h4><div class=\"text\"><p>Petőfi tér 1.</p><p><span>Nyitvatartás: </span>H-P: 8-19-ig, Sz: 8-13-ig</p></div>",
+        "lat": "47.5243",
+        "lon": "21.6264",
+        "city": "Debrecen",
+        "opening_hours_detailed": "H-P: 8-19-ig, Sz: 8-13-ig"
+    },
+    {
+        "address": "Derekegyház, Kossuth u. 4/A <br> </br>",
+        "content": "<img class=\"lozad img image zoom\" width=\"320\" height=\"240\" alt=\"Derekegyház, Kossuth u. 4/A <br> </br>\" data-src=\"/pub/media/pharmacies/2024_Derekegyhaz.jpg\" /><br><h4 style=\"text-align: center\">Derekegyház</h4><div class=\"text\"><p>Kossuth u. 4/A <br> </br></p><p><span>Nyitvatartás: </span>H-P: 8-12-ig</p></div>",
+        "lat": "46.5826",
+        "lon": "20.3578",
+        "city": "Derekegyház",
+        "opening_hours_detailed": "H-P: 8-12-ig"
+    },
+    {
+        "address": "Hatvan, Bibó István utca 1.",
+        "content": "<img class=\"lozad img image zoom\" width=\"320\" height=\"240\" alt=\"Hatvan, Bibó István utca 1.\" data-src=\"/pub/media/pharmacies/2025_Hatvan.jpg\" /><br><h4 style=\"text-align: center\">Hatvan</h4><div class=\"text\"><p>Bibó István utca 1.</p><p>Tesco Hipermarket üzletsor</p><p><span>Nyitvatartás: </span>H-Sz: 9-19-ig, V: 10-18-ig</p></div>",
+        "lat": "47.6782",
+        "lon": "19.584",
+        "city": "Hatvan",
+        "opening_hours_detailed": "H-Sz: 9-19-ig, V: 10-18-ig"
+    },
+    {
+        "address": "Hódmezővásárhely, Andrássy út 3. <br> </br>",
+        "content": "<img class=\"lozad img image zoom\" width=\"320\" height=\"240\" alt=\"Hódmezővásárhely, Andrássy út 3. <br> </br>\" data-src=\"/pub/media/pharmacies/2024_HodmezoAndrassy.jpg\" /><br><h4 style=\"text-align: center\">Hódmezővásárhely</h4><div class=\"text\"><p>Andrássy út 3. <br> </br></p><p><span>Nyitvatartás: </span>H-P: 8-19-ig, Sz: 8-13-ig</p></div>",
+        "lat": "46.415",
+        "lon": "20.3189",
+        "city": "Hódmezővásárhely",
+        "opening_hours_detailed": "H-P: 8-19-ig, Sz: 8-13-ig"
+    },
+    {
+        "address": "Hódmezővásárhely, Bajcsy Zs. u. 53.",
+        "content": "<img class=\"lozad img image zoom\" width=\"320\" height=\"240\" alt=\"Hódmezővásárhely, Bajcsy Zs. u. 53.\" data-src=\"/pub/media/pharmacies/2024_HodmezoBajcsy.jpg\" /><br><h4 style=\"text-align: center\">Hódmezővásárhely</h4><div class=\"text\"><p>Bajcsy Zs. u. 53.</p><p><span>Nyitvatartás: </span>H-P: 8-19-ig, Sz: 8-13-ig</p></div>",
+        "lat": "46.4137",
+        "lon": "20.3373",
+        "city": "Hódmezővásárhely",
+        "opening_hours_detailed": "H-P: 8-19-ig, Sz: 8-13-ig"
+    },
+    {
+        "address": "Hódmezővásárhely, Tornyai J. u. 2/a",
+        "content": "<img class=\"lozad img image zoom\" width=\"320\" height=\"240\" alt=\"Hódmezővásárhely, Tornyai J. u. 2/a\" data-src=\"/pub/media/pharmacies/2024_HodmezoTornyai.jpg\" /><br><h4 style=\"text-align: center\">Hódmezővásárhely</h4><div class=\"text\"><p>Tornyai J. u. 2/a</p><p><span>Nyitvatartás: </span>H-P: 8-18:30-ig, Sz: 8-12:30-ig</p></div>",
+        "lat": "46.4208",
+        "lon": "20.3445",
+        "city": "Hódmezővásárhely",
+        "opening_hours_detailed": "H-P: 8-18:30-ig, Sz: 8-12:30-ig"
+    },
+    {
+        "address": "Karcag, Kossuth tér 7-9",
+        "content": "<img class=\"lozad img image zoom\" width=\"320\" height=\"240\" alt=\"Karcag, Kossuth tér 7-9\" data-src=\"/pub/media/pharmacies/2024_Karcag.jpg\" /><br><h4 style=\"text-align: center\">Karcag</h4><div class=\"text\"><p>Kossuth tér 7-9</p><p><span>Nyitvatartás: </span>H-P: 8-20-ig</p></div>",
+        "lat": "47.3183",
+        "lon": "20.9262",
+        "city": "Karcag",
+        "opening_hours_detailed": "H-P: 8-20-ig"
+    },
+    {
+        "address": "Kecskemét, Deák Ferenc tér 6.",
+        "content": "<img class=\"lozad img image zoom\" width=\"320\" height=\"240\" alt=\"Kecskemét, Deák Ferenc tér 6.\" data-src=\"/pub/media/pharmacies/2024_KecskemetDeak.jpg\" /><br><h4 style=\"text-align: center\">Kecskemét</h4><div class=\"text\"><p>Deák Ferenc tér 6.</p><p><span>Nyitvatartás: </span>H-P: 8-19-ig, Sz: 8-13-ig</p></div>",
+        "lat": "46.9058",
+        "lon": "19.6904",
+        "city": "Kecskemét",
+        "opening_hours_detailed": "H-P: 8-19-ig, Sz: 8-13-ig"
+    },
+    {
+        "address": "Kecskemét, Aradi vértanúk tere 1.",
+        "content": "<img class=\"lozad img image zoom\" width=\"320\" height=\"240\" alt=\"Kecskemét, Aradi vértanúk tere 1.\" data-src=\"/pub/media/pharmacies/2024_KecskemetAradi.jpg\" /><br><h4 style=\"text-align: center\">Kecskemét</h4><div class=\"text\"><p>Aradi vértanúk tere 1.</p><p><span>Nyitvatartás: </span>H-P: 8-19-ig, Sz: 8-13-ig</p></div>",
+        "lat": "46.917",
+        "lon": "19.6785",
+        "city": "Kecskemét",
+        "opening_hours_detailed": "H-P: 8-19-ig, Sz: 8-13-ig"
+    },
+    {
+        "address": "Kecskemét, Batthyány u. 37.",
+        "content": "<img class=\"lozad img image zoom\" width=\"320\" height=\"240\" alt=\"Kecskemét, Batthyány u. 37.\" data-src=\"/pub/media/pharmacies/2024_KecskemetBatthyany.jpg\" /><br><h4 style=\"text-align: center\">Kecskemét</h4><div class=\"text\"><p>Batthyány u. 37.</p><p><span>Nyitvatartás: </span>H-P: 8-19-ig, Sz: 8-13-ig</p></div>",
+        "lat": "46.9015",
+        "lon": "19.6897",
+        "city": "Kecskemét",
+        "opening_hours_detailed": "H-P: 8-19-ig, Sz: 8-13-ig"
+    },
+    {
+        "address": "Kiskunfélegyháza, Klapka u. 2.",
+        "content": "<img class=\"lozad img image zoom\" width=\"320\" height=\"240\" alt=\"Kiskunfélegyháza, Klapka u. 2.\" data-src=\"/pub/media/pharmacies/2024_Kiskunfelegyhaza.jpg\" /><br><h4 style=\"text-align: center\">Kiskunfélegyháza</h4><div class=\"text\"><p>Klapka u. 2.</p><p><span>Nyitvatartás: </span>H-P: 8-19-ig, Sz: 8-13-ig</p></div>",
+        "lat": "46.7111",
+        "lon": "19.8523",
+        "city": "Kiskunfélegyháza",
+        "opening_hours_detailed": "H-P: 8-19-ig, Sz: 8-13-ig"
+    },
+    {
+        "address": "Kiskunhalas, Kossuth u. 34-36.",
+        "content": "<img class=\"lozad img image zoom\" width=\"320\" height=\"240\" alt=\"Kiskunhalas, Kossuth u. 34-36.\" data-src=\"/pub/media/pharmacies/2024_Kiskunhalas.jpg\" /><br><h4 style=\"text-align: center\">Kiskunhalas</h4><div class=\"text\"><p>Kossuth u. 34-36.</p><p><span>Nyitvatartás: </span>H-P: 8-19-ig, Sz: 8-13-ig</p></div>",
+        "lat": "46.4322",
+        "lon": "19.4872",
+        "city": "Kiskunhalas",
+        "opening_hours_detailed": "H-P: 8-19-ig, Sz: 8-13-ig"
+    },
+    {
+        "address": "Kisújszállás, Arany János utca 2.",
+        "content": "<img class=\"lozad img image zoom\" width=\"320\" height=\"240\" alt=\"Kisújszállás, Arany János utca 2.\" data-src=\"/pub/media/pharmacies/2024_Kisujszallas.jpg\" /><br><h4 style=\"text-align: center\">Kisújszállás</h4><div class=\"text\"><p>Arany János utca 2.</p><p><span>Nyitvatartás: </span>H-P: 8-19, SZ: 8-12 (páros héten)</p></div>",
+        "lat": "47.2182",
+        "lon": "20.7585",
+        "city": "Kisújszállás",
+        "opening_hours_detailed": "H-P: 8-19, SZ: 8-12 (páros héten)"
+    },
+    {
+        "address": "Makó, Deák Ferenc u. 4.",
+        "content": "<img class=\"lozad img image zoom\" width=\"320\" height=\"240\" alt=\"Makó, Deák Ferenc u. 4.\" data-src=\"/pub/media/pharmacies/2024_MakoDeak.jpg\" /><br><h4 style=\"text-align: center\">Makó</h4><div class=\"text\"><p>Deák Ferenc u. 4.</p><p><span>Nyitvatartás: </span>H-P: 8-19-ig, Sz: 8-13-ig</p></div>",
+        "lat": "46.2162",
+        "lon": "20.4769",
+        "city": "Makó",
+        "opening_hours_detailed": "H-P: 8-19-ig, Sz: 8-13-ig"
+    },
+    {
+        "address": "Makó, Széchenyi tér 25.",
+        "content": "<img class=\"lozad img image zoom\" width=\"320\" height=\"240\" alt=\"Makó, Széchenyi tér 25.\" data-src=\"/pub/media/pharmacies/2024_MakoSzechenyi.jpg\" /><br><h4 style=\"text-align: center\">Makó</h4><div class=\"text\"><p>Széchenyi tér 25.</p><p><span>Nyitvatartás: </span>H-P: 8-19-ig, Sz: 8-13-ig</p></div>",
+        "lat": "46.2149",
+        "lon": "20.4754",
+        "city": "Makó",
+        "opening_hours_detailed": "H-P: 8-19-ig, Sz: 8-13-ig"
+    },
+    {
+        "address": "Nyíregyháza, Búza u. 32.",
+        "content": "<img class=\"lozad img image zoom\" width=\"320\" height=\"240\" alt=\"Nyíregyháza, Búza u. 32.\" data-src=\"/pub/media/pharmacies/2024_Nyiregyhaza.jpg\" /><br><h4 style=\"text-align: center\">Nyíregyháza</h4><div class=\"text\"><p>Búza u. 32.</p><p><span>Nyitvatartás: </span>H-P: 7-18.00, SZ: 7-12:30</p></div>",
+        "lat": "47.9585",
+        "lon": "21.709",
+        "city": "Nyíregyháza",
+        "opening_hours_detailed": "H-P: 7-18.00, SZ: 7-12:30"
+    },
+    {
+        "address": "Orosháza, Győri Vilmos tér 1.",
+        "content": "<img class=\"lozad img image zoom\" width=\"320\" height=\"240\" alt=\"Orosháza, Győri Vilmos tér 1.\" data-src=\"/pub/media/pharmacies/2024_Oroshaza.jpg\" /><br><h4 style=\"text-align: center\">Orosháza</h4><div class=\"text\"><p>Győri Vilmos tér 1.</p><p><span>Nyitvatartás: </span>H-P: 8-19-ig, Sz: 8-13-ig</p></div>",
+        "lat": "46.5593",
+        "lon": "20.6705",
+        "city": "Orosháza",
+        "opening_hours_detailed": "H-P: 8-19-ig, Sz: 8-13-ig"
+    },
+    {
+        "address": "Szarvas, Kossuth u. 21/3",
+        "content": "<img class=\"lozad img image zoom\" width=\"320\" height=\"240\" alt=\"Szarvas, Kossuth u. 21/3\" data-src=\"/pub/media/pharmacies/2024_Szarvas.jpg\" /><br><h4 style=\"text-align: center\">Szarvas</h4><div class=\"text\"><p>Kossuth u. 21/3</p><p><span>Nyitvatartás: </span>H-P: 7.30-18-ig, Sz: 7.30-12-ig</p></div>",
+        "lat": "46.8637",
+        "lon": "20.5483",
+        "city": "Szarvas",
+        "opening_hours_detailed": "H-P: 7.30-18-ig, Sz: 7.30-12-ig"
+    },
+    {
+        "address": "Szeged, Budapesti krt. 38.",
+        "content": "<img class=\"lozad img image zoom\" width=\"320\" height=\"240\" alt=\"Szeged, Budapesti krt. 38.\" data-src=\"/pub/media/pharmacies/2024_SzegedBudapesti.jpg\" /><br><h4 style=\"text-align: center\">Szeged</h4><div class=\"text\"><p>Budapesti krt. 38.</p><p><span>Nyitvatartás: </span>H-P: 7.30-18.30-ig, Sz. 8-13-ig</p></div>",
+        "lat": "46.2723",
+        "lon": "20.16",
+        "city": "Szeged",
+        "opening_hours_detailed": "H-P: 7.30-18.30-ig, Sz. 8-13-ig"
+    },
+    {
+        "address": "Szeged, Csongrádi sgt. 71.",
+        "content": "<img class=\"lozad img image zoom\" width=\"320\" height=\"240\" alt=\"Szeged, Csongrádi sgt. 71.\" data-src=\"/pub/media/pharmacies/2024_SzegedCsongradi.jpg\" /><br><h4 style=\"text-align: center\">Szeged</h4><div class=\"text\"><p>Csongrádi sgt. 71.</p><p><span>Nyitvatartás: </span>H-P: 8-19-ig, Sz: 8-13-ig (csomagkiadás nincs)</p></div>",
+        "lat": "46.2694",
+        "lon": "20.1524",
+        "city": "Szeged",
+        "opening_hours_detailed": "H-P: 8-19-ig, Sz: 8-13-ig (csomagkiadás nincs)"
+    },
+    {
+        "address": "Szeged, Dugonics tér 1.",
+        "content": "<img class=\"lozad img image zoom\" width=\"320\" height=\"240\" alt=\"Szeged, Dugonics tér 1.\" data-src=\"/pub/media/pharmacies/2024_SzegedDugonics.jpg\" /><br><h4 style=\"text-align: center\">Szeged</h4><div class=\"text\"><p>Dugonics tér 1.</p><p><span>Nyitvatartás: </span>H-P: 7.30-19.00-ig, Sz: 8-13-ig</p></div>",
+        "lat": "46.2509",
+        "lon": "20.1465",
+        "city": "Szeged",
+        "opening_hours_detailed": "H-P: 7.30-19.00-ig, Sz: 8-13-ig"
+    },
+    {
+        "address": "Szeged, Kossuth Lajos sugárút 119.",
+        "content": "<img class=\"lozad img image zoom\" width=\"320\" height=\"240\" alt=\"Szeged, Kossuth Lajos sugárút 119.\" data-src=\"/pub/media/pharmacies/2025_Szeged_Plaza.jpg\" /><br><h4 style=\"text-align: center\">Szeged</h4><div class=\"text\"><p>Kossuth Lajos sugárút 119.</p><p><span>Nyitvatartás: </span>H-Sz: 9-19-ig, V: 9-15-ig</p></div>",
+        "lat": "46.247",
+        "lon": "20.146",
+        "city": "Szeged",
+        "opening_hours_detailed": "H-Sz: 9-19-ig, V: 9-15-ig"
+    },
+    {
+        "address": "Szeged, Kálvin tér 2.",
+        "content": "<img class=\"lozad img image zoom\" width=\"320\" height=\"240\" alt=\"Szeged, Kálvin tér 2.\" data-src=\"/pub/media/pharmacies/2024_SzegedKalvinTer.jpg\" /><br><h4 style=\"text-align: center\">Szeged</h4><div class=\"text\"><p>Kálvin tér 2.</p><p><span>Nyitvatartás: </span>H-P: 7.30-20.00-ig, Sz: 8-13-ig</p></div>",
+        "lat": "46.2568",
+        "lon": "20.1499",
+        "city": "Szeged",
+        "opening_hours_detailed": "H-P: 7.30-20.00-ig, Sz: 8-13-ig"
+    },
+    {
+        "address": "Szeged, Kereszttöltés u. 17.",
+        "content": "<img class=\"lozad img image zoom\" width=\"320\" height=\"240\" alt=\"Szeged, Kereszttöltés u. 17.\" data-src=\"/pub/media/pharmacies/2024_SzegedKereszttoltes.jpg\" /><br><h4 style=\"text-align: center\">Szeged</h4><div class=\"text\"><p>Kereszttöltés u. 17.</p><p><span>Nyitvatartás: </span>H-P: 8-19-ig, Sz: 8-13-ig</p></div>",
+        "lat": "46.2642",
+        "lon": "20.1704",
+        "city": "Szeged",
+        "opening_hours_detailed": "H-P: 8-19-ig, Sz: 8-13-ig"
+    },
+    {
+        "address": "Szeged, Nyitra u. 4.",
+        "content": "<img class=\"lozad img image zoom\" width=\"320\" height=\"240\" alt=\"Szeged, Nyitra u. 4.\" data-src=\"/pub/media/pharmacies/2024_SzegedNyitra.jpg\" /><br><h4 style=\"text-align: center\">Szeged</h4><div class=\"text\"><p>Nyitra u. 4.</p><p><span>Nyitvatartás: </span>H-P: 7:30-19, SZ: 8-13-ig</p></div>",
+        "lat": "46.2718",
+        "lon": "20.1401",
+        "city": "Szeged",
+        "opening_hours_detailed": "H-P: 7:30-19, SZ: 8-13-ig"
+    },
+    {
+        "address": "Szeged, Szolgáltató sor 1.",
+        "content": "<img class=\"lozad img image zoom\" width=\"320\" height=\"240\" alt=\"Szeged, Szolgáltató sor 1.\" data-src=\"/pub/media/pharmacies/2024_SzegedSzolgaltatoSor.jpg\" /><br><h4 style=\"text-align: center\">Szeged</h4><div class=\"text\"><p>Szolgáltató sor 1.</p><p><span>Nyitvatartás: </span>H-P: 7.30-18.30-ig, Sz. 8-13-ig</p></div>",
+        "lat": "46.2451",
+        "lon": "20.1591",
+        "city": "Szeged",
+        "opening_hours_detailed": "H-P: 7.30-18.30-ig, Sz. 8-13-ig"
+    },
+    {
+        "address": "Szentes, Nagyörvény u. 59.",
+        "content": "<img class=\"lozad img image zoom\" width=\"320\" height=\"240\" alt=\"Szentes, Nagyörvény u. 59.\" data-src=\"/pub/media/pharmacies/2024_SzentesNagyorveny.jpg\" /><br><h4 style=\"text-align: center\">Szentes</h4><div class=\"text\"><p>Nagyörvény u. 59.</p><p><span>Nyitvatartás: </span>H-P: 7.30-18-ig, Sz: 7.30-12-ig</p></div>",
+        "lat": "46.6465",
+        "lon": "20.2572",
+        "city": "Szentes",
+        "opening_hours_detailed": "H-P: 7.30-18-ig, Sz: 7.30-12-ig"
+    },
+    {
+        "address": "Szentes, Rákóczi u. 12.",
+        "content": "<img class=\"lozad img image zoom\" width=\"320\" height=\"240\" alt=\"Szentes, Rákóczi u. 12.\" data-src=\"/pub/media/pharmacies/2024_SzentesRakoczi.jpg\" /><br><h4 style=\"text-align: center\">Szentes</h4><div class=\"text\"><p>Rákóczi u. 12.</p><p><span>Nyitvatartás: </span>HKSzP: 7.30-18.30-ig, Cs: 7-18.30-ig, Sz: 7.30-12</p></div>",
+        "lat": "46.6574",
+        "lon": "20.2656",
+        "city": "Szentes",
+        "opening_hours_detailed": "HKSzP: 7.30-18.30-ig, Cs: 7-18.30-ig, Sz: 7.30-12"
+    },
+    {
+        "address": "Szolnok, Jászkürt u. 1.",
+        "content": "<img class=\"lozad img image zoom\" width=\"320\" height=\"240\" alt=\"Szolnok, Jászkürt u. 1.\" data-src=\"/pub/media/pharmacies/2024_SzolnokJaszkurt.jpg\" /><br><h4 style=\"text-align: center\">Szolnok</h4><div class=\"text\"><p>Jászkürt u. 1.</p><p><span>Nyitvatartás: </span>H-P: 8-19-ig, Sz: 8-13-ig</p></div>",
+        "lat": "47.1765",
+        "lon": "20.1926",
+        "city": "Szolnok",
+        "opening_hours_detailed": "H-P: 8-19-ig, Sz: 8-13-ig"
+    },
+    {
+        "address": "Szolnok, Jubileum tér 5.",
+        "content": "<img class=\"lozad img image zoom\" width=\"320\" height=\"240\" alt=\"Szolnok, Jubileum tér 5.\" data-src=\"/pub/media/pharmacies/2024_SzolnokJubileum.jpg\" /><br><h4 style=\"text-align: center\">Szolnok</h4><div class=\"text\"><p>Jubileum tér 5.</p><p><span>Nyitvatartás: </span>H-P: 8-19-ig, Sz: 8-13-ig</p></div>",
+        "lat": "47.1789",
+        "lon": "20.1789",
+        "city": "Szolnok",
+        "opening_hours_detailed": "H-P: 8-19-ig, Sz: 8-13-ig"
+    },
+    {
+        "address": "Törökszentmiklós, Kossuth tér 7.",
+        "content": "<img class=\"lozad img image zoom\" width=\"320\" height=\"240\" alt=\"Törökszentmiklós, Kossuth tér 7.\" data-src=\"/pub/media/pharmacies/2024_Torokszentmiklos.jpg\" /><br><h4 style=\"text-align: center\">Törökszentmiklós</h4><div class=\"text\"><p>Kossuth tér 7.</p><p><span>Nyitvatartás: </span>H-P: 8-20-ig</p></div>",
+        "lat": "47.1786",
+        "lon": "20.4121",
+        "city": "Törökszentmiklós",
+        "opening_hours_detailed": "H-P: 8-20-ig"
+    },
+    {
+        "address": "Szeged, Csongrádi sgt. 71. webshop",
+        "content": "<img class=\"lozad img image zoom\" width=\"320\" height=\"240\" alt=\"Szeged, Csongrádi sgt. 71. webshop\" data-src=\"/pub/media/pharmacies/2024_SzegedCsongradi.jpg\" /><br><h4 style=\"text-align: center\">Szeged</h4><div class=\"text\"><p>Csongrádi sgt. 71. webshop</p><p>Webáruházi csomagátvétel</p><p><span>Nyitvatartás: </span>H-P: 8-19-ig</p></div>",
+        "lat": "46.2694",
+        "lon": "20.1524",
+        "city": "Szeged",
+        "opening_hours_detailed": "H-P: 8-19-ig"
+    }
+]

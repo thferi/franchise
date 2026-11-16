@@ -1,0 +1,3299 @@
+[
+    {
+        "patikaid": "1",
+        "poi": {
+            "longitude": "19.2277261",
+            "latitude": "47.4842905",
+            "address": "1173 Budapest, Pesti út 5-7. (S-17 helyiség)",
+            "patika": "Akadémia Kulcs Gyógyszertár (TESCO)",
+            "phone": "+36 1 258 0118",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 08:00-21:00 | Kedd: 08:00-21:00 | Szerda: 08:00-21:00 | Csütörtök: 08:00-21:00 | Péntek: 08:00-21:00 | Szombat: 08:00-20:00 | Vasárnap: 09:00-19:00",
+        "phone_detailed": "+36 1 258 0118"
+    },
+    {
+        "patikaid": "2",
+        "poi": {
+            "longitude": "19.0674328",
+            "latitude": "47.5351019",
+            "address": "1138 Budapest, Váci út 134/b.",
+            "patika": "Árpád Híd Gyógyszertár",
+            "phone": "+36 1 450 0251",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 08:00-20:00 | Kedd: 08:00-20:00 | Szerda: 08:00-20:00 | Csütörtök: 08:00-20:00 | Péntek: 08:00-20:00 | Szombat: 08:00-12:00",
+        "phone_detailed": "+36 1 450 0251"
+    },
+    {
+        "patikaid": "3",
+        "poi": {
+            "longitude": "18.0273794",
+            "latitude": "47.0780632",
+            "address": "8184 Balatonfűzfő-Fűzfőgyártelep, Bugyogóforrás utca 20.",
+            "patika": "Balaton Gyógyszertár",
+            "phone": "+36 88 610 076",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 08:00-18:00 | Kedd: 08:00-18:00 | Szerda: 08:00-18:00 | Csütörtök: 08:00-18:00 | Péntek: 08:00-18:00 | Szombat: 08:00-12:00",
+        "phone_detailed": "+36 88 610 076",
+        "facebook": "https://www.facebook.com/balatonpatika"
+    },
+    {
+        "patikaid": "4",
+        "poi": {
+            "longitude": "19.5023972",
+            "latitude": "47.2593377",
+            "address": "2723 Nyáregyháza, Diófasor út 11.",
+            "patika": "Diófa Gyógyszertár",
+            "phone": "+36 29 490 003",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 08:00-17:00 | Kedd: 08:00-17:00 | Szerda: 08:00-12:00 | Csütörtök: 08:00-17:00 | Péntek: 08:00-17:00",
+        "phone_detailed": "+36 29 490 003"
+    },
+    {
+        "patikaid": "5",
+        "poi": {
+            "longitude": "21.7283581",
+            "latitude": "47.9501418",
+            "address": "4400 Nyíregyháza, Szent István utca 61.",
+            "patika": "Szent Erzsébet Gyógyszertár",
+            "phone": "+36 42 465 401",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 08:00-18:00 | Kedd: 08:00-18:00 | Szerda: 08:00-18:00 | Csütörtök: 08:00-18:00 | Péntek: 08:00-18:00 | Szombat: 08:00-13:00",
+        "phone_detailed": "+36 42 465 401",
+        "facebook": "https://www.facebook.com/szenterzsebetpatika"
+    },
+    {
+        "patikaid": "8",
+        "poi": {
+            "longitude": "17.7878979",
+            "latitude": "46.369116",
+            "address": "7400 Kaposvár, Kisfaludy utca 21.",
+            "patika": "Őrangyal Gyógyszertár",
+            "phone": "+36 82 512-985, +36 30 974 7990",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 07:30-19:00 | Kedd: 07:30-19:00 | Szerda: 07:30-19:00 | Csütörtök: 07:30-19:00 | Péntek: 07:30-19:00 | Szombat: 08:00-12:00",
+        "phone_detailed": "+36 82 512-985, +36 30 974 7990"
+    },
+    {
+        "patikaid": "9",
+        "poi": {
+            "longitude": "18.4607498",
+            "latitude": "47.205351",
+            "address": "8000 Székesfehérvár, Pozsonyi utca 99/a.",
+            "patika": "Öreghegyi Gyógyszertár",
+            "phone": "+36 22 502 900",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 08:00-17:00 | Kedd: 08:00-17:00 | Szerda: 08:00-17:00 | Csütörtök: 08:00-17:00 | Péntek: 08:00-17:00 | Szombat: 09:00-12:00",
+        "phone_detailed": "+36 22 502 900"
+    },
+    {
+        "patikaid": "10",
+        "poi": {
+            "longitude": "19.0406635",
+            "latitude": "47.5375628",
+            "address": "1036 Budapest, Pacsirtamező utca 49.",
+            "patika": "Pacsirta Patika",
+            "phone": "+36 1 388 7144",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 07:30-19:00 | Kedd: 07:30-19:00 | Szerda: 07:30-19:00 | Csütörtök: 07:30-19:00 | Péntek: 07:30-19:00 | Szombat: 08:30-13:00",
+        "phone_detailed": "+36 1 388 7144"
+    },
+    {
+        "patikaid": "11",
+        "poi": {
+            "longitude": "19.192685",
+            "latitude": "47.6174786",
+            "address": "2151 Fót, Szent Benedek utca 15.",
+            "patika": "Pandulia Gyógyszertár",
+            "phone": "+36 27 538 656",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 07:30-19:15 | Kedd: 07:30-19:15 | Szerda: 07:30-19:15 | Csütörtök: 07:30-19:15 | Péntek: 07:30-19:15 | Szombat: 08:00-12:00 | Vasárnap: 08:00-12:00",
+        "phone_detailed": "+36 27 538 656"
+    },
+    {
+        "patikaid": "12",
+        "poi": {
+            "longitude": "20.151237",
+            "latitude": "46.2700267",
+            "address": "6723 Szeged, Ág utca 1.",
+            "patika": "Pelikán Gyógyszertár",
+            "phone": "+36 62 559 570, +36 62 559 571",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 08:00-20:00 | Kedd: 08:00-20:00 | Szerda: 08:00-20:00 | Csütörtök: 08:00-20:00 | Péntek: 08:00-20:00 | Szombat: 08:00-12:00",
+        "phone_detailed": "+36 62 559 570, +36 62 559 571"
+    },
+    {
+        "patikaid": "13",
+        "poi": {
+            "longitude": "19.1888439",
+            "latitude": "47.4065409",
+            "address": "1188 Budapest, Ady Endre utca 86.",
+            "patika": "Pestszentimrei Gizella Gyógyszertár",
+            "phone": "+36 1 297 0133 , +36 1 297 0132 , +36 30 140 8964",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 08:00-20:00 | Kedd: 08:00-20:00 | Szerda: 08:00-20:00 | Csütörtök: 08:00-20:00 | Péntek: 08:00-20:00 | Szombat: 08:00-13:00",
+        "phone_detailed": "+36 1 297 0133 , +36 1 297 0132 , +36 30 140 8964"
+    },
+    {
+        "patikaid": "14",
+        "poi": {
+            "longitude": "19.8499563",
+            "latitude": "46.7215443",
+            "address": "6100 Kiskunfélegyháza, Darvas József tér 2.",
+            "patika": "Petőfi Gyógyszertár",
+            "phone": "",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 08:00-17:00 | Kedd: 08:00-17:00 | Szerda: 08:00-17:00 | Csütörtök: 08:00-17:00 | Péntek: 08:00-17:00 | Szombat: 08:00-11:00",
+        "facebook": "https://www.facebook.com/petofipatika/"
+    },
+    {
+        "patikaid": "16",
+        "poi": {
+            "longitude": "19.114208",
+            "latitude": "47.4658269",
+            "address": "1098 Budapest, Dési Huber utca 20. fsz. 13.",
+            "patika": "Pirula Gyógyszertár",
+            "phone": "+36 1 296 0177, +36 1 296 0178",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 08:00-20:00 | Kedd: 08:00-20:00 | Szerda: 08:00-20:00 | Csütörtök: 08:00-20:00 | Péntek: 08:00-20:00 | Szombat: 08:00-12:00",
+        "phone_detailed": "+36 1 296 0177, +36 1 296 0178"
+    },
+    {
+        "patikaid": "17",
+        "poi": {
+            "longitude": "20.0288202",
+            "latitude": "47.9220081",
+            "address": "3240 Parád, Kossuth Lajos út 128/a.",
+            "patika": "Platán Gyógyszertár",
+            "phone": "+36 36 544 090",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 07:30-16:00 | Kedd: 07:30-16:00 | Szerda: 07:30-16:00 | Csütörtök: 07:30-16:00 | Péntek: 07:00-13:00",
+        "phone_detailed": "+36 36 544 090"
+    },
+    {
+        "patikaid": "18",
+        "poi": {
+            "longitude": "20.3705627",
+            "latitude": "47.9200392",
+            "address": "3300 Eger, Vallon utca 4.",
+            "patika": "Platán Gyógyszertár",
+            "phone": "+36 36 784 172",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 07:30-17:30 | Kedd: 07:30-17:30 | Szerda: 07:30-17:30 | Csütörtök: 07:30-17:30 | Péntek: 07:30-17:30",
+        "phone_detailed": "+36 36 784 172"
+    },
+    {
+        "patikaid": "19",
+        "poi": {
+            "longitude": "19.157985",
+            "latitude": "47.466469",
+            "address": "1103 Budapest, Gyömrői út 99.",
+            "patika": "Príma Gyógyszertár (Szilfa)",
+            "phone": "+36 1 431 7947",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 08:00-20:00 | Kedd: 08:00-20:00 | Szerda: 08:00-20:00 | Csütörtök: 08:00-20:00 | Péntek: 08:00-20:00 | Szombat: 08:00-20:00 | Vasárnap: 08:00-17:00",
+        "phone_detailed": "+36 1 431 7947",
+        "facebook": "https://www.facebook.com/Pr%C3%ADma-Gy%C3%B3gyszert%C3%A1r-X-ker%C3%BClet-100647712659022"
+    },
+    {
+        "patikaid": "20",
+        "poi": {
+            "longitude": "19.4798704",
+            "latitude": "46.4314531",
+            "address": "6400 Kiskunhalas, Eötvös utca 3.",
+            "patika": "Prima Gyógyszertár",
+            "phone": "+36 77 521 610",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 07:30-19:00 | Kedd: 07:30-19:00 | Szerda: 07:30-19:00 | Csütörtök: 07:30-19:00 | Péntek: 07:30-19:00 | Szombat: 07:30-12:00",
+        "phone_detailed": "+36 77 521 610"
+    },
+    {
+        "patikaid": "22",
+        "poi": {
+            "longitude": "19.1591321",
+            "latitude": "47.6217635",
+            "address": "2120 Dunakeszi, Fóti út 77.",
+            "patika": "Ágnes Gyógyszertár",
+            "phone": "+36 27 996 130",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 08:00-19:00 | Kedd: 08:00-19:00 | Szerda: 08:00-19:00 | Csütörtök: 08:00-19:00 | Péntek: 08:00-19:00",
+        "phone_detailed": "+36 27 996 130",
+        "facebook": "https://www.facebook.com/agnesdunakeszi/"
+    },
+    {
+        "patikaid": "23",
+        "poi": {
+            "longitude": "21.1150211",
+            "latitude": "47.3182796",
+            "address": "4150 Püspökladány, Petőfi utca 5.",
+            "patika": "Remény Gyógyszertár",
+            "phone": "+36 54 451 025",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 07:30-18:00 | Kedd: 07:30-18:00 | Szerda: 07:30-18:00 | Csütörtök: 07:30-18:00 | Péntek: 07:30-18:00 | Szombat: 08:00-12:00",
+        "phone_detailed": "+36 54 451 025"
+    },
+    {
+        "patikaid": "24",
+        "poi": {
+            "longitude": "19.1076134",
+            "latitude": "47.4404793",
+            "address": "1203 Budapest, Kossuth Lajos utca 55.",
+            "patika": "Albatros Gyógyszertár",
+            "phone": "+36 1 283 1194",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 07:30-19:00 | Kedd: 08:00-19:00 | Szerda: 07:30-19:00 | Csütörtök: 08:00-19:00 | Péntek: 07:30-19:00 | Szombat: 08:00-13:00",
+        "phone_detailed": "+36 1 283 1194"
+    },
+    {
+        "patikaid": "25",
+        "poi": {
+            "longitude": "19.0648505",
+            "latitude": "47.5317321",
+            "address": "1133 Budapest, Árbóc utca 6.",
+            "patika": "Alfa Gyógyszertár",
+            "phone": "+36 12 880 162",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 07:00-20:00 | Kedd: 07:00-20:00 | Szerda: 07:00-20:00 | Csütörtök: 07:00-20:00 | Péntek: 07:00-20:00 | Szombat: 08:00-12:00",
+        "phone_detailed": "+36 12 880 162",
+        "facebook": "https://www.facebook.com/alfagyogyszertar13/?locale=hu_HU"
+    },
+    {
+        "patikaid": "26",
+        "poi": {
+            "longitude": "18.8615052",
+            "latitude": "46.6246677",
+            "address": "7030 Paks, Dózsa György út 30-32.",
+            "patika": "Belvárosi Gyógyszertár",
+            "phone": "+36 75 510 611 , +36 30 220 0526",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 07:30-18:00 | Kedd: 07:30-18:00 | Szerda: 07:30-18:00 | Csütörtök: 07:30-18:00 | Péntek: 07:30-18:00 | Szombat: 08:00-12:00",
+        "phone_detailed": "+36 75 510 611 , +36 30 220 0526",
+        "facebook": "https://www.facebook.com/belvarosi.patika.paks"
+    },
+    {
+        "patikaid": "28",
+        "poi": {
+            "longitude": "21.0506178",
+            "latitude": "46.4249126",
+            "address": "5746 Kunágota, Rákóczi utca 28/b.",
+            "patika": "Ametiszt Gyógyszertár",
+            "phone": "+36 68 430 025, +36 30 498 2635",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 08:00-16:30 | Kedd: 08:00-16:30 | Szerda: 08:00-16:30 | Csütörtök: 08:00-16:30 | Péntek: 08:00-16:30",
+        "phone_detailed": "+36 68 430 025, +36 30 498 2635"
+    },
+    {
+        "patikaid": "29",
+        "poi": {
+            "longitude": "18.620918",
+            "latitude": "46.884119",
+            "address": "7000 Sárbogárd, Ady Endre út 147.",
+            "patika": "Rézkígyó Gyógyszertár",
+            "phone": "+36 25 508 230",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 08:00-18:00 | Kedd: 08:00-18:00 | Szerda: 08:00-18:00 | Csütörtök: 08:00-18:00 | Péntek: 08:00-18:00 | Szombat: 08:00-12:00",
+        "phone_detailed": "+36 25 508 230"
+    },
+    {
+        "patikaid": "30",
+        "poi": {
+            "longitude": "19.0653842",
+            "latitude": "47.5030844",
+            "address": "1073 Budapest, Erzsébet körút 58.",
+            "patika": "Royal Gyógyszertár",
+            "phone": "+36 1 235 0137",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 08:00-21:00 | Kedd: 08:00-21:00 | Szerda: 08:00-21:00 | Csütörtök: 08:00-21:00 | Péntek: 08:00-21:00 | Szombat: 09:00-21:00 | Vasárnap: 09:00-21:00",
+        "phone_detailed": "+36 1 235 0137"
+    },
+    {
+        "patikaid": "31",
+        "poi": {
+            "longitude": "19.0723309",
+            "latitude": "47.510861",
+            "address": "1062 Budapest, Andrássy út 99.",
+            "patika": "Andrássy Gyógyszertár",
+            "phone": "+36 1 342 8382",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 08:00-19:00 | Kedd: 08:00-19:00 | Szerda: 08:00-19:00 | Csütörtök: 08:00-19:00 | Péntek: 08:00-19:00 | Szombat: 08:00-13:00",
+        "phone_detailed": "+36 1 342 8382",
+        "facebook": "https://www.facebook.com/andrassygyogyszertar"
+    },
+    {
+        "patikaid": "32",
+        "poi": {
+            "longitude": "22.3180879",
+            "latitude": "47.9540942",
+            "address": "4700 Mátészalka, Eötvös utca 1.",
+            "patika": "Salvare Gyógyszertár",
+            "phone": "+36 44 314 946",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 07:30-20:00 | Kedd: 07:30-20:00 | Szerda: 07:30-20:00 | Csütörtök: 07:30-20:00 | Péntek: 07:30-20:00 | Szombat: 08:00-13:00",
+        "phone_detailed": "+36 44 314 946"
+    },
+    {
+        "patikaid": "33",
+        "poi": {
+            "longitude": "21.7540593",
+            "latitude": "47.6001938",
+            "address": "4251 Hajdúsámson, Petőfi utca 6.",
+            "patika": "Sámson Gyógyszertár",
+            "phone": "+36 52 590 020",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 08:00-17:00 | Kedd: 08:00-17:00 | Szerda: 08:00-17:00 | Csütörtök: 08:00-17:00 | Péntek: 08:00-17:00",
+        "phone_detailed": "+36 52 590 020"
+    },
+    {
+        "patikaid": "34",
+        "poi": {
+            "longitude": "18.9853509",
+            "latitude": "46.5253701",
+            "address": "6300 Kalocsa, Széchenyi út 8.",
+            "patika": "Arany Kígyó Gyógyszertár",
+            "phone": "+36 78 465 200",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 08:00-18:00 | Kedd: 08:00-18:00 | Szerda: 08:00-18:00 | Csütörtök: 08:00-18:00 | Péntek: 08:00-18:00 | Szombat: 08:00-12:00",
+        "phone_detailed": "+36 78 465 200",
+        "facebook": "https://www.facebook.com/aranykigyokalocsa/"
+    },
+    {
+        "patikaid": "35",
+        "poi": {
+            "longitude": "19.3380602",
+            "latitude": "47.6105081",
+            "address": "2100 Gödöllő, Thegze Lajos utca 2.",
+            "patika": "Sanitas Gyógyszertár",
+            "phone": "+36305793342",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 08:00-20:00 | Kedd: 08:00-20:00 | Szerda: 08:00-20:00 | Csütörtök: 08:00-20:00 | Péntek: 08:00-20:00 | Szombat: 08:00-20:00 | Vasárnap: 10:00-18:00",
+        "phone_detailed": "+36305793342"
+    },
+    {
+        "patikaid": "36",
+        "poi": {
+            "longitude": "19.8737901",
+            "latitude": "47.3313538",
+            "address": "2766 Tápiószele, Kossuth Lajos utca 8.",
+            "patika": "Segítő Mária Gyógyszertár",
+            "phone": "+36 53 380 024",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 07:30-16:30 | Kedd: 07:30-16:30 | Szerda: 07:30-16:30 | Csütörtök: 07:30-16:30 | Péntek: 07:30-16:30 | Szombat: 08:00-12:00",
+        "phone_detailed": "+36 53 380 024"
+    },
+    {
+        "patikaid": "37",
+        "poi": {
+            "longitude": "19.0891222",
+            "latitude": "47.5365017",
+            "address": "1131 Budapest, Reitter Ferenc utca 99.",
+            "patika": "Arany Korona Gyógyszertár",
+            "phone": "+36 1 787 2073",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 08:00-19:00 | Kedd: 08:00-19:00 | Szerda: 08:00-19:00 | Csütörtök: 08:00-19:00 | Péntek: 08:00-19:00",
+        "phone_detailed": "+36 1 787 2073"
+    },
+    {
+        "patikaid": "38",
+        "poi": {
+            "longitude": "19.1189092",
+            "latitude": "47.4683477",
+            "address": "1107 Budapest, Üllői út 130.",
+            "patika": "Semmelweis Gyógyszertár",
+            "phone": "+36 1 263 2216",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 08:00-20:00 | Kedd: 08:00-20:00 | Szerda: 08:00-20:00 | Csütörtök: 08:00-20:00 | Péntek: 08:00-20:00 | Szombat: 08:00-13:00",
+        "phone_detailed": "+36 1 263 2216",
+        "facebook": "https://www.facebook.com/semmelweisgyogyszertar.hu"
+    },
+    {
+        "patikaid": "39",
+        "poi": {
+            "longitude": "21.633158",
+            "latitude": "47.5345967",
+            "address": "4029 Debrecen, Csapó utca 66.",
+            "patika": "Arany Oroszlán Gyógyszertár",
+            "phone": "+36 52 425 426",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 07:30-20:00 | Kedd: 07:30-20:00 | Szerda: 07:30-20:00 | Csütörtök: 07:30-20:00 | Péntek: 07:30-20:00 | Szombat: 07:30-20:00",
+        "phone_detailed": "+36 52 425 426",
+        "facebook": "https://www.facebook.com/people/Arany-Oroszl%C3%A1n-Gy%C3%B3gyszert%C3%A1r-Debrecen/100085223150250/"
+    },
+    {
+        "patikaid": "40",
+        "poi": {
+            "longitude": "20.0389276",
+            "latitude": "46.1893943",
+            "address": "6758 Röszke, Fő utca 83.",
+            "patika": "Simplex Gyógyszertár",
+            "phone": "+36 62 273 310",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 07:30-16:30 | Kedd: 07:30-16:30 | Szerda: 07:30-16:30 | Csütörtök: 07:30-16:30 | Péntek: 07:30-16:30",
+        "phone_detailed": "+36 62 273 310"
+    },
+    {
+        "patikaid": "41",
+        "poi": {
+            "longitude": "19.1969292",
+            "latitude": "47.6068669",
+            "address": "2151 Fót, Vörösmarty Mihály tér 4.",
+            "patika": "Somlyó Gyógyszertár",
+            "phone": "+36 27 538 955",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 08:00-18:00 | Kedd: 08:00-18:00 | Szerda: 08:00-18:00 | Csütörtök: 08:00-18:00 | Péntek: 08:00-18:00",
+        "phone_detailed": "+36 27 538 955"
+    },
+    {
+        "patikaid": "42",
+        "poi": {
+            "longitude": "18.4078319",
+            "latitude": "47.1683981",
+            "address": "8000 Székesfehérvár, Batthyány utca 12.",
+            "patika": "Sóstó Gyógyszertár",
+            "phone": "+36 22 311 505",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 08:00-16:00 | Kedd: 08:00-16:00 | Szerda: 08:00-16:00 | Csütörtök: 08:00-16:00 | Péntek: 08:00-16:00",
+        "phone_detailed": "+36 22 311 505"
+    },
+    {
+        "patikaid": "43",
+        "poi": {
+            "longitude": "19.6845842",
+            "latitude": "46.9039932",
+            "address": "6000 Kecskemét, Vágó utca 2.",
+            "patika": "Szalagházi Írisz Gyógyszertár",
+            "phone": "+36 76 482 114",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 08:00-18:00 | Kedd: 08:00-18:00 | Szerda: 08:00-18:00 | Csütörtök: 08:00-18:00 | Péntek: 08:00-18:00 | Szombat: 08:00-12:00",
+        "phone_detailed": "+36 76 482 114"
+    },
+    {
+        "patikaid": "44",
+        "poi": {
+            "longitude": "16.5877022",
+            "latitude": "47.6807694",
+            "address": "9400 Sopron, Deák tér 35.",
+            "patika": "Szebellédy Gyógyszertár",
+            "phone": "+36 99 524 891",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 07:30-18:30 | Kedd: 07:30-18:30 | Szerda: 07:30-18:30 | Csütörtök: 07:30-18:30 | Péntek: 07:30-18:30 | Szombat: 07:30-13:00",
+        "phone_detailed": "+36 99 524 891",
+        "facebook": "https://www.facebook.com/profile.php?id=100042715225063&amp;locale=hu_HU"
+    },
+    {
+        "patikaid": "45",
+        "poi": {
+            "longitude": "19.1000742",
+            "latitude": "47.5574039",
+            "address": "1042 Budapest, Rózsa utca 16-18.",
+            "patika": "Szent Borbála Gyógyszertár",
+            "phone": "+36 1 369 4460",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 08:00-20:00 | Kedd: 08:00-20:00 | Szerda: 08:00-20:00 | Csütörtök: 08:00-20:00 | Péntek: 08:00-20:00 | Szombat: 08:00-13:00 | Vasárnap: 08:00-12:00",
+        "phone_detailed": "+36 1 369 4460"
+    },
+    {
+        "patikaid": "46",
+        "poi": {
+            "longitude": "18.9493728",
+            "latitude": "47.4085858",
+            "address": "2049 Diósd, Szent István tér 7.",
+            "patika": "Szent Gellért Gyógyszertár",
+            "phone": "+36 23 381 633",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 08:00-18:30 | Kedd: 08:00-18:30 | Szerda: 08:00-18:30 | Csütörtök: 08:00-18:30 | Péntek: 08:00-18:30 | Szombat: 08:00-12:00",
+        "phone_detailed": "+36 23 381 633"
+    },
+    {
+        "patikaid": "47",
+        "poi": {
+            "longitude": "19.2925522",
+            "latitude": "47.4698779",
+            "address": "1171 Budapest, Pesti út 368.",
+            "patika": "Szent György Gyógyszertár",
+            "phone": "+36 1 721 0916",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 08:00-20:00 | Kedd: 08:00-20:00 | Szerda: 08:00-20:00 | Csütörtök: 08:00-20:00 | Péntek: 08:00-20:00 | Szombat: 08:00-13:00",
+        "phone_detailed": "+36 1 721 0916"
+    },
+    {
+        "patikaid": "48",
+        "poi": {
+            "longitude": "18.9260234",
+            "latitude": "47.379045",
+            "address": "2030 Érd, Budai út 13.",
+            "patika": "Szent György Gyógyszertár",
+            "phone": "+36 23 523 485",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 07:30-19:30 | Kedd: 07:30-19:30 | Szerda: 07:30-19:30 | Csütörtök: 07:30-19:30 | Péntek: 07:30-19:30 | Szombat: 08:00-15:30",
+        "phone_detailed": "+36 23 523 485",
+        "facebook": "https://www.facebook.com/erdipatika/?epa=SEARCH_BOX"
+    },
+    {
+        "patikaid": "49",
+        "poi": {
+            "longitude": "20.1385228",
+            "latitude": "46.2473807",
+            "address": "6722 Szeged, Petőfi Sándor sugárút 41/b.",
+            "patika": "Arany Oroszlán Gyógyszertár",
+            "phone": "+36 62 420 924",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 07:30-18:00 | Kedd: 07:30-18:00 | Szerda: 07:30-18:00 | Csütörtök: 07:30-18:00 | Péntek: 07:30-18:00 | Szombat: 08:00-12:00",
+        "phone_detailed": "+36 62 420 924",
+        "facebook": "https://www.facebook.com/aranyoroszlanpatika"
+    },
+    {
+        "patikaid": "50",
+        "poi": {
+            "longitude": "18.139926",
+            "latitude": "47.1999814",
+            "address": "8100 Várpalota, Szabadság tér 4.",
+            "patika": "Szent György Gyógyszertár",
+            "phone": "+36 88 582 690, +36 88 582 790",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 07:30-18:30 | Kedd: 07:30-18:30 | Szerda: 07:30-18:30 | Csütörtök: 07:30-18:30 | Péntek: 07:30-18:30 | Szombat: 08:00-12:00",
+        "phone_detailed": "+36 88 582 690, +36 88 582 790"
+    },
+    {
+        "patikaid": "51",
+        "poi": {
+            "longitude": "19.4898581",
+            "latitude": "46.2815233",
+            "address": "6421 Kisszállás, Fő utca 42.",
+            "patika": "Aranykehely Fiókgyógyszertár",
+            "phone": "06 70 450 4052",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 08:00-16:00 | Kedd: 08:00-17:00 | Szerda: 08:00-16:30 | Csütörtök: 08:00-16:00 | Péntek: 08:00-16:00",
+        "phone_detailed": "06 70 450 4052"
+    },
+    {
+        "patikaid": "52",
+        "poi": {
+            "longitude": "18.9888813",
+            "latitude": "46.1071805",
+            "address": "6521 Vaskút, Kossuth Lajos utca 93.",
+            "patika": "Szent György Gyógyszertár",
+            "phone": "+36 79 472 247",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 08:00-17:00 | Kedd: 08:00-17:00 | Szerda: 08:00-17:00 | Csütörtök: 08:00-17:00 | Péntek: 08:00-16:30",
+        "phone_detailed": "+36 79 472 247"
+    },
+    {
+        "patikaid": "53",
+        "poi": {
+            "longitude": "20.062674",
+            "latitude": "46.2755684",
+            "address": "6791 Szeged-Kiskundorozsma, Negyvennyolcas utca 10.",
+            "patika": "Szent István Gyógyszertár",
+            "phone": "",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 07:00-19:00 | Kedd: 07:00-19:00 | Szerda: 07:00-19:00 | Csütörtök: 07:00-19:00 | Péntek: 07:00-19:00"
+    },
+    {
+        "patikaid": "54",
+        "poi": {
+            "longitude": "21.2724745",
+            "latitude": "46.643005",
+            "address": "5700 Gyula, Vásárhelyi Pál utca 4.",
+            "patika": "Aranykereszt Gyógyszertár",
+            "phone": "+36 66 463 021",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 07:30-18:00 | Kedd: 07:30-18:00 | Szerda: 07:30-18:00 | Csütörtök: 07:30-18:00 | Péntek: 07:30-18:00 | Szombat: 07:00-12:00",
+        "phone_detailed": "+36 66 463 021"
+    },
+    {
+        "patikaid": "55",
+        "poi": {
+            "longitude": "19.4779229",
+            "latitude": "46.9370236",
+            "address": "6041 Kerekegyháza, Szent István tér 15.",
+            "patika": "Szent István Gyógyszertár",
+            "phone": "+36 76 371 202",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 08:00-18:00 | Kedd: 08:00-18:00 | Szerda: 08:00-18:00 | Csütörtök: 08:00-18:00 | Péntek: 08:00-18:00 | Szombat: 08:00-12:00 | Vasárnap: 08:00-12:00",
+        "phone_detailed": "+36 76 371 202"
+    },
+    {
+        "patikaid": "56",
+        "poi": {
+            "longitude": "20.0734819",
+            "latitude": "47.296257",
+            "address": "5052 Újszász, Kossuth L. u. 41.",
+            "patika": "Szent István Király Gyógyszertár",
+            "phone": "+36 56 655 941",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 08:00-18:00 | Kedd: 08:00-18:00 | Szerda: 08:00-18:00 | Csütörtök: 08:00-18:00 | Péntek: 08:00-18:00 | Szombat: 08:00-12:00",
+        "phone_detailed": "+36 56 655 941",
+        "facebook": "https://www.facebook.com/people/Szent-Istv%C3%A1n-Kir%C3%A1ly-Gy%C3%B3gyszert%C3%A1r-%C3%9Ajsz%C3%A1sz/100057240258541/"
+    },
+    {
+        "patikaid": "58",
+        "poi": {
+            "longitude": "19.7370768",
+            "latitude": "46.4923286",
+            "address": "6120 Kiskunmajsa, Hősök tere 3.",
+            "patika": "Balzsam Patika Gyógyszertár",
+            "phone": "+36 77 481 342",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 07:30-19:00 | Kedd: 07:30-19:00 | Szerda: 07:30-19:00 | Csütörtök: 07:30-19:00 | Péntek: 07:30-19:00 | Szombat: 08:00-12:00",
+        "phone_detailed": "+36 77 481 342"
+    },
+    {
+        "patikaid": "59",
+        "poi": {
+            "longitude": "19.6892672",
+            "latitude": "46.9141164",
+            "address": "6000 Kecskemét, Jókai utca 27.",
+            "patika": "Szent István Király Gyógyszertár",
+            "phone": "+36 76 486 689",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 08:00-19:00 | Kedd: 08:00-19:00 | Szerda: 08:00-19:00 | Csütörtök: 08:00-19:00 | Péntek: 08:00-19:00 | Szombat: 08:00-13:00",
+        "phone_detailed": "+36 76 486 689"
+    },
+    {
+        "patikaid": "60",
+        "poi": {
+            "longitude": "19.0520097",
+            "latitude": "47.5186464",
+            "address": "1137 Budapest, Szent István park 26.",
+            "patika": "Szent István Park Gyógyszertár",
+            "phone": "+36 1 238 0075",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 08:00-19:00 | Kedd: 08:00-19:00 | Szerda: 08:00-19:00 | Csütörtök: 08:00-19:00 | Péntek: 08:00-19:00 | Szombat: 08:00-13:00",
+        "phone_detailed": "+36 1 238 0075",
+        "facebook": "https://www.facebook.com/profile.php?id=100076223680264"
+    },
+    {
+        "patikaid": "62",
+        "poi": {
+            "longitude": "19.2781238",
+            "latitude": "47.213285",
+            "address": "2371 Dabas-Sári, Szent János út 154.",
+            "patika": "Szent János Gyógyszertár",
+            "phone": "+36 29 364 324",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 08:00-17:00 | Kedd: 08:00-17:00 | Szerda: 08:00-17:00 | Csütörtök: 08:00-17:00 | Péntek: 08:00-17:00",
+        "phone_detailed": "+36 29 364 324",
+        "facebook": "https://www.facebook.com/szentjanos.gyogyszertardabassari?locale=hu_HU"
+    },
+    {
+        "patikaid": "63",
+        "poi": {
+            "longitude": "19.9297399",
+            "latitude": "47.1189865",
+            "address": "2747 Törtel, Szent István út 7/a.",
+            "patika": "Szent Margit Gyógyszertár",
+            "phone": "+36 53 376 295",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 07:30-17:00 | Kedd: 07:30-17:00 | Szerda: 07:30-17:00 | Csütörtök: 07:30-17:00 | Péntek: 07:30-17:00",
+        "phone_detailed": "+36 53 376 295"
+    },
+    {
+        "patikaid": "64",
+        "poi": {
+            "longitude": "18.1409119",
+            "latitude": "47.2010039",
+            "address": "8100 Várpalota, Szent István utca 2.",
+            "patika": "Belvárosi Gyógyszertár (Skála)",
+            "phone": "+36 88 371 314",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 07:30-18:30 | Kedd: 07:30-18:30 | Szerda: 07:30-18:30 | Csütörtök: 07:30-18:30 | Péntek: 07:30-18:30 | Szombat: 08:00-12:00",
+        "phone_detailed": "+36 88 371 314",
+        "facebook": "https://www.facebook.com/varpalotaBelvarosiGyogyszertar"
+    },
+    {
+        "patikaid": "65",
+        "poi": {
+            "longitude": "19.981479",
+            "latitude": "47.642468",
+            "address": "5123 Jászárokszállás, Rákóczi Ferenc utca 9.",
+            "patika": "Szent Margit Gyógyszertár",
+            "phone": "+36 57 531 010, ",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 07:30-18:30 | Kedd: 07:30-18:30 | Szerda: 07:30-18:30 | Csütörtök: 07:30-18:30 | Péntek: 07:30-18:30",
+        "phone_detailed": "+36 57 531 010,"
+    },
+    {
+        "patikaid": "66",
+        "poi": {
+            "longitude": "18.2313083",
+            "latitude": "46.0736439",
+            "address": "7621 Pécs, Rákóczi út 49.",
+            "patika": "Belvárosi Gyógyszertár",
+            "phone": "+36 72 216 165",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 07:30-18:00 | Kedd: 07:30-18:00 | Szerda: 07:30-18:00 | Csütörtök: 07:30-18:00 | Péntek: 07:30-18:00 | Szombat: 08:00-12:00",
+        "phone_detailed": "+36 72 216 165"
+    },
+    {
+        "patikaid": "67",
+        "poi": {
+            "longitude": "20.0376392",
+            "latitude": "47.5592626",
+            "address": "5122 Jászdózsa, Széchenyi út 16.",
+            "patika": "Szent Margit Fiókgyógyszertár",
+            "phone": "+36 57 536 010",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_zarva_style\">ZÁRVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_zarva_style\">CLOSED</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 13:00-16:00 | Kedd: 09:00-12:00 | Szerda: 13:00-16:00 | Csütörtök: 13:00-16:00 | Péntek: 13:00-16:00",
+        "phone_detailed": "+36 57 536 010"
+    },
+    {
+        "patikaid": "68",
+        "poi": {
+            "longitude": "17.7307463",
+            "latitude": "47.116057",
+            "address": "8444 Szentgál, Fő utca 5.",
+            "patika": "Szentgáli Gyógyszertár",
+            "phone": "+36 88 871 401",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 08:00-17:00 | Kedd: 08:00-17:00 | Szerda: 08:00-17:00 | Csütörtök: 08:00-17:00 | Péntek: 08:00-17:00",
+        "phone_detailed": "+36 88 871 401"
+    },
+    {
+        "patikaid": "69",
+        "poi": {
+            "longitude": "18.3771739",
+            "latitude": "46.2736745",
+            "address": "7349 Szászvár, Május 1. tér 3.",
+            "patika": "Szentháromság Gyógyszertár",
+            "phone": "+36 72 389 060",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 08:00-17:00 | Kedd: 08:00-17:00 | Szerda: 08:00-17:00 | Csütörtök: 08:00-17:00 | Péntek: 08:00-16:00 | Szombat: 08:00-11:00",
+        "phone_detailed": "+36 72 389 060"
+    },
+    {
+        "patikaid": "70",
+        "poi": {
+            "longitude": "17.2690197",
+            "latitude": "47.8761939",
+            "address": "9200 Mosonmagyaróvár, Honvéd utca 9.",
+            "patika": "Belvárosi Gyógyszertár",
+            "phone": "+36 96 208 115",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 08:00-19:00 | Kedd: 08:00-19:00 | Szerda: 08:00-19:00 | Csütörtök: 08:00-19:00 | Péntek: 08:00-19:00 | Szombat: 08:00-19:00 | Vasárnap: 08:00-19:00",
+        "phone_detailed": "+36 96 208 115"
+    },
+    {
+        "patikaid": "71",
+        "poi": {
+            "longitude": "20.9243902",
+            "latitude": "47.3159723",
+            "address": "5300 Karcag, Kiss Antal utca 3.",
+            "patika": "Berek Gyógyszertár",
+            "phone": "+36 59 312 448",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 07:30-18:00 | Kedd: 07:30-18:00 | Szerda: 07:30-18:00 | Csütörtök: 07:30-18:00 | Péntek: 07:30-18:00",
+        "phone_detailed": "+36 59 312 448"
+    },
+    {
+        "patikaid": "72",
+        "poi": {
+            "longitude": "21.5432502",
+            "latitude": "47.2251031",
+            "address": "4100 Berettyóújfalu, Orbán Balázs tér 5.",
+            "patika": "Berettyó Gyógyszertár",
+            "phone": "+36 54 500 201",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 08:00-18:00 | Kedd: 08:00-18:00 | Szerda: 08:00-18:00 | Csütörtök: 08:00-18:00 | Péntek: 08:00-18:00 | Szombat: 08:00-12:00",
+        "phone_detailed": "+36 54 500 201",
+        "facebook": "https://www.facebook.com/profile.php?id=100057520026662"
+    },
+    {
+        "patikaid": "73",
+        "poi": {
+            "longitude": "19.7356792",
+            "latitude": "47.411696",
+            "address": "2760 Nagykáta, Dózsa György út 27.",
+            "patika": "Bonsu Gyógyszertár",
+            "phone": "+36 29 443 214",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 08:00-16:00 | Kedd: 08:00-16:00 | Szerda: 08:00-16:00 | Csütörtök: 08:00-16:00 | Péntek: 08:00-16:00 | Szombat: 08:00-12:00",
+        "phone_detailed": "+36 29 443 214",
+        "facebook": "https://www.facebook.com/profile.php?id=100089498717465"
+    },
+    {
+        "patikaid": "74",
+        "poi": {
+            "longitude": "17.788964",
+            "latitude": "46.0534156",
+            "address": "7900 Szigetvár, Szent István lakótelep 5.",
+            "patika": "Boróka Gyógyszertár",
+            "phone": "+36 73 510 027",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 08:00-18:00 | Kedd: 08:00-18:00 | Szerda: 08:00-18:00 | Csütörtök: 08:00-18:00 | Péntek: 08:00-18:00 | Szombat: 08:00-12:00",
+        "phone_detailed": "+36 73 510 027",
+        "facebook": "https://www.facebook.com/szigetvariboroka/"
+    },
+    {
+        "patikaid": "75",
+        "poi": {
+            "longitude": "19.016539",
+            "latitude": "47.4679764",
+            "address": "1118 Budapest, Bozókvár utca 6.",
+            "patika": "Bozókvár Gyógyszertár",
+            "phone": "+36 1 319 7266",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 08:00-20:00 | Kedd: 08:00-20:00 | Szerda: 08:00-20:00 | Csütörtök: 08:00-20:00 | Péntek: 08:00-20:00 | Szombat: 08:00-13:00",
+        "phone_detailed": "+36 1 319 7266"
+    },
+    {
+        "patikaid": "76",
+        "poi": {
+            "longitude": "20.2441513",
+            "latitude": "46.2180263",
+            "address": "6772 Deszk, Széchenyi István utca 29.",
+            "patika": "Cédrus Gyógyszertár",
+            "phone": "+36 62 271 178",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 08:00-17:00 | Kedd: 08:00-17:00 | Szerda: 08:00-17:00 | Csütörtök: 08:00-17:00 | Péntek: 08:00-17:00 | Szombat: 09:00-12:00",
+        "phone_detailed": "+36 62 271 178"
+    },
+    {
+        "patikaid": "77",
+        "poi": {
+            "longitude": "21.2641861",
+            "latitude": "46.6503635",
+            "address": "5700 Gyula, Nürnbergi utca 1/b.",
+            "patika": "Coronella Gyógyszertár",
+            "phone": "+36 66 561 700",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 08:00-18:00 | Kedd: 08:00-18:00 | Szerda: 08:00-18:00 | Csütörtök: 08:00-18:00 | Péntek: 08:00-18:00 | Szombat: 08:00-12:00",
+        "phone_detailed": "+36 66 561 700"
+    },
+    {
+        "patikaid": "78",
+        "poi": {
+            "longitude": "19.0601573",
+            "latitude": "47.4851604",
+            "address": "1093 Budapest, Közraktár utca 2/a.",
+            "patika": "Corvinus Gyógyszertár",
+            "phone": "+36 1 215 0240",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 07:30-19:00 | Kedd: 07:30-19:00 | Szerda: 07:30-19:00 | Csütörtök: 07:30-19:00 | Péntek: 07:30-19:00 | Szombat: 09:00-14:00",
+        "phone_detailed": "+36 1 215 0240",
+        "facebook": "https://www.facebook.com/corvinuspatika/",
+        "email": "webshop.corvinuspatika@gmail.com"
+    },
+    {
+        "patikaid": "79",
+        "poi": {
+            "longitude": "19.1430517",
+            "latitude": "47.5110503",
+            "address": "1141 Budapest, Csertő park 3/a.",
+            "patika": "Csertő Gyógyszertár",
+            "phone": "+36 1 383 1302",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 08:00-19:00 | Kedd: 08:00-19:00 | Szerda: 08:00-19:00 | Csütörtök: 08:00-19:00 | Péntek: 08:00-19:00 | Szombat: 08:00-13:00",
+        "phone_detailed": "+36 1 383 1302"
+    },
+    {
+        "patikaid": "81",
+        "poi": {
+            "longitude": "20.1879306",
+            "latitude": "46.2373871",
+            "address": "6726 Szeged, Fülemüle utca 26.",
+            "patika": "Csongor Gyógyszertár",
+            "phone": "+36 62 438 320",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 08:00-19:00 | Kedd: 08:00-19:00 | Szerda: 08:00-19:00 | Csütörtök: 08:00-19:00 | Péntek: 08:00-19:00 | Szombat: 08:00-13:00",
+        "phone_detailed": "+36 62 438 320",
+        "facebook": "https://www.facebook.com/csongorpatika/"
+    },
+    {
+        "patikaid": "82",
+        "poi": {
+            "longitude": "20.9613473",
+            "latitude": "47.0273744",
+            "address": "5510 Dévaványa, Hősök tere 3.",
+            "patika": "Déva Gyógyszertár",
+            "phone": "+36 66 483 024",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 08:00-17:00 | Kedd: 08:00-17:00 | Szerda: 08:00-17:00 | Csütörtök: 08:00-17:00 | Péntek: 08:00-17:00 | Szombat: 08:30-11:30",
+        "phone_detailed": "+36 66 483 024",
+        "facebook": "https://www.facebook.com/DevaGyogyszertar"
+    },
+    {
+        "patikaid": "83",
+        "poi": {
+            "longitude": "19.122924",
+            "latitude": "47.54184",
+            "address": "1152 Budapest, Szent Korona útja 25/b.",
+            "patika": "Diana Gyógyszertár",
+            "phone": "+36 1 418 2614",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 08:00-19:00 | Kedd: 08:00-19:00 | Szerda: 08:00-19:00 | Csütörtök: 08:00-19:00 | Péntek: 08:00-19:00 | Szombat: 08:00-12:00",
+        "phone_detailed": "+36 1 418 2614",
+        "facebook": "https://www.facebook.com/profile.php?id=100076196657224"
+    },
+    {
+        "patikaid": "84",
+        "poi": {
+            "longitude": "18.0136139",
+            "latitude": "47.0320553",
+            "address": "8220 Balatonalmádi, Park u. 12.",
+            "patika": "György Gyógyszertár",
+            "phone": "+36 88 593 970",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 07:30-18:00 | Kedd: 07:30-18:00 | Szerda: 07:30-18:00 | Csütörtök: 07:30-18:00 | Péntek: 07:30-18:00 | Szombat: 08:00-13:00",
+        "phone_detailed": "+36 88 593 970",
+        "facebook": "https://www.facebook.com/gy.patika/"
+    },
+    {
+        "patikaid": "85",
+        "poi": {
+            "longitude": "19.035067",
+            "latitude": "47.822444",
+            "address": "2621 Verőce, Rákóczi utca 3.",
+            "patika": "Dunakanyar Gyógyszertár",
+            "phone": "+36 27 581 095",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 08:00-17:00 | Kedd: 08:00-17:00 | Szerda: 08:00-17:00 | Csütörtök: 08:00-17:00 | Péntek: 08:00-17:00 | Szombat: 08:00-12:00",
+        "phone_detailed": "+36 27 581 095",
+        "facebook": "https://www.facebook.com/dunakanyargyogyszertar"
+    },
+    {
+        "patikaid": "86",
+        "poi": {
+            "longitude": "17.9078988",
+            "latitude": "47.0876426",
+            "address": "8200 Veszprém, Egyetem utca 9.",
+            "patika": "Egyetem Gyógyszertár",
+            "phone": "+36 88 783 504",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 08:00-18:00 | Kedd: 08:00-18:00 | Szerda: 08:00-18:00 | Csütörtök: 08:00-18:00 | Péntek: 08:00-18:00",
+        "phone_detailed": "+36 88 783 504",
+        "facebook": "http://www.facebook.com/egyetemgyogyszertar%20"
+    },
+    {
+        "patikaid": "88",
+        "poi": {
+            "longitude": "19.071302",
+            "latitude": "47.492162",
+            "address": "1085 Budapest, József körút 34.",
+            "patika": "Európa Gyógyszertár",
+            "phone": "+36 1 219 0771",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 08:00-18:00 | Kedd: 08:00-18:00 | Szerda: 08:00-18:00 | Csütörtök: 08:00-18:00 | Péntek: 08:00-18:00 | Szombat: 08:00-12:00",
+        "phone_detailed": "+36 1 219 0771"
+    },
+    {
+        "patikaid": "89",
+        "poi": {
+            "longitude": "19.0499576",
+            "latitude": "47.596818",
+            "address": "1039 Budapest, Pablo Neruda utca 1-2.",
+            "patika": "Ezüsthegy Gyógyszertár",
+            "phone": "+36 20 488 2590, +36 1 243 0538",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 08:00-19:00 | Kedd: 08:00-19:00 | Szerda: 08:00-19:00 | Csütörtök: 08:00-19:00 | Péntek: 08:00-19:00 | Szombat: 08:00-13:00",
+        "phone_detailed": "+36 20 488 2590, +36 1 243 0538"
+    },
+    {
+        "patikaid": "90",
+        "poi": {
+            "longitude": "20.0983815",
+            "latitude": "46.3615568",
+            "address": "6762 Sándorfalva, Széchenyi utca 13.",
+            "patika": "Fagyöngy Gyógyszertár",
+            "phone": "+36 62 251 296",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 07:30-19:00 | Kedd: 07:30-19:00 | Szerda: 07:30-19:00 | Csütörtök: 07:30-19:00 | Péntek: 07:30-19:00 | Szombat: 08:00-13:00",
+        "phone_detailed": "+36 62 251 296"
+    },
+    {
+        "patikaid": "91",
+        "poi": {
+            "longitude": "17.9849583",
+            "latitude": "46.0421332",
+            "address": "7940 Szentlőrinc, Kossuth Lajos utca 1.",
+            "patika": "Fehér Kereszt Gyógyszertár",
+            "phone": "+36 73 570 040",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 08:00-17:00 | Kedd: 08:00-17:00 | Szerda: 08:00-17:00 | Csütörtök: 08:00-17:00 | Péntek: 08:00-17:00 | Szombat: 08:00-11:00",
+        "phone_detailed": "+36 73 570 040"
+    },
+    {
+        "patikaid": "92",
+        "poi": {
+            "longitude": "20.4128595",
+            "latitude": "47.1798764",
+            "address": "5200 Törökszentmiklós, Kossuth Lajos utca 125.",
+            "patika": "Fontana Gyógyszertár",
+            "phone": "736 56 590 360",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 08:00-17:00 | Kedd: 08:00-17:00 | Szerda: 08:00-17:00 | Csütörtök: 08:00-17:00 | Péntek: 08:00-17:00",
+        "phone_detailed": "736 56 590 360"
+    },
+    {
+        "patikaid": "93",
+        "poi": {
+            "longitude": "20.5650565",
+            "latitude": "47.8064139",
+            "address": "3400 Mezőkövesd, Mátyás király út 75.",
+            "patika": "Forrás Gyógyszertár",
+            "phone": "+36 49 412 442",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 07:30-19:00 | Kedd: 07:30-19:00 | Szerda: 07:30-19:00 | Csütörtök: 07:30-19:00 | Péntek: 07:30-19:00 | Szombat: 08:00-12:00",
+        "phone_detailed": "+36 49 412 442"
+    },
+    {
+        "patikaid": "94",
+        "poi": {
+            "longitude": "18.9557777",
+            "latitude": "46.1656212",
+            "address": "6500 Baja, Lőkert sor 1/l.",
+            "patika": "Forrás Gyógyszertár",
+            "phone": "+36 79 323 398",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 08:00-19:00 | Kedd: 08:00-19:00 | Szerda: 08:00-19:00 | Csütörtök: 08:00-19:00 | Péntek: 08:00-19:00 | Szombat: 08:00-12:00",
+        "phone_detailed": "+36 79 323 398"
+    },
+    {
+        "patikaid": "95",
+        "poi": {
+            "longitude": "18.9811043",
+            "latitude": "46.5321348",
+            "address": "6300 Kalocsa, Kossuth Lajos utca 23.",
+            "patika": "Főnix Gyógyszertár",
+            "phone": "+36 78 610 515",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 08:00-19:00 | Kedd: 08:00-19:00 | Szerda: 08:00-19:00 | Csütörtök: 08:00-19:00 | Péntek: 08:00-19:00 | Szombat: 08:00-13:00",
+        "phone_detailed": "+36 78 610 515"
+    },
+    {
+        "patikaid": "96",
+        "poi": {
+            "longitude": "18.4147119",
+            "latitude": "47.5611044",
+            "address": "2800 Tatabánya, Gál István lakótelep 704.",
+            "patika": "Gál Gyógyszertár",
+            "phone": "+36 34 789 745",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 07:30-18:30 | Kedd: 07:30-18:30 | Szerda: 07:30-18:30 | Csütörtök: 07:30-18:30 | Péntek: 07:30-18:30 | Szombat: 08:00-13:00",
+        "phone_detailed": "+36 34 789 745"
+    },
+    {
+        "patikaid": "97",
+        "poi": {
+            "longitude": "19.0314873",
+            "latitude": "47.5106037",
+            "address": "1027 Budapest, Margit körút 54.",
+            "patika": "Glória Gyógyszertár",
+            "phone": "+36 1 212 3881",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 08:00-20:00 | Kedd: 08:00-20:00 | Szerda: 08:00-20:00 | Csütörtök: 08:00-20:00 | Péntek: 08:00-20:00 | Szombat: 08:00-13:00",
+        "phone_detailed": "+36 1 212 3881",
+        "facebook": "https://www.facebook.com/gloriapatika"
+    },
+    {
+        "patikaid": "98",
+        "poi": {
+            "longitude": "20.2057717",
+            "latitude": "46.3315149",
+            "address": "6750 Szeged-Algyő, Egészségház utca 42.",
+            "patika": "Gyevi Patika Gyógyszertár",
+            "phone": "+36 62 517 261",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 08:00-18:00 | Kedd: 08:00-18:00 | Szerda: 08:00-18:00 | Csütörtök: 08:00-18:00 | Péntek: 08:00-18:00 | Szombat: 08:00-12:00",
+        "phone_detailed": "+36 62 517 261"
+    },
+    {
+        "patikaid": "99",
+        "poi": {
+            "longitude": "19.0830862",
+            "latitude": "47.4926337",
+            "address": "1086 Budapest, Teleki László tér 5.",
+            "patika": "Gyógyhír Gyógyszertár",
+            "phone": "+36 1 3131-614, +36 20 666 7700",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 07:00-18:00 | Kedd: 07:00-18:00 | Szerda: 07:00-18:00 | Csütörtök: 07:00-18:00 | Péntek: 07:00-18:00 | Szombat: 07:00-14:00",
+        "phone_detailed": "+36 1 3131-614, +36 20 666 7700",
+        "facebook": "http://www.facebook.com/gyogyline",
+        "email": "gyogyline@gyogyline.hu"
+    },
+    {
+        "patikaid": "101",
+        "poi": {
+            "longitude": "19.0802294",
+            "latitude": "47.4889666",
+            "address": "1083 Budapest, Szigony utca 2.",
+            "patika": "Szigony Gyógyszertár",
+            "phone": "+36 1 313 5870",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 08:00-19:00 | Kedd: 08:00-19:00 | Szerda: 08:00-19:00 | Csütörtök: 08:00-19:00 | Péntek: 08:00-19:00 | Szombat: 08:00-12:00",
+        "phone_detailed": "+36 1 313 5870"
+    },
+    {
+        "patikaid": "102",
+        "poi": {
+            "longitude": "20.3789531",
+            "latitude": "47.8915952",
+            "address": "3300 Eger, Deák Ferenc utca 57.",
+            "patika": "Tégely Gyógyszertár",
+            "phone": "+36 36 516 706",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 07:30-17:00 | Kedd: 07:30-17:00 | Szerda: 07:30-17:00 | Csütörtök: 07:30-17:00 | Péntek: 07:30-17:00",
+        "phone_detailed": "+36 36 516 706"
+    },
+    {
+        "patikaid": "103",
+        "poi": {
+            "longitude": "18.703291",
+            "latitude": "46.356995",
+            "address": "7100 Szekszárd, Kossuth Lajos utca 66.",
+            "patika": "Újvárosi Gyógyszertár",
+            "phone": "+36 74 419 177",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 08:00-17:00 | Kedd: 08:00-17:00 | Szerda: 08:00-17:00 | Csütörtök: 08:00-17:00 | Péntek: 08:00-17:00 | Szombat: 08:00-11:00",
+        "phone_detailed": "+36 74 419 177"
+    },
+    {
+        "patikaid": "104",
+        "poi": {
+            "longitude": "18.1572562",
+            "latitude": "47.7360566",
+            "address": "2921 Komárom-Szőny, Széchenyi utca 81.",
+            "patika": "Vásártér Gyógyszertár",
+            "phone": "+36 34 343 063",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 08:00-16:30 | Kedd: 08:00-16:30 | Szerda: 08:00-16:30 | Csütörtök: 08:00-16:30 | Péntek: 08:00-16:30 | Szombat: 08:00-12:00",
+        "phone_detailed": "+36 34 343 063"
+    },
+    {
+        "patikaid": "106",
+        "poi": {
+            "longitude": "19.0692357",
+            "latitude": "47.6739107",
+            "address": "2000 Szentendre, Sas utca 10.",
+            "patika": "Vasvári Gyógyszertár",
+            "phone": "+36 26 312 825",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 08:00-19:00 | Kedd: 08:00-19:00 | Szerda: 08:00-19:00 | Csütörtök: 08:00-19:00 | Péntek: 08:00-19:00 | Szombat: 08:00-13:00",
+        "phone_detailed": "+36 26 312 825"
+    },
+    {
+        "patikaid": "107",
+        "poi": {
+            "longitude": "19.0985818",
+            "latitude": "47.5242833",
+            "address": "1142 Budapest, Kassai tér 12.",
+            "patika": "Vital Gyógyszertár",
+            "phone": "+36 1 251 7087, +36 1 383 0345, +36 30 495 6902",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 07:30-19:00 | Kedd: 07:30-19:00 | Szerda: 07:30-19:00 | Csütörtök: 07:30-19:00 | Péntek: 07:30-19:00 | Szombat: 07:30-13:00",
+        "phone_detailed": "+36 1 251 7087, +36 1 383 0345, +36 30 495 6902"
+    },
+    {
+        "patikaid": "108",
+        "poi": {
+            "longitude": "18.263963",
+            "latitude": "46.190569",
+            "address": "7300 Komló, Kossuth Lajos utca 101/1.",
+            "patika": "Vitál Plusz Gyógyszertár",
+            "phone": "+36 72 484 474",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 07:30-18:00 | Kedd: 07:30-18:00 | Szerda: 07:30-18:00 | Csütörtök: 07:30-18:00 | Péntek: 07:30-18:00 | Szombat: 08:00-12:30",
+        "phone_detailed": "+36 72 484 474"
+    },
+    {
+        "patikaid": "110",
+        "poi": {
+            "longitude": "18.9334597",
+            "latitude": "46.9636549",
+            "address": "2400 Dunaújváros, Táncsics Mihály utca 6/b.",
+            "patika": "Zöldkereszt Gyógyszertár",
+            "phone": "+36 25 413 803",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 07:30-19:00 | Kedd: 07:30-19:00 | Szerda: 07:30-19:00 | Csütörtök: 07:30-19:00 | Péntek: 07:30-19:00",
+        "phone_detailed": "+36 25 413 803"
+    },
+    {
+        "patikaid": "111",
+        "poi": {
+            "longitude": "18.1689339",
+            "latitude": "46.0659019",
+            "address": "7634 Pécs, Pellérdi út 52.",
+            "patika": "Zsongorkő Gyógyszertár",
+            "phone": "+36 72 525 180",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 08:00-18:00 | Kedd: 08:00-18:00 | Szerda: 08:00-18:00 | Csütörtök: 08:00-18:00 | Péntek: 08:00-18:00 | Szombat: 08:00-12:00",
+        "phone_detailed": "+36 72 525 180"
+    },
+    {
+        "patikaid": "112",
+        "poi": {
+            "longitude": "17.4621799",
+            "latitude": "47.3300113",
+            "address": "8500 Pápa, Szentilonay József utca 6.",
+            "patika": "Őrangyal Gyógyszertár",
+            "phone": "+36 89 313 727",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 08:00-18:00 | Kedd: 08:00-18:00 | Szerda: 08:00-18:00 | Csütörtök: 08:00-18:00 | Péntek: 08:00-18:00 | Szombat: 08:00-12:00",
+        "phone_detailed": "+36 89 313 727"
+    },
+    {
+        "patikaid": "113",
+        "poi": {
+            "longitude": "21.6955327",
+            "latitude": "48.0250448",
+            "address": "4432 Nyíregyháza-Nyírszőlős, Szőlőskert utca 1/a.",
+            "patika": "Nyírszőlősi Gyógyszertár",
+            "phone": "+36 42 470 485",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 08:00-16:00 | Kedd: 10:00-18:00 | Szerda: 08:00-16:00 | Csütörtök: 10:00-18:00 | Péntek: 08:00-16:00",
+        "phone_detailed": "+36 42 470 485"
+    },
+    {
+        "patikaid": "114",
+        "poi": {
+            "longitude": "18.9070738",
+            "latitude": "47.619873",
+            "address": "2085 Pilisvörösvár, Fő utca 109.",
+            "patika": "Non-Stop Gyógyszertár",
+            "phone": "+36 26 593 953",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Állandó nyitvatartás",
+        "phone_detailed": "+36 26 593 953"
+    },
+    {
+        "patikaid": "115",
+        "poi": {
+            "longitude": "21.6284861",
+            "latitude": "47.5465755",
+            "address": "4028 Debrecen, Géresi utca 4/a.",
+            "patika": "Nagyerdei Gyógyszertár",
+            "phone": "+3620 943 2018",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 08:00-19:00 | Kedd: 08:00-19:00 | Szerda: 08:00-19:00 | Csütörtök: 08:00-19:00 | Péntek: 08:00-19:00 | Szombat: 08:00-13:00",
+        "phone_detailed": "+3620 943 2018",
+        "facebook": "https://www.facebook.com/NagyerdeiPatika"
+    },
+    {
+        "patikaid": "116",
+        "poi": {
+            "longitude": "19.0881615",
+            "latitude": "47.5656424",
+            "address": "1046 Budapest, Nádor utca 2.",
+            "patika": "Nádor Gyógyszertér",
+            "phone": "+36 1 369 2445",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 07:30-19:30 | Kedd: 07:30-19:30 | Szerda: 07:30-19:30 | Csütörtök: 07:30-19:30 | Péntek: 07:30-19:30 | Szombat: 07:00-13:00",
+        "phone_detailed": "+36 1 369 2445",
+        "facebook": "https://www.facebook.com/nadorpatika/"
+    },
+    {
+        "patikaid": "117",
+        "poi": {
+            "longitude": "18.7804599",
+            "latitude": "46.9318682",
+            "address": "2422 Mezőfalva, Semmelweis utca 5.",
+            "patika": "Nádor Gyógyszertár",
+            "phone": "+36 25 244 013",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_zarva_style\">ZÁRVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_zarva_style\">CLOSED</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 08:00-16:30 | Kedd: 08:00-16:30 | Szerda: 10:15-16:30 | Csütörtök: 08:00-16:30 | Péntek: 08:00-14:00 | Szombat: 08:00-10:00",
+        "phone_detailed": "+36 25 244 013"
+    },
+    {
+        "patikaid": "118",
+        "poi": {
+            "longitude": "19.7212087",
+            "latitude": "46.896677",
+            "address": "6000 Kecskemét, Irányi István utca 5.",
+            "patika": "Műkerti Gyógyszertár",
+            "phone": "+36 76 498 106",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 08:00-17:15 | Kedd: 08:00-17:15 | Szerda: 08:00-17:15 | Csütörtök: 08:00-17:15 | Péntek: 08:00-17:15",
+        "phone_detailed": "+36 76 498 106"
+    },
+    {
+        "patikaid": "119",
+        "poi": {
+            "longitude": "19.9244296",
+            "latitude": "47.78445",
+            "address": "3200 Gyöngyös, Fő tér 15.",
+            "patika": "Gyöngyösi Kígyó Gyógyszertár",
+            "phone": "+36 37 313 612",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 07:30-18:00 | Kedd: 07:30-18:00 | Szerda: 07:30-18:00 | Csütörtök: 07:30-18:00 | Péntek: 07:30-18:00 | Szombat: 07:00-13:00",
+        "phone_detailed": "+36 37 313 612"
+    },
+    {
+        "patikaid": "120",
+        "poi": {
+            "longitude": "19.1463144",
+            "latitude": "47.4275267",
+            "address": "1204 Budapest, Mártírok útja 281.",
+            "patika": "KulcsPatika Megapark Gyógyszertár",
+            "phone": "+36 1 785 8106",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_zarva_style\">ZÁRVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_zarva_style\">CLOSED</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 09:00-20:00 | Kedd: 09:00-20:00 | Szerda: 09:00-20:00 | Csütörtök: 09:00-20:00 | Péntek: 09:00-20:00 | Szombat: 09:00-20:00 | Vasárnap: 09:00-19:00",
+        "phone_detailed": "+36 1 785 8106"
+    },
+    {
+        "patikaid": "121",
+        "poi": {
+            "longitude": "21.8007452",
+            "latitude": "47.9543836",
+            "address": "4551 Nyíregyháza-Oros, Fő utca 16/a.",
+            "patika": "Ligetszépe Gyógyszertár",
+            "phone": "+36 42 480 054",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 08:30-17:00 | Kedd: 08:30-17:00 | Szerda: 08:30-17:00 | Csütörtök: 08:30-17:00 | Péntek: 08:30-17:00",
+        "phone_detailed": "+36 42 480 054"
+    },
+    {
+        "patikaid": "122",
+        "poi": {
+            "longitude": "17.5705171",
+            "latitude": "47.1053657",
+            "address": "8400 Ajka, Alkotmány utca 20.",
+            "patika": "György Gyógyszertár",
+            "phone": "+36 88 312 343",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 08:00-18:00 | Kedd: 08:00-18:00 | Szerda: 08:00-18:00 | Csütörtök: 08:00-18:00 | Péntek: 08:00-18:00 | Szombat: 08:00-13:00",
+        "phone_detailed": "+36 88 312 343"
+    },
+    {
+        "patikaid": "123",
+        "poi": {
+            "longitude": "19.5244123",
+            "latitude": "47.4524751",
+            "address": "2241 Sülysáp-Tápiósüly, Vasút utca 26.",
+            "patika": "Levendula Gyógyszertár",
+            "phone": "+36 29 436 005, +36 70 320 2240",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 08:00-18:00 | Kedd: 08:00-18:00 | Szerda: 08:00-18:00 | Csütörtök: 08:00-18:00 | Péntek: 08:00-18:00 | Szombat: 08:00-12:00",
+        "phone_detailed": "+36 29 436 005, +36 70 320 2240"
+    },
+    {
+        "patikaid": "124",
+        "poi": {
+            "longitude": "19.2647636",
+            "latitude": "47.409489",
+            "address": "2220 Vecsés, Károly utca 20.",
+            "patika": "Hanga Gyógyszertár",
+            "phone": "+36 29 350 353",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 08:00-18:00 | Kedd: 08:00-18:00 | Szerda: 08:00-18:00 | Csütörtök: 08:00-18:00 | Péntek: 08:00-18:00 | Szombat: 08:00-14:00",
+        "phone_detailed": "+36 29 350 353"
+    },
+    {
+        "patikaid": "126",
+        "poi": {
+            "longitude": "20.904416",
+            "latitude": "47.3039615",
+            "address": "5300 Karcag, Kisújszállási út 34.",
+            "patika": "Kulcs Gyógyszertár Karcag Tesco",
+            "phone": "+36 30 204 1167",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 08:00-19:00 | Kedd: 08:00-19:00 | Szerda: 08:00-19:00 | Csütörtök: 08:00-19:00 | Péntek: 08:00-19:00 | Szombat: 09:00-19:00",
+        "phone_detailed": "+36 30 204 1167",
+        "facebook": "https://www.facebook.com/profile.php?id=100089495382638"
+    },
+    {
+        "patikaid": "127",
+        "poi": {
+            "longitude": "19.7452257",
+            "latitude": "46.2889931",
+            "address": "6786 Ruzsa, Tömörkény tér 8-9.",
+            "patika": "Hárs Gyógyszertár",
+            "phone": "+36 62 285 132",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 08:00-16:00 | Kedd: 08:00-16:00 | Szerda: 08:00-16:00 | Csütörtök: 08:00-16:00 | Péntek: 08:00-16:00",
+        "phone_detailed": "+36 62 285 132"
+    },
+    {
+        "patikaid": "128",
+        "poi": {
+            "longitude": "19.1481874",
+            "latitude": "47.5489532",
+            "address": "1152 Budapest, Szentmihályi út 167-169.",
+            "patika": "KulcsPatikák Gyógyszertár ",
+            "phone": "+36 1 688 9088",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_zarva_style\">ZÁRVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_zarva_style\">CLOSED</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 09:00-19:00 | Kedd: 09:00-19:00 | Szerda: 09:00-19:00 | Csütörtök: 09:00-19:00 | Péntek: 09:00-19:00 | Szombat: 09:00-20:00 | Vasárnap: 09:00-19:00",
+        "phone_detailed": "+36 1 688 9088"
+    },
+    {
+        "patikaid": "130",
+        "poi": {
+            "longitude": "21.6771441",
+            "latitude": "47.7118046",
+            "address": "4243 Téglás, Kossuth Lajos utca 59.",
+            "patika": "Hársfavirág Gyógyszertár",
+            "phone": "+36 52 583 037",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 08:00-17:30 | Kedd: 08:00-17:30 | Szerda: 08:00-17:30 | Csütörtök: 08:00-17:30 | Péntek: 08:00-17:30",
+        "phone_detailed": "+36 52 583 037"
+    },
+    {
+        "patikaid": "131",
+        "poi": {
+            "longitude": "18.2987214",
+            "latitude": "45.850732",
+            "address": "7800 Siklós, Baross Gábor utca 7.",
+            "patika": "Hollós Gyógyszertár",
+            "phone": "+36 72 351 606",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 08:00-17:00 | Kedd: 08:00-17:00 | Szerda: 08:00-17:00 | Csütörtök: 08:00-17:00 | Péntek: 08:00-17:00",
+        "phone_detailed": "+36 72 351 606"
+    },
+    {
+        "patikaid": "132",
+        "poi": {
+            "longitude": "19.0229608",
+            "latitude": "47.5068962",
+            "address": "1122 Budapest, Krisztina körút 2-4.",
+            "patika": "Krisztina Gyógyszertár",
+            "phone": "+36 1 356 0532, +36 30 203 1317,                 +36 70 360 6944",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_zarva_style\">ZÁRVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_zarva_style\">CLOSED</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 09:00-18:30 | Kedd: 09:00-18:30 | Szerda: 09:00-18:30 | Csütörtök: 09:00-18:30 | Péntek: 09:00-18:30 | Szombat: 09:00-13:00",
+        "phone_detailed": "+36 1 356 0532, +36 30 203 1317,                 +36 70 360 6944"
+    },
+    {
+        "patikaid": "133",
+        "poi": {
+            "longitude": "21.2642389",
+            "latitude": "46.9262533",
+            "address": "5530 Vésztő, Kossuth Lajos utca 64.",
+            "patika": "Kristály Gyógyszertár",
+            "phone": "",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 07:30-18:00 | Kedd: 07:30-18:00 | Szerda: 07:30-18:00 | Csütörtök: 07:30-18:00 | Péntek: 07:30-18:00 | Szombat: 08:00-12:00"
+    },
+    {
+        "patikaid": "134",
+        "poi": {
+            "longitude": "19.536443",
+            "latitude": "46.2085843",
+            "address": "6422 Tompa, Kossuth utca 22.",
+            "patika": "Hóvirág Gyógyszertár",
+            "phone": "+36 77 451 061",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 07:30-18:00 | Kedd: 07:30-18:00 | Szerda: 07:30-18:00 | Csütörtök: 07:30-18:00 | Péntek: 07:30-18:00 | Szombat: 07:30-12:00",
+        "phone_detailed": "+36 77 451 061"
+    },
+    {
+        "patikaid": "135",
+        "poi": {
+            "longitude": "19.68915",
+            "latitude": "46.926922",
+            "address": "6000 Kecskemét, Rózsavölgyi tér 27.",
+            "patika": "Körpatika Gyógyszertár",
+            "phone": "+36 76 484 646",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 08:00-18:00 | Kedd: 08:00-18:00 | Szerda: 08:00-18:00 | Csütörtök: 08:00-18:00 | Péntek: 08:00-18:00 | Szombat: 08:00-12:00",
+        "phone_detailed": "+36 76 484 646"
+    },
+    {
+        "patikaid": "136",
+        "poi": {
+            "longitude": "18.7600986",
+            "latitude": "47.1386329",
+            "address": "2490 Pusztaszabolcs, Sport utca 6.",
+            "patika": "Írisz Gyógyszertár",
+            "phone": "+36 25 273 019",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 08:00-18:00 | Kedd: 08:00-18:00 | Szerda: 08:00-18:00 | Csütörtök: 08:00-18:00 | Péntek: 08:00-18:00 | Szombat: 08:00-12:00",
+        "phone_detailed": "+36 25 273 019"
+    },
+    {
+        "patikaid": "138",
+        "poi": {
+            "longitude": "19.8436524",
+            "latitude": "46.7102215",
+            "address": "6100 Kiskunfélegyháza, Attila utca 1.",
+            "patika": "Körpatika Gyógyszertár",
+            "phone": "+36 76 462 620",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 07:30-19:00 | Kedd: 07:30-19:00 | Szerda: 07:30-19:00 | Csütörtök: 07:30-19:00 | Péntek: 07:30-19:00 | Szombat: 08:00-12:00",
+        "phone_detailed": "+36 76 462 620"
+    },
+    {
+        "patikaid": "139",
+        "poi": {
+            "longitude": "20.6550407",
+            "latitude": "47.6447043",
+            "address": "3388 Poroszló, Kossuth Lajos utca 2.",
+            "patika": "Írisz Gyógyszertár",
+            "phone": "+36 36 553 006",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 07:30-16:00 | Kedd: 07:30-16:00 | Szerda: 07:30-16:00 | Csütörtök: 07:30-16:00 | Péntek: 07:30-14:00",
+        "phone_detailed": "+36 36 553 006"
+    },
+    {
+        "patikaid": "140",
+        "poi": {
+            "longitude": "19.7849133",
+            "latitude": "47.0370341",
+            "address": "2750 Nagykőrös, Ceglédi út 7/b.",
+            "patika": "Kőrisfa Gyógyszertár",
+            "phone": "+36 53 353 598",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 08:00-18:00 | Kedd: 08:00-18:00 | Szerda: 08:00-18:00 | Csütörtök: 08:00-18:00 | Péntek: 08:00-18:00",
+        "phone_detailed": "+36 53 353 598"
+    },
+    {
+        "patikaid": "141",
+        "poi": {
+            "longitude": "20.1962863",
+            "latitude": "47.1751998",
+            "address": "5000 Szolnok, Kossuth tér 7-8.",
+            "patika": "Kossuth Gyógyszertár",
+            "phone": "+36 56 421 004",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 07:00-18:00 | Kedd: 07:00-18:00 | Szerda: 07:00-18:00 | Csütörtök: 07:00-18:00 | Péntek: 07:00-18:00 | Szombat: 08:00-12:00",
+        "phone_detailed": "+36 56 421 004"
+    },
+    {
+        "patikaid": "142",
+        "poi": {
+            "longitude": "21.0663039",
+            "latitude": "46.7158059",
+            "address": "5671 Békéscsaba-Mezőmegyer, Október 23. tér 1.",
+            "patika": "Isteni Gondviselés Fiókgyógyszertár",
+            "phone": "+36 66 431 684",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_zarva_style\">ZÁRVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_zarva_style\">CLOSED</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 09:30-14:30 | Kedd: 09:30-14:30 | Szerda: 09:30-14:30 | Csütörtök: 09:30-14:30 | Péntek: 09:30-14:30",
+        "phone_detailed": "+36 66 431 684"
+    },
+    {
+        "patikaid": "144",
+        "poi": {
+            "longitude": "20.9517506",
+            "latitude": "46.6570557",
+            "address": "5675 Telekgerendás, Dózsa György utca 13.",
+            "patika": "Isteni Gondviselés Fiókgyógyszertár",
+            "phone": "+36 66 482 015",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_zarva_style\">ZÁRVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_zarva_style\">CLOSED</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 09:30-14:00 | Kedd: 09:30-14:00 | Szerda: 09:30-14:00 | Csütörtök: 09:30-14:00 | Péntek: 09:30-14:00",
+        "phone_detailed": "+36 66 482 015"
+    },
+    {
+        "patikaid": "145",
+        "poi": {
+            "longitude": "19.6977856",
+            "latitude": "47.9194795",
+            "address": "3060 Pásztó, Fő utca 56.",
+            "patika": "Korona Gyógyszertár",
+            "phone": "+36 32 460 842",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 07:30-18:00 | Kedd: 07:30-18:00 | Szerda: 07:30-18:00 | Csütörtök: 07:30-18:00 | Péntek: 07:30-18:00 | Szombat: 07:30-12:00",
+        "phone_detailed": "+36 32 460 842",
+        "facebook": "https://www.facebook.com/profile.php?id=100057794433995"
+    },
+    {
+        "patikaid": "146",
+        "poi": {
+            "longitude": "21.1025403",
+            "latitude": "46.6801286",
+            "address": "5600 Békéscsaba, Deák utca 5.",
+            "patika": "Isteni Gondviselés Gyógyszertára",
+            "phone": "+36 66 549 270",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 07:30-17:00 | Kedd: 07:30-17:00 | Szerda: 07:30-17:00 | Csütörtök: 07:30-17:00 | Péntek: 07:30-16:30",
+        "phone_detailed": "+36 66 549 270"
+    },
+    {
+        "patikaid": "147",
+        "poi": {
+            "longitude": "20.6707589",
+            "latitude": "46.6711459",
+            "address": "5931 Nagyszénás, Március 15. tér 6.",
+            "patika": "Korona Gyógyszertár",
+            "phone": "+36 68 443 012",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 08:00-17:00 | Kedd: 08:00-17:00 | Szerda: 08:00-17:00 | Csütörtök: 08:00-17:00 | Péntek: 08:00-17:00",
+        "phone_detailed": "+36 68 443 012"
+    },
+    {
+        "patikaid": "150",
+        "poi": {
+            "longitude": "19.8380455",
+            "latitude": "46.7115201",
+            "address": "6100 Kiskunfélegyháza, Fadrusz János utca 4.",
+            "patika": "Kórházi Gyógyszertár",
+            "phone": "+36 76 560 158",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 07:00-18:00 | Kedd: 07:00-18:00 | Szerda: 07:00-18:00 | Csütörtök: 07:00-18:00 | Péntek: 07:30-16:00",
+        "phone_detailed": "+36 76 560 158"
+    },
+    {
+        "patikaid": "151",
+        "poi": {
+            "longitude": "21.2545895",
+            "latitude": "46.5276131",
+            "address": "5742 Elek, Harruckern tér 2.",
+            "patika": "Kagyló Gyógyszertár",
+            "phone": "+36 66 240 373",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 07:30-17:00 | Kedd: 07:30-17:00 | Szerda: 07:30-17:00 | Csütörtök: 07:30-17:00 | Péntek: 07:30-17:00",
+        "phone_detailed": "+36 66 240 373"
+    },
+    {
+        "patikaid": "152",
+        "poi": {
+            "longitude": "20.6484478",
+            "latitude": "46.8274791",
+            "address": "5551 Csabacsűd, Szabadság utca 46.",
+            "patika": "Korall Fiókgyógyszertár",
+            "phone": "+36 66 219 626",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 08:00-16:30 | Kedd: 08:00-16:30 | Szerda: 08:00-16:30 | Csütörtök: 08:00-16:30 | Péntek: 08:00-16:30",
+        "phone_detailed": "+36 66 219 626"
+    },
+    {
+        "patikaid": "153",
+        "poi": {
+            "longitude": "20.4275299",
+            "latitude": "47.7019795",
+            "address": "3373 Besenyőtelek, Fő út 63.",
+            "patika": "Kamilla Gyógyszertár",
+            "phone": "+36 36 441 958",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 08:00-16:30 | Kedd: 08:00-16:30 | Szerda: 08:00-16:30 | Csütörtök: 08:00-16:30 | Péntek: 08:00-16:30",
+        "phone_detailed": "+36 36 441 958"
+    },
+    {
+        "patikaid": "154",
+        "poi": {
+            "longitude": "18.7416394",
+            "latitude": "47.7930452",
+            "address": "2500 Esztergom, Aradi vértanúk tere 2/c.",
+            "patika": "Kis Duna Gyógyszertár",
+            "phone": "+36 33 502 255",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 08:00-17:00 | Kedd: 08:00-17:00 | Szerda: 08:00-17:00 | Csütörtök: 08:00-17:00 | Péntek: 08:00-17:00 | Szombat: 08:00-12:00",
+        "phone_detailed": "+36 33 502 255"
+    },
+    {
+        "patikaid": "156",
+        "poi": {
+            "longitude": "21.1842664",
+            "latitude": "46.6996668",
+            "address": "5623 Békéscsaba-Gerla, Wenckheim Károly tér 11.",
+            "patika": "Kazay Endre Fiókgyógyszertár",
+            "phone": "+36 66 950 144",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 08:30-11:00 | Kedd: 08:30-11:00 | Szerda: 08:30-11:00 | Csütörtök: 08:30-11:00 | Péntek: 08:30-11:00",
+        "phone_detailed": "+36 66 950 144"
+    },
+    {
+        "patikaid": "157",
+        "poi": {
+            "longitude": "22.3168773",
+            "latitude": "47.9527999",
+            "address": "4700 Mátészalka, Kölcsey utca 19.",
+            "patika": "Kígyó Gyógyszertár",
+            "phone": "+36 44 502 688",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 07:30-18:30 | Kedd: 07:30-18:30 | Szerda: 07:30-18:30 | Csütörtök: 07:30-18:30 | Péntek: 07:30-18:30 | Szombat: 08:00-12:00",
+        "phone_detailed": "+36 44 502 688",
+        "facebook": "https://www.facebook.com/profile.php?id=100057039207298"
+    },
+    {
+        "patikaid": "158",
+        "poi": {
+            "longitude": "21.2428425",
+            "latitude": "46.7354063",
+            "address": "5624 Doboz, Nagy utca 2.",
+            "patika": "Kazay Endre Gyógyszertár",
+            "phone": "",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 08:00-17:00 | Kedd: 08:00-17:00 | Szerda: 08:00-17:00 | Csütörtök: 08:00-17:00 | Péntek: 08:00-17:00"
+    },
+    {
+        "patikaid": "159",
+        "poi": {
+            "longitude": "20.47449",
+            "latitude": "46.215203",
+            "address": "6900 Makó, Széchenyi tér 8.",
+            "patika": "Kígyó Gyógyszertár",
+            "phone": "+36 62 510 296, +36 30 626 6696",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 08:00-18:00 | Kedd: 08:00-18:00 | Szerda: 08:00-18:00 | Csütörtök: 08:00-18:00 | Péntek: 08:00-18:00 | Szombat: 08:00-12:00",
+        "phone_detailed": "+36 62 510 296, +36 30 626 6696"
+    },
+    {
+        "patikaid": "160",
+        "poi": {
+            "longitude": "18.7407279",
+            "latitude": "47.7887604",
+            "address": "2500 Esztergom, Kossuth Lajos utca 41.",
+            "patika": "Kersi Patika Gyógyszertár",
+            "phone": "+36 33 509 170",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 08:00-17:00 | Kedd: 08:00-17:00 | Szerda: 08:00-17:00 | Csütörtök: 08:00-17:00 | Péntek: 08:00-17:00 | Szombat: 08:00-12:00",
+        "phone_detailed": "+36 33 509 170"
+    },
+    {
+        "patikaid": "162",
+        "poi": {
+            "longitude": "21.6929183",
+            "latitude": "47.9490385",
+            "address": "4400 Nyíregyháza, Dugonics utca 29/a.",
+            "patika": "Kertvárosi Gyógyszertár",
+            "phone": "+36 42 420 013",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 08:00-18:00 | Kedd: 08:00-18:00 | Szerda: 08:00-18:00 | Csütörtök: 08:00-18:00 | Péntek: 08:00-18:00",
+        "phone_detailed": "+36 42 420 013"
+    },
+    {
+        "patikaid": "167",
+        "poi": {
+            "longitude": "20.9244055",
+            "latitude": "47.1464183",
+            "address": "5515 Ecsegfalva, Fő utca 75.",
+            "patika": "Paracelsus Fiókgyógyszertár",
+            "phone": "",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_zarva_style\">ZÁRVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_zarva_style\">CLOSED</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 13:30-15:30 | Kedd: 13:30-15:30 | Csütörtök: 09:30-11:30"
+    },
+    {
+        "patikaid": "168",
+        "poi": {
+            "longitude": "22.3794921",
+            "latitude": "47.7821898",
+            "address": "4352 Mérk, Hunyadi utca 82.",
+            "patika": "Salvare Fiókgyógyszertár",
+            "phone": "+36 70 628 2533",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 08:00-16:30 | Kedd: 08:00-16:30 | Szerda: 08:00-16:30 | Csütörtök: 08:00-16:30 | Péntek: 08:00-16:30",
+        "phone_detailed": "+36 70 628 2533"
+    },
+    {
+        "patikaid": "169",
+        "poi": {
+            "longitude": "22.2635715",
+            "latitude": "47.9138618",
+            "address": "4722 Nyírmeggyes, Rákóczi Ferenc utca 2.",
+            "patika": "Salvare Fiókgyógyszertár",
+            "phone": "+36 70 329 1648",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 08:00-12:00 | Kedd: 08:00-12:00 | Szerda: 08:00-12:00 | Csütörtök: 08:00-12:00 | Péntek: 08:00-12:00",
+        "phone_detailed": "+36 70 329 1648"
+    },
+    {
+        "patikaid": "170",
+        "poi": {
+            "longitude": "22.2020507",
+            "latitude": "47.9175696",
+            "address": "4334 Hodász, Dózsa György utca 5.",
+            "patika": "Borostyán Fiókgyógyszertár Hodász",
+            "phone": "+36 44 502 688",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 08:00-13:45 | Kedd: 08:00-13:45 | Szerda: 08:00-13:45 | Csütörtök: 08:00-13:45 | Péntek: 08:00-13:45",
+        "phone_detailed": "+36 44 502 688"
+    },
+    {
+        "patikaid": "171",
+        "poi": {
+            "longitude": "22.1480805",
+            "latitude": "47.934788",
+            "address": "4335 Kántorjánosi, Kossuth utca 16/a.",
+            "patika": "Borostyán Gyógyszertár Fiókgyógyszertára",
+            "phone": "+36 44 502 688",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_zarva_style\">ZÁRVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_zarva_style\">CLOSED</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 14:00-16:30 | Kedd: 14:00-16:30 | Szerda: 14:00-16:30 | Csütörtök: 14:00-16:30 | Péntek: 14:00-16:30",
+        "phone_detailed": "+36 44 502 688"
+    },
+    {
+        "patikaid": "173",
+        "poi": {
+            "longitude": "19.7543199",
+            "latitude": "46.7640748",
+            "address": "6115 Kunszállás, Kossuth utca 9.",
+            "patika": "Körpatika Fiókgyógyszertár",
+            "phone": "",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 08:00-12:00 | Kedd: 08:00-12:00 | Szerda: 08:00-12:00 | Csütörtök: 08:00-12:00 | Péntek: 08:00-12:00"
+    },
+    {
+        "patikaid": "174",
+        "poi": {
+            "longitude": "19.076844",
+            "latitude": "47.4762739",
+            "address": "1095 Budapest, Mester utca 51.",
+            "patika": "KulcsPatika Mester Gyógyszertár",
+            "phone": "+36 1 219 5819",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 08:00-20:00 | Kedd: 08:00-20:00 | Szerda: 08:00-20:00 | Csütörtök: 08:00-20:00 | Péntek: 08:00-20:00 | Szombat: 08:00-13:00",
+        "phone_detailed": "+36 1 219 5819"
+    },
+    {
+        "patikaid": "175",
+        "poi": {
+            "longitude": "18.0068933",
+            "latitude": "47.1028023",
+            "address": "8196 Litér, Árpád u. 12.",
+            "patika": "Zsálya Gyógyszertár",
+            "phone": "+36 88 463 716",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 07:30-17:30 | Kedd: 07:30-17:30 | Szerda: 07:30-17:30 | Csütörtök: 07:30-17:30 | Péntek: 07:30-17:30",
+        "phone_detailed": "+36 88 463 716"
+    },
+    {
+        "patikaid": "178",
+        "poi": {
+            "longitude": "20.162941",
+            "latitude": "46.7046873",
+            "address": "6640 Csongrád, Muskátli u. 33.",
+            "patika": "Erzsébet Gyógyszertár",
+            "phone": "+36 34 810 444",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 07:30-17:00 | Kedd: 07:30-17:00 | Szerda: 07:30-17:00 | Csütörtök: 07:30-17:00 | Péntek: 07:30-17:00",
+        "phone_detailed": "+36 34 810 444"
+    },
+    {
+        "patikaid": "180",
+        "poi": {
+            "longitude": "19.00272",
+            "latitude": "47.4025917",
+            "address": "1224 Budapest, Dózsa György út 17/A",
+            "patika": "Melissa Gyógyszertár",
+            "phone": "+36 1 362 2652",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 08:00-20:00 | Kedd: 08:00-20:00 | Szerda: 08:00-20:00 | Csütörtök: 08:00-20:00 | Péntek: 08:00-20:00",
+        "phone_detailed": "+36 1 362 2652"
+    },
+    {
+        "patikaid": "181",
+        "poi": {
+            "longitude": "19.3848107",
+            "latitude": "47.6928221",
+            "address": "2183 Galgamácsa, Petőfi út 110.",
+            "patika": "Szent Margit Gyógyszertár",
+            "phone": "+36 28 489 122",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 08:00-16:00 | Kedd: 08:00-16:00 | Szerda: 08:00-16:00 | Csütörtök: 08:00-12:00 | Péntek: 08:00-16:00 | Szombat: 08:00-09:00",
+        "phone_detailed": "+36 28 489 122"
+    },
+    {
+        "patikaid": "182",
+        "poi": {
+            "longitude": "19.2031708",
+            "latitude": "47.5105981",
+            "address": "1165 Budapest, Hunyadvár utca 43/b.",
+            "patika": "Corvina Gyógyszertár",
+            "phone": "+36 1 407 2970",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 08:00-20:00 | Kedd: 08:00-20:00 | Szerda: 08:00-20:00 | Csütörtök: 08:00-20:00 | Péntek: 08:00-20:00",
+        "phone_detailed": "+36 1 407 2970"
+    },
+    {
+        "patikaid": "183",
+        "poi": {
+            "longitude": "21.2736995",
+            "latitude": "48.4727835",
+            "address": "3895 Gönc, Károli Gáspár utca 34.",
+            "patika": "Avicenna Gyógyszertár",
+            "phone": "+36 46 588 211",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 08:00-16:30 | Kedd: 08:00-16:30 | Szerda: 08:00-16:30 | Csütörtök: 08:00-16:30 | Péntek: 08:00-16:30",
+        "phone_detailed": "+36 46 588 211"
+    },
+    {
+        "patikaid": "184",
+        "poi": {
+            "longitude": "19.5949379",
+            "latitude": "47.7937377",
+            "address": "3042 Palotás, Szabadság út 41.",
+            "patika": "Írisz Gyógyszertár",
+            "phone": "+36 32 480 014",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 07:30-16:00 | Kedd: 07:30-16:00 | Szerda: 07:30-16:00 | Csütörtök: 07:30-16:00 | Péntek: 07:30-13:30",
+        "phone_detailed": "+36 32 480 014"
+    },
+    {
+        "patikaid": "186",
+        "poi": {
+            "longitude": "21.7634257",
+            "latitude": "48.130458",
+            "address": "4485 Nagyhalász, Arany János utca 35.",
+            "patika": "Halász Gyógyszertár",
+            "phone": "+36 42 202 209",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 08:00-18:00 | Kedd: 08:00-18:00 | Szerda: 08:00-18:00 | Csütörtök: 08:00-18:00 | Péntek: 08:00-18:00 | Szombat: 08:00-12:00",
+        "phone_detailed": "+36 42 202 209"
+    },
+    {
+        "patikaid": "187",
+        "poi": {
+            "longitude": "21.8307735",
+            "latitude": "48.0128168",
+            "address": "4532 Nyírtura, Rákóczi utca 21.",
+            "patika": "Tiliae Gyógyszertár",
+            "phone": "+36 42 231 126",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 08:00-17:00 | Kedd: 08:00-17:00 | Szerda: 08:00-17:00 | Csütörtök: 08:00-17:00 | Péntek: 08:00-17:00 | Szombat: 08:00-12:00",
+        "phone_detailed": "+36 42 231 126"
+    },
+    {
+        "patikaid": "188",
+        "poi": {
+            "longitude": "22.5287546",
+            "latitude": "48.1030568",
+            "address": "4931 Tarpa, Kossuth utca 51/b.",
+            "patika": "Mátyás Gyógyszertár",
+            "phone": "+36 45 450 828",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 08:00-16:00 | Kedd: 08:00-16:00 | Szerda: 08:00-16:00 | Csütörtök: 08:00-16:00 | Péntek: 08:00-16:00",
+        "phone_detailed": "+36 45 450 828"
+    },
+    {
+        "patikaid": "189",
+        "poi": {
+            "longitude": "19.1366678",
+            "latitude": "47.4894351",
+            "address": "1105 Budapest, Kőrösi Csoma S. út 47-49.",
+            "patika": "Harmat Gyógyszertár",
+            "phone": "+361 261 0316",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 08:00-20:00 | Kedd: 08:00-20:00 | Szerda: 08:00-20:00 | Csütörtök: 08:00-20:00 | Péntek: 08:00-20:00 | Szombat: 08:00-20:00 | Vasárnap: 08:00-16:00",
+        "phone_detailed": "+361 261 0316"
+    },
+    {
+        "patikaid": "190",
+        "poi": {
+            "longitude": "17.6253771",
+            "latitude": "47.6878626",
+            "address": "9025 Győr, Híd utca 15.",
+            "patika": "Aranysas Gyógyszertár",
+            "phone": "+36 96 529 882",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 08:00-18:00 | Kedd: 08:00-18:00 | Szerda: 08:00-18:00 | Csütörtök: 08:00-18:00 | Péntek: 08:00-18:00",
+        "phone_detailed": "+36 96 529 882"
+    },
+    {
+        "patikaid": "191",
+        "poi": {
+            "longitude": "17.5592439",
+            "latitude": "47.1059343",
+            "address": "8400 Ajka, Semmelweis u. 2.",
+            "patika": "Semmelweis Gyógyszertár",
+            "phone": "+36 88 312 957",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 07:30-17:00 | Kedd: 07:30-17:00 | Szerda: 07:30-17:00 | Csütörtök: 07:30-17:00 | Péntek: 07:30-17:00",
+        "phone_detailed": "+36 88 312 957"
+    },
+    {
+        "patikaid": "192",
+        "poi": {
+            "longitude": "19.4462635",
+            "latitude": "47.428377",
+            "address": "2235 Mende, Állomás u. 1.",
+            "patika": "Mende Fiókgyógyszertár",
+            "phone": "+36 29 438 036",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 08:30-16:30 | Kedd: 08:30-16:30 | Szerda: 08:30-16:30 | Csütörtök: 08:30-16:30 | Péntek: 08:30-16:30 | Szombat: 09:30-12:00",
+        "phone_detailed": "+36 29 438 036"
+    },
+    {
+        "patikaid": "193",
+        "poi": {
+            "longitude": "19.5232787",
+            "latitude": "47.4140437",
+            "address": "2244 Úri, Rákóczi u. 29.",
+            "patika": "Úri Fiókgyógyszertár",
+            "phone": "+36 29 436 005",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_zarva_style\">ZÁRVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_zarva_style\">CLOSED</span></span>"
+        },
+        "phone_detailed": "+36 29 436 005"
+    },
+    {
+        "patikaid": "194",
+        "poi": {
+            "longitude": "19.0494379",
+            "latitude": "47.5698105",
+            "address": "1031 Budapest, Torma Károly u. 19-20.",
+            "patika": "Aelia Sabina Gyógyszertár",
+            "phone": "+36 1 242 7940",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 08:00-19:00 | Kedd: 08:00-19:00 | Szerda: 08:00-19:00 | Csütörtök: 08:00-19:00 | Péntek: 08:00-19:00",
+        "phone_detailed": "+36 1 242 7940",
+        "facebook": "https://www.facebook.com/profile.php?id=100057030776479"
+    },
+    {
+        "patikaid": "195",
+        "poi": {
+            "longitude": "19.8885088",
+            "latitude": "46.2162675",
+            "address": "6782 Mórahalom, Szegedi u. 14.",
+            "patika": "Ezüstkehely Gyógyszertár",
+            "phone": "+36 62 281 333",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 07:30-19:00 | Kedd: 07:30-19:00 | Szerda: 07:30-19:00 | Csütörtök: 07:30-19:00 | Péntek: 07:30-19:00 | Szombat: 07:30-12:00",
+        "phone_detailed": "+36 62 281 333",
+        "facebook": "https://www.facebook.com/profile.php?id=100083112043399"
+    },
+    {
+        "patikaid": "196",
+        "poi": {
+            "longitude": "19.0367999",
+            "latitude": "47.440808",
+            "address": "1116 Budapest, Fehérvári út 200.",
+            "patika": "Non-Stop 200 Gyógyszertár",
+            "phone": "+36 1 365 3218",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Állandó nyitvatartás",
+        "phone_detailed": "+36 1 365 3218",
+        "facebook": "https://www.facebook.com/nonstoppatika"
+    },
+    {
+        "patikaid": "199",
+        "poi": {
+            "longitude": "20.7741813",
+            "latitude": "46.9317885",
+            "address": "5502 Gyomaendrőd, Hősök tere 12.",
+            "patika": "Endrőd Patika",
+            "phone": "+36 66 386 150",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 08:00-17:00 | Kedd: 08:00-17:00 | Szerda: 08:00-17:00 | Csütörtök: 08:00-17:00 | Péntek: 08:00-17:00",
+        "phone_detailed": "+36 66 386 150"
+    },
+    {
+        "patikaid": "200",
+        "poi": {
+            "longitude": "17.9479503",
+            "latitude": "47.142398",
+            "address": "8412 Gyulafirátót, Posta u. 15.",
+            "patika": "Egyetem Gyógyszertár Fiókgyógyszertára",
+            "phone": "+36 70 676 4980",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 08:00-13:00 | Kedd: 12:30-17:30 | Szerda: 08:00-13:00 | Csütörtök: 12:00-17:00 | Péntek: 08:00-13:00",
+        "phone_detailed": "+36 70 676 4980"
+    },
+    {
+        "patikaid": "201",
+        "poi": {
+            "longitude": "19.3412",
+            "latitude": "47.490217",
+            "address": "2119 Pécel, Kovács u. 5.",
+            "patika": "Szent Korona Gyógyszertár",
+            "phone": " +36 30 085 4532",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 07:30-19:00 | Kedd: 07:30-19:00 | Szerda: 07:30-19:00 | Csütörtök: 07:30-19:00 | Péntek: 07:30-19:00 | Szombat: 08:00-13:00",
+        "phone_detailed": "+36 30 085 4532"
+    },
+    {
+        "patikaid": "202",
+        "poi": {
+            "longitude": "20.7876879",
+            "latitude": "48.1063706",
+            "address": "3525 Miskolc, Madarász Viktor utca 13.",
+            "patika": "Sas Gyógyszertár",
+            "phone": "+36 46 506 596",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 08:00-18:30 | Kedd: 08:00-18:30 | Szerda: 08:00-18:30 | Csütörtök: 08:00-18:30 | Péntek: 08:00-18:30 | Szombat: 08:00-13:00",
+        "phone_detailed": "+36 46 506 596"
+    },
+    {
+        "patikaid": "203",
+        "poi": {
+            "longitude": "19.0496513",
+            "latitude": "47.5123083",
+            "address": "1055 Budapest, Szent István krt. 7.",
+            "patika": "Szent István Patika",
+            "phone": "+36 1 332 6920",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 07:30-20:00 | Kedd: 07:30-20:00 | Szerda: 07:30-20:00 | Csütörtök: 07:30-20:00 | Péntek: 07:30-20:00 | Szombat: 08:00-13:00",
+        "phone_detailed": "+36 1 332 6920"
+    },
+    {
+        "patikaid": "204",
+        "poi": {
+            "longitude": "18.4138508",
+            "latitude": "47.1973537",
+            "address": "8000 Székesfehérvár, Szekfű Gyula u. 17/A",
+            "patika": "Szekfű Gyógyszertár",
+            "phone": "+36 22 501 477",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 07:30-18:30 | Kedd: 07:30-18:30 | Szerda: 07:30-18:30 | Csütörtök: 07:30-18:30 | Péntek: 07:30-18:30",
+        "phone_detailed": "+36 22 501 477"
+    },
+    {
+        "patikaid": "205",
+        "poi": {
+            "longitude": "20.9981341",
+            "latitude": "47.2030557",
+            "address": "5527 Bucsa, Kossuth tér 5/1.",
+            "patika": "Park Fiókgyógyszertár",
+            "phone": "+66 493-033",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 08:00-16:00 | Kedd: 08:00-16:00 | Szerda: 08:00-16:00 | Csütörtök: 08:00-16:00 | Péntek: 08:00-16:00",
+        "phone_detailed": "+66 493-033"
+    },
+    {
+        "patikaid": "206",
+        "poi": {
+            "longitude": "20.8402417",
+            "latitude": "47.3850344",
+            "address": "5309 Berekfürdő, Fürdő u. 1.",
+            "patika": "Berek Fiókpatika Fiókgyógyszertár",
+            "phone": "+59 519-023",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_zarva_style\">ZÁRVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_zarva_style\">CLOSED</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 10:30-15:00 | Kedd: 10:30-15:00 | Szerda: 10:30-15:00 | Csütörtök: 10:30-15:00 | Péntek: 10:30-15:00",
+        "phone_detailed": "+59 519-023"
+    },
+    {
+        "patikaid": "207",
+        "poi": {
+            "longitude": "18.7943775",
+            "latitude": "47.1904444",
+            "address": "2456 Besnyő, Petőfi Sándor u. 3-5.",
+            "patika": "Írisz Fiókgyógyszertár",
+            "phone": "+36 25 233 634",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_zarva_style\">ZÁRVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_zarva_style\">CLOSED</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 09:00-12:00 | Kedd: 09:00-12:00 | Szerda: 09:00-12:00 | Csütörtök: 13:00-15:30 | Péntek: 09:00-12:00",
+        "phone_detailed": "+36 25 233 634"
+    },
+    {
+        "patikaid": "208",
+        "poi": {
+            "longitude": "18.1560691",
+            "latitude": "46.0355481",
+            "address": "7831 Pellérd, Dózsa György u. 41.",
+            "patika": "Zsongorkő Fiókgyógyszertár",
+            "phone": "+36 72 587 067",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 08:00-12:00 | Szerda: 08:00-12:00 | Péntek: 08:00-12:00",
+        "phone_detailed": "+36 72 587 067"
+    },
+    {
+        "patikaid": "209",
+        "poi": {
+            "longitude": "18.6435833",
+            "latitude": "46.9783519",
+            "address": "2435 Nagylók, Hunyadi utca 2/A",
+            "patika": "Nádor Fiókgyógyszertár",
+            "phone": "+36 25 244 013",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Szerda: 08:00-10:00 | Péntek: 14:15-16:15",
+        "phone_detailed": "+36 25 244 013"
+    },
+    {
+        "patikaid": "210",
+        "poi": {
+            "longitude": "17.8356309",
+            "latitude": "46.1576048",
+            "address": "7936 Szentlászló, Kossuth Lajos u. 36/2",
+            "patika": "Boróka Fiókgyógyszertár",
+            "phone": "+36 73 354 034",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 07:30-10:30 | Kedd: 07:30-10:30 | Szerda: 07:30-10:30 | Csütörtök: 07:30-10:30 | Péntek: 07:30-10:30",
+        "phone_detailed": "+36 73 354 034"
+    },
+    {
+        "patikaid": "213",
+        "poi": {
+            "longitude": "20.3783586",
+            "latitude": "47.1374878",
+            "address": "5282 Tiszatenyő, Béke út 24.",
+            "patika": "Fontana Gyógyszertár Fiókgyógyszertára",
+            "phone": "",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_zarva_style\">ZÁRVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_zarva_style\">CLOSED</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 09:00-11:30 | Kedd: 15:00-17:00 | Szerda: 09:00-11:30 | Csütörtök: 15:00-17:00 | Péntek: 09:00-11:30"
+    },
+    {
+        "patikaid": "214",
+        "poi": {
+            "longitude": "20.7169406",
+            "latitude": "46.7945991",
+            "address": "5552 Kardos, Gyomai út 22.",
+            "patika": "Kardosi Fiókgyógyszertár",
+            "phone": "",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_zarva_style\">ZÁRVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_zarva_style\">CLOSED</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 12:15-13:45 | Kedd: 12:15-13:45 | Szerda: 12:15-13:45 | Csütörtök: 12:15-13:45 | Péntek: 12:15-13:45"
+    },
+    {
+        "patikaid": "215",
+        "poi": {
+            "longitude": "21.4780597",
+            "latitude": "46.7357566",
+            "address": "5725 Kötegyán, Vasút u. 1/1.",
+            "patika": "Kristály Fiókgyógyszertár",
+            "phone": "",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 08:00-12:00 | Kedd: 08:00-12:00 | Szerda: 08:00-12:00 | Csütörtök: 08:00-12:00 | Péntek: 08:00-12:00"
+    },
+    {
+        "patikaid": "216",
+        "poi": {
+            "longitude": "19.1415404",
+            "latitude": "47.6414606",
+            "address": "2120 Dunakeszi, Tábor u. 42.",
+            "patika": "Unicornis Gyógyszertár",
+            "phone": "+36 27 343 264",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 08:00-18:00 | Kedd: 08:00-18:00 | Szerda: 08:00-18:00 | Csütörtök: 08:00-18:00 | Péntek: 08:00-18:00 | Szombat: 08:00-12:00",
+        "phone_detailed": "+36 27 343 264"
+    },
+    {
+        "patikaid": "217",
+        "poi": {
+            "longitude": "19.0068719",
+            "latitude": "47.3278792",
+            "address": "2315 Szigethalom, Mű út 5.",
+            "patika": "Mindig Nyitva Gyógyszertár",
+            "phone": "+36 24 961 585",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Állandó nyitvatartás",
+        "phone_detailed": "+36 24 961 585",
+        "facebook": "https://www.facebook.com/mindignyitvagyogyszertar"
+    },
+    {
+        "patikaid": "218",
+        "poi": {
+            "longitude": "20.2802818",
+            "latitude": "48.2229046",
+            "address": "3600 Ózd, Sárli út 4.",
+            "patika": "Kamilla Gyógyszertár",
+            "phone": "+36 48 470 322",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 08:00-18:00 | Kedd: 08:00-18:00 | Szerda: 08:00-18:00 | Csütörtök: 08:00-18:00 | Péntek: 08:00-18:00 | Szombat: 08:00-14:00",
+        "phone_detailed": "+36 48 470 322"
+    },
+    {
+        "patikaid": "219",
+        "poi": {
+            "longitude": "20.103943",
+            "latitude": "47.9311052",
+            "address": "3245 Recsk, Várbükki u. 2.",
+            "patika": "Fontana Gyógyszertár",
+            "phone": "+36 36 478 010",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 07:50-16:30 | Kedd: 07:50-16:30 | Szerda: 07:50-16:30 | Csütörtök: 07:50-16:30 | Péntek: 07:50-13:50",
+        "phone_detailed": "+36 36 478 010"
+    },
+    {
+        "patikaid": "220",
+        "poi": {
+            "longitude": "20.264397",
+            "latitude": "48.221528",
+            "address": "3600 Ózd, Árpád Vezér út 25.",
+            "patika": "Fortuna Gyógyszertár",
+            "phone": "+36 48 472 729",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 08:00-17:00 | Kedd: 08:00-17:00 | Szerda: 08:00-17:00 | Csütörtök: 08:00-17:00 | Péntek: 08:00-17:00",
+        "phone_detailed": "+36 48 472 729"
+    },
+    {
+        "patikaid": "221",
+        "poi": {
+            "longitude": "20.079306",
+            "latitude": "47.9491258",
+            "address": "3246 Mátraderecske, Baross G. u. 14.",
+            "patika": "Fontana Fiókgyógyszertár Mátraderecske",
+            "phone": "+36 36 478 010",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_zarva_style\">ZÁRVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_zarva_style\">CLOSED</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 08:30-11:30 | Szerda: 13:00-15:30 | Péntek: 08:30-11:30",
+        "phone_detailed": "+36 36 478 010"
+    },
+    {
+        "patikaid": "222",
+        "poi": {
+            "longitude": "20.2444652",
+            "latitude": "48.1539209",
+            "address": "3664 Járdánháza, Iv. Béla út 133.",
+            "patika": "Kamilla Gyógszertár Fiókpatikája",
+            "phone": "+36 48 470 322",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 08:00-11:00 | Szerda: 08:00-11:00 | Péntek: 08:00-11:00",
+        "phone_detailed": "+36 48 470 322"
+    },
+    {
+        "patikaid": "223",
+        "poi": {
+            "longitude": "18.9294215",
+            "latitude": "47.5183758",
+            "address": "2092 Budakeszi, József Attila u. 47.",
+            "patika": "Póczi Patika",
+            "phone": "+3623450770",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 08:00-20:00 | Kedd: 08:00-20:00 | Szerda: 08:00-20:00 | Csütörtök: 08:00-20:00 | Péntek: 08:00-20:00 | Szombat: 08:00-13:00",
+        "phone_detailed": "+3623450770"
+    },
+    {
+        "patikaid": "224",
+        "poi": {
+            "longitude": "19.0579584",
+            "latitude": "47.4669389",
+            "address": "1117 Budapest, Napkelte utca 3.",
+            "patika": "Kopaszi Non-Stop Gyógyszertár",
+            "phone": "+3616300334",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Állandó nyitvatartás",
+        "phone_detailed": "+3616300334"
+    },
+    {
+        "patikaid": "226",
+        "poi": {
+            "longitude": "19.1069088",
+            "latitude": "47.5617662",
+            "address": "1042 Budapest, Árpád út 183-185.",
+            "patika": "Kulcspatika Víztorony Gyógyszertár",
+            "phone": "+3612720455",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 08:00-20:00 | Kedd: 08:00-20:00 | Szerda: 08:00-20:00 | Csütörtök: 08:00-20:00 | Péntek: 08:00-20:00 | Szombat: 08:00-18:00",
+        "phone_detailed": "+3612720455"
+    },
+    {
+        "patikaid": "227",
+        "poi": {
+            "longitude": "19.7839721",
+            "latitude": "46.1991859",
+            "address": "6783 Ásotthalom, Béke utca 20.",
+            "patika": "Csodarét Gyógyszertár",
+            "phone": "+3662291454",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 08:00-16:00 | Kedd: 08:00-16:00 | Szerda: 08:00-16:00 | Csütörtök: 08:00-16:00 | Péntek: 08:00-16:00",
+        "phone_detailed": "+3662291454"
+    },
+    {
+        "patikaid": "230",
+        "poi": {
+            "longitude": "21.3942343",
+            "latitude": "47.4484474",
+            "address": "4200 Hajdúszoboszló, Major utca 26.",
+            "patika": "Katalin Gyógyszertár",
+            "phone": "+36 52 557 805",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 08:00-18:00 | Kedd: 08:00-18:00 | Szerda: 08:00-18:00 | Csütörtök: 08:00-18:00 | Péntek: 08:00-18:00",
+        "phone_detailed": "+36 52 557 805"
+    },
+    {
+        "patikaid": "231",
+        "poi": {
+            "longitude": "17.0979488",
+            "latitude": "46.256513",
+            "address": "8840 Csurgó, Csokonai utca 4.",
+            "patika": "Medicina Gyógyszertár",
+            "phone": "+36 82 471 017",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 07:30-18:00 | Kedd: 07:30-18:00 | Szerda: 07:30-18:00 | Csütörtök: 07:30-18:00 | Péntek: 07:30-18:00 | Szombat: 08:00-12:00",
+        "phone_detailed": "+36 82 471 017"
+    },
+    {
+        "patikaid": "233",
+        "poi": {
+            "longitude": "19.0348489",
+            "latitude": "47.4676399",
+            "address": "1115 Budapest, Tétényi út 18.",
+            "patika": "Angelika Patika",
+            "phone": "+36 1 203-2875",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 08:00-20:00 | Kedd: 08:00-20:00 | Szerda: 08:00-20:00 | Csütörtök: 08:00-20:00 | Péntek: 08:00-20:00 | Szombat: 08:00-12:00",
+        "phone_detailed": "+36 1 203-2875",
+        "facebook": "https://www.facebook.com/AngelikaPatika"
+    },
+    {
+        "patikaid": "235",
+        "poi": {
+            "longitude": "20.620224",
+            "latitude": "48.250438",
+            "address": "3700 Kazincbarcika, Egressy Béni utca 29.",
+            "patika": "Szent István Gyógyszertár",
+            "phone": "+36 48 512 188",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 08:00-17:00 | Kedd: 08:00-17:00 | Szerda: 08:00-17:00 | Csütörtök: 08:00-17:00 | Péntek: 08:00-17:00 | Szombat: 08:00-12:00",
+        "phone_detailed": "+36 48 512 188"
+    },
+    {
+        "patikaid": "236",
+        "poi": {
+            "longitude": "19.2128037",
+            "latitude": "47.3820683",
+            "address": "2360 Gyál, Munkácsy Mihály utca 117.",
+            "patika": "Déryné 0-24 Gyógyszertár",
+            "phone": "+36 29 740 389",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Állandó nyitvatartás",
+        "phone_detailed": "+36 29 740 389"
+    },
+    {
+        "patikaid": "237",
+        "poi": {
+            "longitude": "16.8006239",
+            "latitude": "46.8625666",
+            "address": "8900 Zalaegerszeg, Körmendi utca 19.",
+            "patika": "Fenyő Gyógyszertár",
+            "phone": "+36 92 599 094",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 08:00-16:30 | Kedd: 08:00-16:30 | Szerda: 08:00-16:30 | Csütörtök: 08:00-16:30 | Péntek: 08:00-16:30",
+        "phone_detailed": "+36 92 599 094"
+    },
+    {
+        "patikaid": "238",
+        "poi": {
+            "longitude": "19.0129104",
+            "latitude": "46.8027027",
+            "address": "6320 Solt, Kecskeméti út 27/c.",
+            "patika": "Hársfa Gyógyszertár",
+            "phone": "+36 78 487 963",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 07:30-13:30 | Kedd: 07:30-13:30 | Szerda: 07:30-13:30 | Csütörtök: 07:30-13:30 | Péntek: 07:30-13:30",
+        "phone_detailed": "+36 78 487 963"
+    },
+    {
+        "patikaid": "239",
+        "poi": {
+            "longitude": "19.0362064",
+            "latitude": "47.4736692",
+            "address": "1115 Budapest, Bartók Béla út 98-102.",
+            "patika": "Bartók Non-Stop Gyógyszertár",
+            "phone": "+36 1 406 9367",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Állandó nyitvatartás",
+        "phone_detailed": "+36 1 406 9367",
+        "facebook": "https://www.facebook.com/bartoknonstopgyogyszertar"
+    },
+    {
+        "patikaid": "240",
+        "poi": {
+            "longitude": "16.5767069",
+            "latitude": "47.6912747",
+            "address": "9400 Sopron, Kodály tér 12.",
+            "patika": "Ezüst Kehely Gyógyszertár",
+            "phone": "+ 36 99 505 249",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 07:30-18:30 | Kedd: 07:30-18:30 | Szerda: 07:30-18:30 | Csütörtök: 07:30-18:30 | Péntek: 07:30-18:30 | Szombat: 08:00-12:00",
+        "phone_detailed": "+ 36 99 505 249"
+    },
+    {
+        "patikaid": "242",
+        "poi": {
+            "longitude": "19.3035015",
+            "latitude": "47.6675866",
+            "address": "2113 Erdőkertes, Fő út 31.",
+            "patika": "Kertes 0-24 Gyógyszertár",
+            "phone": "+36 28 758 767",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Állandó nyitvatartás",
+        "phone_detailed": "+36 28 758 767",
+        "facebook": "https://www.facebook.com/kertesnonstopgyogyszertar/"
+    },
+    {
+        "patikaid": "244",
+        "poi": {
+            "longitude": "19.1080354",
+            "latitude": "47.4964847",
+            "address": "1087 Budapest, Hungária körút 30.",
+            "patika": "Campus Gyógyszertár",
+            "phone": "+36202522190",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 08:00-20:00 | Kedd: 08:00-20:00 | Szerda: 08:00-20:00 | Csütörtök: 08:00-20:00 | Péntek: 08:00-20:00 | Szombat: 08:00-13:00",
+        "phone_detailed": "+36202522190",
+        "facebook": "https://www.facebook.com/people/Campus-Gy%C3%B3gyszert%C3%A1r/100089776215323/"
+    },
+    {
+        "patikaid": "245",
+        "poi": {
+            "longitude": "19.1186968",
+            "latitude": "47.432127",
+            "address": "1204 Budapest, Székelyhíd utca 23.",
+            "patika": "Erzsébeti 0-24 Gyógyszertár",
+            "phone": "+36 1 205 4733",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Állandó nyitvatartás",
+        "phone_detailed": "+36 1 205 4733"
+    },
+    {
+        "patikaid": "246",
+        "poi": {
+            "longitude": "16.6171611",
+            "latitude": "47.222152",
+            "address": "9700 Szombathely, Körmendi út 52-54. (SAVARIA PLÁZA)",
+            "patika": "Savaria Gyógyszertár",
+            "phone": "+36 94 508 552",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 08:00-19:00 | Kedd: 08:00-19:00 | Szerda: 08:00-19:00 | Csütörtök: 08:00-19:00 | Péntek: 08:00-19:00 | Szombat: 08:00-19:00 | Vasárnap: 09:00-18:00",
+        "phone_detailed": "+36 94 508 552",
+        "facebook": "https://www.facebook.com/profile.php?id=100088216999799&amp;locale=hu_HU"
+    },
+    {
+        "patikaid": "247",
+        "poi": {
+            "longitude": "17.6621496",
+            "latitude": "47.6954253",
+            "address": "9027 Győr, Nagysándor József utca 31.",
+            "patika": "ETO Park Gyógyszertár",
+            "phone": "+36 96 550 348",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 08:00-20:00 | Kedd: 08:00-20:00 | Szerda: 08:00-20:00 | Csütörtök: 08:00-20:00 | Péntek: 08:00-20:00 | Szombat: 08:00-20:00 | Vasárnap: 08:00-20:00",
+        "phone_detailed": "+36 96 550 348"
+    },
+    {
+        "patikaid": "260",
+        "poi": {
+            "longitude": "19.059776",
+            "latitude": "47.6012495",
+            "address": "1039 Budapest, Füst Milán u. 28.",
+            "patika": "Zöldkereszt Gyógyszertár",
+            "phone": "+36 1 243 0523",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 08:00-20:00 | Kedd: 08:00-20:00 | Szerda: 08:00-20:00 | Csütörtök: 08:00-20:00 | Péntek: 08:00-20:00 | Szombat: 08:00-13:00",
+        "phone_detailed": "+36 1 243 0523"
+    },
+    {
+        "patikaid": "261",
+        "poi": {
+            "longitude": "18.9372841",
+            "latitude": "47.3762791",
+            "address": "2030 Érd, Budafoki út 2-4.",
+            "patika": "Bíbor Gyógyszertár",
+            "phone": "+36 23 520 030",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 08:00-20:00 | Kedd: 08:00-20:00 | Szerda: 08:00-20:00 | Csütörtök: 08:00-20:00 | Péntek: 08:00-20:00 | Szombat: 08:00-20:00 | Vasárnap: 08:00-20:00",
+        "phone_detailed": "+36 23 520 030"
+    },
+    {
+        "patikaid": "262",
+        "poi": {
+            "longitude": "19.0543871",
+            "latitude": "47.4994703",
+            "address": "1051 Budapest, Bajcsy-Zsilinszky út 12.",
+            "patika": "Center Gyógyszertár",
+            "phone": "+36 1 392 45 47",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 08:00-20:00 | Kedd: 08:00-20:00 | Szerda: 08:00-20:00 | Csütörtök: 08:00-20:00 | Péntek: 08:00-20:00 | Szombat: 09:00-20:00 | Vasárnap: 09:00-20:00",
+        "phone_detailed": "+36 1 392 45 47"
+    },
+    {
+        "patikaid": "263",
+        "poi": {
+            "longitude": "22.5141959",
+            "latitude": "47.988873",
+            "address": "4900 Fehérgyarmat, Móricz Zsigmond u. 3-5.",
+            "patika": "Kazay Gyógyszertár",
+            "phone": "+36 30 566 3246",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 07:00-17:30 | Kedd: 07:00-17:30 | Szerda: 07:00-17:30 | Csütörtök: 07:00-17:30 | Péntek: 07:00-17:30 | Szombat: 07:00-13:00 | Vasárnap: 07:00-12:00",
+        "phone_detailed": "+36 30 566 3246"
+    },
+    {
+        "patikaid": "264",
+        "poi": {
+            "longitude": "17.645795",
+            "latitude": "46.432249",
+            "address": "7434 Mezőcsokonya, Fő utca 42. ",
+            "patika": "Őrangyal Fiókgyógyszertár Mezőcsokonya",
+            "phone": "+36 70 543 0076",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_zarva_style\">ZÁRVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_zarva_style\">CLOSED</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 09:00-12:00 | Kedd: 12:30-14:00 | Szerda: 09:00-12:00 | Csütörtök: 12:30-14:00 | Péntek: 09:00-12:00",
+        "phone_detailed": "+36 70 543 0076"
+    },
+    {
+        "patikaid": "265",
+        "poi": {
+            "longitude": "17.5977942",
+            "latitude": "46.4126846",
+            "address": "7435 Somogysárd, Fő utca 4.",
+            "patika": "Őrangyal Fiókgyógyszertár Somogysárd",
+            "phone": "+36 70 543 0076",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_zarva_style\">ZÁRVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_zarva_style\">CLOSED</span></span>"
+        },
+        "opening_hours_detailed": "Kedd: 09:00-12:00 | Csütörtök: 09:00-12:00",
+        "phone_detailed": "+36 70 543 0076"
+    },
+    {
+        "patikaid": "266",
+        "poi": {
+            "longitude": "18.1527296",
+            "latitude": "46.3822171",
+            "address": "7200 Dombóvár, Fő utca 43.",
+            "patika": "Gesztenyesor Patika",
+            "phone": "+36 74 460 166",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 07:00-18:00 | Kedd: 07:00-18:00 | Szerda: 07:00-18:00 | Csütörtök: 07:00-18:00 | Péntek: 07:00-18:00 | Szombat: 07:00-12:00",
+        "phone_detailed": "+36 74 460 166"
+    },
+    {
+        "patikaid": "269",
+        "poi": {
+            "longitude": "18.7240402",
+            "latitude": "47.3235399",
+            "address": "2412 Kajászó, Rákóczi utca 71.",
+            "patika": "Szekfű Fiókgyógyszertár Kajászó",
+            "phone": "+36 22 501 477",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 13:30-17:30 | Szerda: 08:30-11:30 | Péntek: 08:30-11:30",
+        "phone_detailed": "+36 22 501 477"
+    },
+    {
+        "patikaid": "270",
+        "poi": {
+            "longitude": "19.0530095",
+            "latitude": "47.5020538",
+            "address": "1051 Budapest, Hercegprímás utca 13.",
+            "patika": "Lipótvárosi Patika Gyógyszertár",
+            "phone": "",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_zarva_style\">ZÁRVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_zarva_style\">CLOSED</span></span>"
+        }
+    },
+    {
+        "patikaid": "272",
+        "poi": {
+            "longitude": "18.2641995",
+            "latitude": "46.0834803",
+            "address": "7630 Pécs, Zsolnay Vilmos u. 94. ",
+            "patika": "Eozin Patika Kulcs Gyógyszertár",
+            "phone": "+36 72 216 165",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 07:30-18:00 | Kedd: 07:30-18:00 | Szerda: 07:30-18:00 | Csütörtök: 07:30-18:00 | Péntek: 07:30-18:00 | Szombat: 08:00-12:00",
+        "phone_detailed": "+36 72 216 165"
+    },
+    {
+        "patikaid": "275",
+        "poi": {
+            "longitude": "19.0692203",
+            "latitude": "47.5006246",
+            "address": "1073 Budapest,  Erzsébet krt. 23.",
+            "patika": "Erzsébet Körúti Gyógyszertár",
+            "phone": "+36 30 213 0837",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 08:00-20:00 | Kedd: 08:00-20:00 | Szerda: 08:00-20:00 | Csütörtök: 08:00-20:00 | Péntek: 08:00-20:00 | Szombat: 08:00-13:00",
+        "phone_detailed": "+36 30 213 0837",
+        "facebook": "https://www.facebook.com/profile.php?id=61555932186347"
+    },
+    {
+        "patikaid": "276",
+        "poi": {
+            "longitude": "18.4556899",
+            "latitude": "45.8706142",
+            "address": "7773 Villány,  Baross Gábor utca 23.",
+            "patika": "Kikerics Patika",
+            "phone": "+36 20 571 1671",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 08:00-16:00 | Kedd: 08:00-16:00 | Szerda: 08:00-16:00 | Csütörtök: 08:00-16:00 | Péntek: 08:00-16:00",
+        "phone_detailed": "+36 20 571 1671"
+    },
+    {
+        "patikaid": "277",
+        "poi": {
+            "longitude": "18.3124265",
+            "latitude": "47.6297228",
+            "address": "2890 Tata, Környei út Ring út sarok",
+            "patika": "Kulcspatika Tata",
+            "phone": "+36 30 072 6777",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_zarva_style\">ZÁRVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_zarva_style\">CLOSED</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 09:00-19:00 | Kedd: 09:00-19:00 | Szerda: 09:00-19:00 | Csütörtök: 09:00-19:00 | Péntek: 09:00-19:00 | Szombat: 09:00-20:00 | Vasárnap: 09:00-17:00",
+        "phone_detailed": "+36 30 072 6777"
+    },
+    {
+        "patikaid": "278",
+        "poi": {
+            "longitude": "21.7219423",
+            "latitude": "47.1301236",
+            "address": "4110 Biharkeresztes , Ady Endre utca 5-7",
+            "patika": "Remedium Gyógyszertár ",
+            "phone": "+36 54 430 020",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 08:00-16:30 | Kedd: 08:00-16:30 | Szerda: 08:00-16:30 | Csütörtök: 08:00-16:30 | Péntek: 08:00-16:30 | Szombat: 08:00-12:00",
+        "phone_detailed": "+36 54 430 020"
+    },
+    {
+        "patikaid": "279",
+        "poi": {
+            "longitude": "18.2208352",
+            "latitude": "46.0747352",
+            "address": "7623 Pécs, Garay János u. 2.",
+            "patika": "Barbakán patika",
+            "phone": "06 72/511-872",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 08:00-17:00 | Kedd: 08:00-17:00 | Szerda: 08:00-17:00 | Csütörtök: 08:00-17:00 | Péntek: 08:00-17:00",
+        "phone_detailed": "06 72/511-872"
+    },
+    {
+        "patikaid": "280",
+        "poi": {
+            "longitude": "17.1075908",
+            "latitude": "46.3631512",
+            "address": "8725 Iharosberény, Mártírok útja 61.",
+            "patika": "Gesztenye Patika ",
+            "phone": "06 20 315 6056 (nyitvatartási időben)",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_zarva_style\">ZÁRVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_zarva_style\">CLOSED</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 13:00-15:00 | Kedd: 09:00-11:00 | Szerda: 13:00-15:00 | Csütörtök: 13:00-15:00 | Péntek: 09:00-11:00",
+        "phone_detailed": "06 20 315 6056 (nyitvatartási időben)"
+    },
+    {
+        "patikaid": "281",
+        "poi": {
+            "longitude": "18.5412788",
+            "latitude": "47.2164701",
+            "address": "8095  Pákozd, Hősök tere 12.",
+            "patika": "Bella Gyógyszertár",
+            "phone": "06 22 458 520",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 08:00-17:00 | Kedd: 10:00-18:00 | Szerda: 08:00-16:00 | Csütörtök: 08:00-17:00 | Péntek: 08:00-16:00",
+        "phone_detailed": "06 22 458 520"
+    },
+    {
+        "patikaid": "282",
+        "poi": {
+            "longitude": "17.8132706",
+            "latitude": "47.1214835",
+            "address": "8441 Márkó, Padányi Bíró Márton tér 3-4.",
+            "patika": "Szent Rita Fiókpatika",
+            "phone": "0688783504",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 08:00-12:00 | Kedd: 13:00-17:00 | Szerda: 08:00-12:00 | Csütörtök: 12:00-16:00 | Péntek: 08:00-12:00",
+        "phone_detailed": "0688783504"
+    },
+    {
+        "patikaid": "284",
+        "poi": {
+            "longitude": "20.2583083",
+            "latitude": "48.1759527",
+            "address": "3663 Arló, Ady Endre út 133.",
+            "patika": "Fortuna Gyógyszertár Fiókgyógyszertára ",
+            "phone": "+36 48 472 729",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_zarva_style\">ZÁRVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_zarva_style\">CLOSED</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 10:00-13:00 | Szerda: 10:00-13:00 | Csütörtök: 10:00-13:00",
+        "phone_detailed": "+36 48 472 729"
+    },
+    {
+        "patikaid": "285",
+        "poi": {
+            "longitude": "19.0287505",
+            "latitude": "47.5417457",
+            "address": "1037 Budapest, Bécsi út 136. ( A földszinten a H&M mellett )",
+            "patika": "Mega Gyógyszertár",
+            "phone": "+36704182442 ",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 08:30-19:30 | Kedd: 08:30-19:30 | Szerda: 08:30-19:30 | Csütörtök: 08:30-19:30 | Péntek: 08:30-19:30 | Szombat: 08:30-18:00 | Vasárnap: 10:00-18:00",
+        "phone_detailed": "+36704182442"
+    },
+    {
+        "patikaid": "286",
+        "poi": {
+            "longitude": "19.0329855",
+            "latitude": "47.3237543",
+            "address": "2310 Szigetszentmiklós, Csépi u.122.",
+            "patika": "Miklósi 0-24 Gyógyszertár",
+            "phone": "+36 24 950 986",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Állandó nyitvatartás",
+        "phone_detailed": "+36 24 950 986"
+    },
+    {
+        "patikaid": "287",
+        "poi": {
+            "longitude": "19.0929507",
+            "latitude": "47.5051407",
+            "address": "1146 Budapest, Szabó József u. 2-6.",
+            "patika": "Récsei – Korona Gyógyszertár",
+            "phone": "+36 1 273 4339",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_zarva_style\">ZÁRVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_zarva_style\">CLOSED</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 09:30-19:00 | Kedd: 09:30-19:00 | Szerda: 09:30-19:00 | Csütörtök: 09:30-19:00 | Péntek: 09:30-19:00 | Szombat: 09:00-13:00",
+        "phone_detailed": "+36 1 273 4339"
+    },
+    {
+        "patikaid": "289",
+        "poi": {
+            "longitude": "19.0264548",
+            "latitude": "47.3078563",
+            "address": "2315 Szigethalom, Dunasor 66.",
+            "patika": "Halom 0-24 Gyógyszertár",
+            "phone": "+36 24 959 156",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Állandó nyitvatartás",
+        "phone_detailed": "+36 24 959 156"
+    },
+    {
+        "patikaid": "290",
+        "poi": {
+            "longitude": "20.7437993",
+            "latitude": "48.1026885",
+            "address": "3532 Miskolc, Győri kapu 105.",
+            "patika": "Sólyom Gyógyszertár",
+            "phone": "+36 46 530 392",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 08:00-18:00 | Kedd: 08:00-18:00 | Szerda: 08:00-18:00 | Csütörtök: 08:00-18:00 | Péntek: 08:00-18:00 | Szombat: 08:00-13:00",
+        "phone_detailed": "+36 46 530 392"
+    },
+    {
+        "patikaid": "291",
+        "poi": {
+            "longitude": "20.7163049",
+            "latitude": "48.1012068",
+            "address": "3534 Miskolc, Andrássy u 94.",
+            "patika": "Stadion Gyógyszertár",
+            "phone": "+36 46 532 306",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 08:00-19:00 | Kedd: 08:00-19:00 | Szerda: 08:00-19:00 | Csütörtök: 08:00-19:00 | Péntek: 08:00-19:00 | Szombat: 08:00-13:00",
+        "phone_detailed": "+36 46 532 306"
+    },
+    {
+        "patikaid": "292",
+        "poi": {
+            "longitude": "21.0244028",
+            "latitude": "47.9316388",
+            "address": "3580 Tiszaújváros, Örösi út 1/a",
+            "patika": "Tisza Gyógyszertár",
+            "phone": "+36 49 540 318",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 08:00-20:00 | Kedd: 08:00-20:00 | Szerda: 08:00-20:00 | Csütörtök: 08:00-20:00 | Péntek: 08:00-20:00 | Szombat: 08:00-20:00 | Vasárnap: 09:00-17:00",
+        "phone_detailed": "+36 49 540 318"
+    },
+    {
+        "patikaid": "293",
+        "poi": {
+            "longitude": "20.7930221",
+            "latitude": "48.1029604",
+            "address": "3530 Miskolc, Bajcsy Zsilinszky u. 8",
+            "patika": "Virág Gyógyszertár",
+            "phone": "+36 46 321 144",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 08:00-18:00 | Kedd: 08:00-18:00 | Szerda: 08:00-18:00 | Csütörtök: 08:00-18:00 | Péntek: 08:00-18:00 | Szombat: 08:00-13:00",
+        "phone_detailed": "+36 46 321 144"
+    },
+    {
+        "patikaid": "294",
+        "poi": {
+            "longitude": "20.7891908",
+            "latitude": "48.1056453",
+            "address": "3526 Miskolc, Búza tér 1.",
+            "patika": "Vásárcsarnok Gyógyszertár",
+            "phone": "+36 46 504 845",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 06:30-19:00 | Kedd: 06:30-19:00 | Szerda: 06:30-19:00 | Csütörtök: 06:30-19:00 | Péntek: 06:30-19:00 | Szombat: 06:30-14:00 | Vasárnap: 06:30-12:00",
+        "phone_detailed": "+36 46 504 845"
+    },
+    {
+        "patikaid": "295",
+        "poi": {
+            "longitude": "20.7848819",
+            "latitude": "48.102389",
+            "address": "3530 Miskolc, Széchenyi u 36.",
+            "patika": "Adonisz Gyógyszertár",
+            "phone": "+36 46 507 144",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 08:00-19:00 | Kedd: 08:00-19:00 | Szerda: 08:00-19:00 | Csütörtök: 08:00-19:00 | Péntek: 08:00-19:00 | Szombat: 08:00-13:00",
+        "phone_detailed": "+36 46 507 144"
+    },
+    {
+        "patikaid": "296",
+        "poi": {
+            "longitude": "20.7544306",
+            "latitude": "48.1037131",
+            "address": "3531 Miskolc, Győri kapu 47-53",
+            "patika": "Győri Kapu Gyógyszertár",
+            "phone": "+36 46 307 614 ,   +36 20 400 1947",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 08:00-19:00 | Kedd: 08:00-19:00 | Szerda: 08:00-19:00 | Csütörtök: 08:00-19:00 | Péntek: 08:00-19:00 | Szombat: 08:00-13:00",
+        "phone_detailed": "+36 46 307 614 ,   +36 20 400 1947"
+    },
+    {
+        "patikaid": "297",
+        "poi": {
+            "longitude": "20.7861369",
+            "latitude": "48.0901833",
+            "address": "3529 Miskolc, Bottyán János u. 2.",
+            "patika": "Semmelweis Gyógyszertár",
+            "phone": "+36 46 304 382",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 07:00-17:00 | Kedd: 07:00-17:00 | Szerda: 07:00-17:00 | Csütörtök: 07:00-17:00 | Péntek: 07:00-17:00",
+        "phone_detailed": "+36 46 304 382"
+    },
+    {
+        "patikaid": "298",
+        "poi": {
+            "longitude": "20.8560987",
+            "latitude": "48.103185",
+            "address": "3561 Felsőzsolca, Rákóczi u. 48.",
+            "patika": "Platán Gyógyszertár",
+            "phone": "+36 46 584 227",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 08:00-18:00 | Kedd: 08:00-18:00 | Szerda: 08:00-18:00 | Csütörtök: 08:00-18:00 | Péntek: 08:00-18:30 | Szombat: 08:00-13:00",
+        "phone_detailed": "+36 46 584 227"
+    },
+    {
+        "patikaid": "299",
+        "poi": {
+            "longitude": "20.7745689",
+            "latitude": "48.0881358",
+            "address": "3524 Miskolc, Klapka Gy. u 12.",
+            "patika": "Hozsanna Gyógyszertár",
+            "phone": "+36 46 560 596",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 08:00-16:00 | Kedd: 08:00-16:00 | Szerda: 08:00-16:00 | Csütörtök: 08:00-16:00 | Péntek: 08:00-16:00",
+        "phone_detailed": "+36 46 560 596"
+    },
+    {
+        "patikaid": "300",
+        "poi": {
+            "longitude": "20.7777756",
+            "latitude": "48.0837022",
+            "address": "3529 Miskolc, Szent György u. 5.",
+            "patika": "Szent Damján Gyógyszertár",
+            "phone": "+36 20 448 0929",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 08:00-18:00 | Kedd: 08:00-18:00 | Szerda: 08:00-18:00 | Csütörtök: 08:00-18:00 | Péntek: 08:00-18:00 | Szombat: 08:00-13:00",
+        "phone_detailed": "+36 20 448 0929"
+    },
+    {
+        "patikaid": "301",
+        "poi": {
+            "longitude": "18.6020247",
+            "latitude": "47.2380939",
+            "address": "8096 Sukoró, Óvoda utca 2/A.",
+            "patika": "Szekfű Gyógyszertár Fiókgyógyszertára",
+            "phone": "+36 22 501 477",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_zarva_style\">ZÁRVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_zarva_style\">CLOSED</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 08:00-12:00 | Kedd: 08:00-12:00 | Szerda: 13:00-18:00 | Csütörtök: 08:00-16:00 | Péntek: 13:00-16:00",
+        "phone_detailed": "+36 22 501 477"
+    },
+    {
+        "patikaid": "302",
+        "poi": {
+            "longitude": "18.5184159",
+            "latitude": "47.477831",
+            "address": "2066 Szár, Rákóczi utca 53.",
+            "patika": "Szekfű Gyógyszertár Fiókgyógyszertára",
+            "phone": "+36 22 501477",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_zarva_style\">ZÁRVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_zarva_style\">CLOSED</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 08:30-12:30 | Kedd: 12:30-16:30 | Szerda: 12:30-16:30 | Csütörtök: 08:30-12:30 | Péntek: 08:30-12:30",
+        "phone_detailed": "+36 22 501477"
+    },
+    {
+        "patikaid": "303",
+        "poi": {
+            "longitude": "22.5287546",
+            "latitude": "48.1030568",
+            "address": "4933  Beregsurány, Árpád utca 28.",
+            "patika": "Mátyás Patika Fiókgyógyszertár ",
+            "phone": "",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_zarva_style\">ZÁRVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_zarva_style\">CLOSED</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 09:00-11:00 | Szerda: 09:00-11:00 | Péntek: 09:00-11:00"
+    },
+    {
+        "patikaid": "304",
+        "poi": {
+            "longitude": "17.6026872",
+            "latitude": "47.3174714",
+            "address": "8564 Ugod, Kossuth utca 16.",
+            "patika": "Őrangyal fiókgyógyszertár",
+            "phone": "+36 89 313 727",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_zarva_style\">ZÁRVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_zarva_style\">CLOSED</span></span>"
+        },
+        "opening_hours_detailed": "Kedd: 09:00-12:30 | Szerda: 13:00-16:30 | Péntek: 09:00-12:30",
+        "phone_detailed": "+36 89 313 727"
+    },
+    {
+        "patikaid": "305",
+        "poi": {
+            "longitude": "19.073525",
+            "latitude": "47.434093",
+            "address": "1215 Budapest, Táncsics Mihály u. 10-12",
+            "patika": "Csepel Patika",
+            "phone": "+36 1 278 0949 ",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 08:00-19:30 | Kedd: 08:00-19:30 | Szerda: 08:00-19:30 | Csütörtök: 08:00-19:30 | Péntek: 08:00-19:30 | Szombat: 08:00-12:00",
+        "phone_detailed": "+36 1 278 0949"
+    },
+    {
+        "patikaid": "306",
+        "poi": {
+            "longitude": "19.055746",
+            "latitude": "47.5144422",
+            "address": "1132 Budapest, Visegrádi utca 19.",
+            "patika": "Nap Gyógyszertár",
+            "phone": "+36 1 239 3237",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 07:30-19:30 | Kedd: 07:30-19:30 | Szerda: 07:30-19:30 | Csütörtök: 07:30-19:30 | Péntek: 07:30-19:30 | Szombat: 08:00-13:00",
+        "phone_detailed": "+36 1 239 3237"
+    },
+    {
+        "patikaid": "307",
+        "poi": {
+            "longitude": "21.03861399325277",
+            "latitude": "47.93438505663866",
+            "address": "3580 Tiszaújváros, Bethlen G. u. 17",
+            "patika": "Arany Sas Gyógyszertár",
+            "phone": "+36 49 540 688",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 08:00-17:00 | Kedd: 08:00-17:00 | Szerda: 08:00-17:00 | Csütörtök: 08:00-17:00 | Péntek: 08:00-17:00 | Szombat: 08:00-12:00",
+        "phone_detailed": "+36 49 540 688"
+    },
+    {
+        "patikaid": "308",
+        "poi": {
+            "longitude": "19.26852019140651",
+            "latitude": "47.55131825640794",
+            "address": "2144 Kerepes , Szabadság út 1/a",
+            "patika": "Kerepesi Nagy Patika",
+            "phone": "+36 28 744 888",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 08:00-20:00 | Kedd: 08:00-20:00 | Szerda: 08:00-20:00 | Csütörtök: 08:00-20:00 | Péntek: 08:00-20:00 | Szombat: 08:00-20:00 | Vasárnap: 08:00-20:00",
+        "phone_detailed": "+36 28 744 888"
+    },
+    {
+        "patikaid": "309",
+        "poi": {
+            "longitude": "18.9862718",
+            "latitude": "47.3946424",
+            "address": "1225 Budapest, Batthyány u. 11.",
+            "patika": "Szent Ágota Gyógyszertár",
+            "phone": "+36 1 207 3936",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Hétfő: 08:00-20:00 | Kedd: 08:00-20:00 | Szerda: 08:00-20:00 | Csütörtök: 08:00-20:00 | Péntek: 08:00-20:00",
+        "phone_detailed": "+36 1 207 3936"
+    },
+    {
+        "patikaid": "310",
+        "poi": {
+            "longitude": "19.081626",
+            "latitude": "47.5632057",
+            "address": "1047 Budapest, Attila u 12-18. B.ép. Fsz.4",
+            "patika": "Újpesti 0-24 Gyógyszertár",
+            "phone": "+36 1 426 4378",
+            "nyitva": "<span class=\"lang hu\">Most: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">NYITVA</span></span><span class=\"lang en\">Now: <span class=\"gyogyszertarkereso_map_patika_nyitva_style\">OPEN</span></span>"
+        },
+        "opening_hours_detailed": "Állandó nyitvatartás",
+        "phone_detailed": "+36 1 426 4378"
+    }
+]

@@ -1,0 +1,200 @@
+[
+    {
+        "lat": "47.082974",
+        "lng": "17.922798",
+        "name": "Csillag Patikák - Almádi Úti Gyógyszertár",
+        "address": "8200 Veszprém, Almádi út 21.",
+        "anchor": "Csillag%20Patik%C3%A1k%20-%20Alm%C3%A1di%20%C3%9Ati%20Gy%C3%B3gyszert%C3%A1r",
+        "phone": "+36  88 566-510",
+        "opening_hours": "Hétfő - Péntek: 8:00 - 19:00 | Szombat: 8:00-19:00 | Vasárnap: 8:00- 18:00"
+    },
+    {
+        "lat": "47.0932992",
+        "lng": "17.9082942",
+        "name": "Csillag Patikák - Arany Oroszlán Gyógyszertár",
+        "address": "8200 Veszprém, Kossuth u. 9",
+        "anchor": "Csillag%20Patik%C3%A1k%20-%20Arany%20Oroszl%C3%A1n%20Gy%C3%B3gyszert%C3%A1r",
+        "phone": "+36 88 329-828",
+        "opening_hours": "Hétfő - Péntek: 7:30 - 18:00 | Szombat: 8:00 - 13:00"
+    },
+    {
+        "lat": "46.9621096",
+        "lng": "17.8719644",
+        "name": "Csillag Patikák - Aranyhíd Gyógyszertár",
+        "address": "8230 Balatonfüred, Csárda u. 1.",
+        "anchor": "Csillag%20Patik%C3%A1k%20-%20Aranyh%C3%ADd%20Gy%C3%B3gyszert%C3%A1r",
+        "phone": "+36 87 481-682",
+        "opening_hours": "Nyári szezonon kívül (augusztus 21 - június 19): | Hétfő - Péntek: 7:30 - 18:00 | Szombat: 8:00 - 13:00 | Nyári hónapokban (június 20 - augusztus 20): | Hétfő - Péntek: 7:30 - 20:00 | Szombat: 7:30 - 14:00"
+    },
+    {
+        "lat": "47.458427",
+        "lng": "19.146182",
+        "name": "Csillag Patikák - Áruház Gyógyszertár",
+        "address": "1191 Budapest, Áruház köz 1-3. ",
+        "anchor": "Csillag%20Patik%C3%A1k%20-%20%C3%81ruh%C3%A1z%20Gy%C3%B3gyszert%C3%A1r",
+        "phone": "06 1/347-0133",
+        "opening_hours": "Hétfő-Péntek: 7:00-19:00 | Szombat: 7:00 – 14:00"
+    },
+    {
+        "lat": "47.20157698578238 ",
+        "lng": "18.132195864796046",
+        "name": "Csillag Patikák - Borostyán Gyógyszertár",
+        "address": "8100 Várpalota, Bakony utca 10.",
+        "anchor": "Csillag%20Patik%C3%A1k%20-%20Borosty%C3%A1n%20Gy%C3%B3gyszert%C3%A1r",
+        "phone": "+36 88 472-017",
+        "opening_hours": "Hétfő - Péntek: 7:30 - 18:30 | Szombat: 8:00 - 12:00"
+    },
+    {
+        "lat": "47.09532904301018",
+        "lng": "17.9144713127257",
+        "name": "Csillag Patikák - Buszpályaudvar Patika",
+        "address": "8200 Veszprém, Jutasi út 5.",
+        "anchor": "Csillag%20Patik%C3%A1k%20-%20Buszp%C3%A1lyaudvar%20Patika",
+        "phone": "+36 88 786-608",
+        "opening_hours": "Hétfő - Péntek: 7:00 - 18:00 | Szombat: 7:00 - 12:00"
+    },
+    {
+        "lat": "47.1021861",
+        "lng": "17.8951401",
+        "name": "Csillag Patikák - Dózsavárosi Patika",
+        "address": "8200 Veszprém, Táncsics u. 1/A.",
+        "anchor": "Csillag%20Patik%C3%A1k%20-%20D%C3%B3zsav%C3%A1rosi%20Patika",
+        "phone": "+36 88 325-587",
+        "opening_hours": "Hétfő - Péntek: 7:30 - 18:00 | Szombat: 8:00 - 13:00"
+    },
+    {
+        "lat": "47.1862836 ",
+        "lng": "18.4156061",
+        "name": "Csillag Patikák - Ezüstkehely Gyógyszertár",
+        "address": "8000 Székesfehérvár, Esze Tamás u. 1.",
+        "anchor": "Csillag%20Patik%C3%A1k%20-%20Ez%C3%BCstkehely%20Gy%C3%B3gyszert%C3%A1r",
+        "phone": "+36 22 501-727",
+        "opening_hours": "Hétfő-Péntek: 7:00-18:30 | Szombat-Vasárnap: zárva"
+    },
+    {
+        "lat": "47.1051194",
+        "lng": "17.4350242",
+        "name": "Csillag Patikák - Gyógyír Gyógyszertár",
+        "address": "8460 Devecser, Kossuth u. 1/b",
+        "anchor": "Csillag%20Patik%C3%A1k%20-%20Gy%C3%B3gy%C3%ADr%20Gy%C3%B3gyszert%C3%A1r",
+        "phone": "+36 88 224-063",
+        "opening_hours": "Hétfő - Péntek: 7:30 - 16:30"
+    },
+    {
+        "lat": "47.1063366",
+        "lng": "17.5604251",
+        "name": "Csillag Patikák - Horizont Gyógyszertár",
+        "address": "8400 Ajka, Szabadság tér 10.",
+        "anchor": "Csillag%20Patik%C3%A1k%20-%20Horizont%20Gy%C3%B3gyszert%C3%A1r",
+        "phone": "+36 88 500-698",
+        "opening_hours": "Hétfő - Péntek: 7:00 - 18:00 | Szombat: 7:30 - 12:30"
+    },
+    {
+        "lat": "47.1057161",
+        "lng": "17.5515786",
+        "name": "Csillag Patikák - Kígyó Gyógyszertár",
+        "address": " 8400 Ajka, Frankel Leo u. 16.",
+        "anchor": "Csillag%20Patik%C3%A1k%20-%20K%C3%ADgy%C3%B3%20Gy%C3%B3gyszert%C3%A1r",
+        "phone": "+36 88 312-227",
+        "opening_hours": "Hétfő - Péntek: 7:00 - 18:00"
+    },
+    {
+        "lat": "47.0956158",
+        "lng": "17.9162803",
+        "name": "Csillag Patikák - Pláza Patika",
+        "address": "8200 Veszprém, Budapest út 20-28, Balaton Pláza",
+        "anchor": "Csillag%20Patik%C3%A1k%20-%20Pl%C3%A1za%20Patika",
+        "phone": "+36 88 564-913",
+        "opening_hours": "Hétfő - Szombat: 9:00 - 20:00 | Vasárnap: 8:00 - 19:00"
+    },
+    {
+        "lat": "46.9796237",
+        "lng": "17.277531",
+        "name": "Csillag Patikák - Semmelweis Gyógyszertár",
+        "address": "8330 Sümeg, Kossuth utca 20.",
+        "anchor": "Csillag%20Patik%C3%A1k%20-%20Semmelweis%20Gy%C3%B3gyszert%C3%A1r",
+        "phone": "+36 87 550-288",
+        "opening_hours": "Hétfő - Péntek: 7:30 - 17:30"
+    },
+    {
+        "lat": "47.19676",
+        "lng": "18.13960",
+        "name": "Csillag Patikák - Szent Anna Gyógyszertár",
+        "address": "8100 Várpalota, Veszprémi út 7.",
+        "anchor": "Csillag%20Patik%C3%A1k%20-%20Szent%20Anna%20Gy%C3%B3gyszert%C3%A1r",
+        "phone": "+36 88 582-740",
+        "opening_hours": "Hétfő-Péntek: 7:30-19:00 | Szombat: 8:00-13:00 | Vasárnap: Zárva"
+    },
+    {
+        "lat": "47.0369161",
+        "lng": "18.1059218",
+        "name": "Csillag Patikák - Tátorján Patika",
+        "address": "8174 Balatonkenese, Fő u. 23.",
+        "anchor": "Csillag%20Patik%C3%A1k%20-%20T%C3%A1torj%C3%A1n%20Patika",
+        "phone": "+36 88 481-283",
+        "opening_hours": "Hétfő - Péntek: 8:00 - 18:00 | Nyári hónapokban (június 1 - augusztus 31.): | Hétfő - Vasárnap: 8:00 - 19:00"
+    },
+    {
+        "lat": "47.1194187",
+        "lng": "17.3100884",
+        "name": "Csillag Patikák - Tüskevár fiókgyógyszertár",
+        "address": "8477 Tüskevár, Rózsa utca 11.",
+        "anchor": "Csillag%20Patik%C3%A1k%20-%20T%C3%BCskev%C3%A1r%20fi%C3%B3kgy%C3%B3gyszert%C3%A1r",
+        "phone": "",
+        "opening_hours": "Hétfő, péntek: 10:00 - 12:00 | Szerda: 13:00 - 16:15"
+    },
+    {
+        "lat": "47.0147326",
+        "lng": "17.9504472",
+        "name": "Csillag Patikák - Felsőörs fiókgyógyszertár",
+        "address": "8227 Felsőörs, Szabadság tér 2. (Polgármesteri Hivatal épületében)",
+        "anchor": "Csillag%20Patik%C3%A1k%20-%20Fels%C5%91%C3%B6rs%20fi%C3%B3kgy%C3%B3gyszert%C3%A1r",
+        "phone": "+36 20 514-2364",
+        "opening_hours": "Hétfő: 13.00-16.00 | Kedd: 12.00-15.30 | Szerda: zárva | Csütörtök: 8.00-12.30 | Péntek: zárva | Szombat: zárva | Vasárnap: zárva"
+    },
+    {
+        "lat": "47.0799296",
+        "lng": "18.0767105",
+        "name": "Csillag Patikák - Papkeszi fiókgyógyszertár",
+        "address": "8183 Papkeszi, Fő u. 65.",
+        "anchor": "Csillag%20Patik%C3%A1k%20-%20Papkeszi%20fi%C3%B3kgy%C3%B3gyszert%C3%A1r",
+        "phone": "",
+        "opening_hours": "Hétfő: 12:30 - 15:00 | Kedd: 8:30 - 12:00 | Csütörtök: 8:30 - 12:00 | Péntek: 11:00 - 12:00"
+    },
+    {
+        "lat": "47.293326",
+        "lng": "18.264698",
+        "name": "Csillag Patikák- Fehérvárcsurgó fiókgyógyszertár",
+        "address": "8052 Fehérvárcsurgó, Dózsa György u. 37.",
+        "anchor": "Csillag%20Patik%C3%A1k-%20Feh%C3%A9rv%C3%A1rcsurg%C3%B3%20fi%C3%B3kgy%C3%B3gyszert%C3%A1r",
+        "phone": "+36 30 475-7891",
+        "opening_hours": "Hétfő: 8:00-16:00 | Kedd: 10:00-18:00 | Szerda: 8:00-16:00 | Csütörtök: 8:00-16:00 | Péntek: 8:00-16:00 | Szombat-Vasárnap: Zárva"
+    },
+    {
+        "lat": "47.242680 ",
+        "lng": "18.299687",
+        "name": "Csillag Patikák - Iszkaszentgyörgy fiókgyógyszertár",
+        "address": "8043 Iszkaszentgyörgy, Rákóczi Ferenc u. 2. ",
+        "anchor": "Csillag%20Patik%C3%A1k%20-%20Iszkaszentgy%C3%B6rgy%20fi%C3%B3kgy%C3%B3gyszert%C3%A1r",
+        "phone": "+36 30 475-7891",
+        "opening_hours": "Hétfő: 10:00-15:00 | Kedd: 8:00-13:00 | Szerda: 8:00-12:00 | Csütörtök: 14:00-18:00 | Péntek: 8:00-13:00 | Szombat-Vasárnap: Zárva"
+    },
+    {
+        "lat": "47.033457",
+        "lng": "7.533725",
+        "name": "Csillag Patikák - Halimba fiókgyógyszertár",
+        "address": "8452 Halimba, Kossuth L. u. 38/a",
+        "anchor": "Csillag%20Patik%C3%A1k%20-%20Halimba%20fi%C3%B3kgy%C3%B3gyszert%C3%A1r",
+        "phone": "+36 20 453-0445",
+        "opening_hours": "Hétfő 9:00-11:00 | Szerda 9:00-11:00 | Péntek 9:00-12:00"
+    },
+    {
+        "lat": "46.91585",
+        "lng": "17.88231",
+        "name": "Csillag Patikák - Tihany fiókgyógyszertár",
+        "address": "8237 Tihany, Csokonai u. 2. ",
+        "anchor": "Csillag%20Patik%C3%A1k%20-%20Tihany%20fi%C3%B3kgy%C3%B3gyszert%C3%A1r",
+        "phone": "+36 20 452-8211",
+        "opening_hours": "Június 20. és Augusztus 31. között: | Hétfő: 8:00-16:00 | Kedd: 10.00-18:00 | Szerda: 8:00-16:00 | Csütörtök: 10:00-18:00 | Péntek: 8:00-16:00 | Szombat-Vasárnap: Zárva | Szeptember 1. és Június 19. között: | Hétfő: 8:00-12:00 | Kedd: 13:00-17:00 | Szerda: 8:00-12:00 | Csütörtök: 13:00-17:00 | Péntek: 8:00-12:00 | Szombat-Vasárnap: Zárva"
+    }
+]

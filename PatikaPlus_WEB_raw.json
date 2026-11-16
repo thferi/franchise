@@ -1,0 +1,642 @@
+[
+    {
+        "name": "PatikaPlus Gyógyszertár",
+        "lat": "47.11402573699263",
+        "lon": "17.54905429097726",
+        "address": "8401 Ajka, Fő út 66. (Tesco)",
+        "phone": "+36-88-509-932",
+        "opening_hours_detailed": "Hétfő: 8:00 - 20:00 | Kedd: 8:00 - 20:00 | Szerda: 8:00 - 20:00 | Csütörtök: 8:00 - 20:00 | Péntek: 8:00 - 20:00 | Szombat: 8:00 - 20:00 | Vasárnap: 8:00 - 20:00"
+    },
+    {
+        "name": "PatikaPlus Gyógyszertár",
+        "lat": "47.244005348414504",
+        "lon": "19.61232508830614",
+        "address": "2730 Albertirsa, Vasút utca 4./11.",
+        "phone": "+36-53-571-241",
+        "opening_hours_detailed": "Hétfő: 8:00 - 18:00 | Kedd: 8:00 - 18:00 | Szerda: 8:00 - 18:00 | Csütörtök: 8:00 - 18:00 | Péntek: 8:00 - 18:00 | Szombat: 8:00 - 13:00 | Vasárnap: Zárva"
+    },
+    {
+        "name": "PatikaPlus Gyógyszertár",
+        "lat": "48.08460519013144",
+        "lon": "19.29828406255057",
+        "address": "2660 Balassagyarmat, Mikszáth Kálmán utca 56. (Tesco)",
+        "phone": "+36-35-500-051",
+        "opening_hours_detailed": "Hétfő: 8:00 - 20:00 | Kedd: 8:00 - 20:00 | Szerda: 8:00 - 20:00 | Csütörtök: 8:00 - 20:00 | Péntek: 8:00 - 20:00 | Szombat: 8:00 - 20:00 | Vasárnap: 8:00 - 19:00"
+    },
+    {
+        "name": "PatikaPlus Gyógyszertár",
+        "lat": "46.68087539246474",
+        "lon": "21.07533312917589",
+        "address": "5600 Békéscsaba, Szarvasi út 68. (Tesco)",
+        "phone": "+36-66-549-630",
+        "opening_hours_detailed": "Hétfő: 8:00 - 20:00 | Kedd: 8:00 - 20:00 | Szerda: 8:00 - 20:00 | Csütörtök: 8:00 - 20:00 | Péntek: 8:00 - 20:00 | Szombat: 8:00 - 20:00 | Vasárnap: 8:00 - 18:00"
+    },
+    {
+        "name": "PatikaPlus Gyógyszertár",
+        "lat": "47.23935641032835",
+        "lon": "21.537249348745178",
+        "address": "4100 Berettyóújfalu, Honvéd u. 13. (Tesco)",
+        "phone": "+36-54-500-393",
+        "opening_hours_detailed": "Hétfő: 8:00 - 18:00 | Kedd: 8:00 - 18:00 | Szerda: 8:00 - 18:00 | Csütörtök: 8:00 - 18:00 | Péntek: 8:00 - 18:00 | Szombat: 8:00 - 18:00 | Vasárnap: Zárva"
+    },
+    {
+        "name": "PatikaPlus Gyógyszertár",
+        "lat": "46.299923191009796",
+        "lon": "18.538067524955498",
+        "address": "7150 Bonyhád, Völgység u. 8. (Tesco)",
+        "phone": "+36-74-550-292",
+        "opening_hours_detailed": "Hétfő: 8:00 - 19:00 | Kedd: 8:00 - 19:00 | Szerda: 8:00 - 19:00 | Csütörtök: 8:00 - 19:00 | Péntek: 8:00 - 19:00 | Szombat: 8:00 - 19:00 | Vasárnap: Zárva"
+    },
+    {
+        "name": "PatikaPlus Gyógyszertár",
+        "lat": "47.55567037687096",
+        "lon": "19.080341828517895",
+        "address": "1138 Budapest, Gács u. 3. (Tesco)",
+        "phone": "+36-1-236-0993",
+        "opening_hours_detailed": "Hétfő: 8:00 - 20:00 | Kedd: 8:00 - 20:00 | Szerda: 8:00 - 20:00 | Csütörtök: 8:00 - 20:00 | Péntek: 8:00 - 20:00 | Szombat: 8:00 - 20:00 | Vasárnap: 8:00 - 20:00"
+    },
+    {
+        "name": "PatikaPlus Gyógyszertár",
+        "lat": "47.406286053871376",
+        "lon": "19.01484064912528",
+        "address": "1222 Budapest, Nagytétényi út 34-43. (Campona)",
+        "phone": "+36-1-362-6325",
+        "opening_hours_detailed": "Hétfő: 8:00 - 20:00 | Kedd: 8:00 - 20:00 | Szerda: 8:00 - 20:00 | Csütörtök: 8:00 - 20:00 | Péntek: 8:00 - 20:00 | Szombat: 8:00 - 20:00 | Vasárnap: 8:00 - 19:00"
+    },
+    {
+        "name": "PatikaPlus Gyógyszertár",
+        "lat": "47.549356150245075",
+        "lon": "19.072672522647622",
+        "address": "1138 Budapest, Váci út 178. (Duna Plaza)",
+        "phone": "+36-1-237-0618",
+        "opening_hours_detailed": "Hétfő: 8:00 - 20:00 | Kedd: 8:00 - 20:00 | Szerda: 8:00 - 20:00 | Csütörtök: 8:00 - 20:00 | Péntek: 8:00 - 20:00 | Szombat: 8:00 - 20:00 | Vasárnap: 9:00 - 18:00"
+    },
+    {
+        "name": "PatikaPlus Gyógyszertár",
+        "lat": "47.1838559133039",
+        "lon": "19.7957510013279",
+        "address": "2700 Cegléd, Malomtó szél 30. (Tesco)",
+        "phone": "+36-53-500-252",
+        "opening_hours_detailed": "Hétfő: 8:00 - 19:00 | Kedd: 8:00 - 19:00 | Szerda: 8:00 - 19:00 | Csütörtök: 8:00 - 19:00 | Péntek: 8:00 - 19:00 | Szombat: 8:00 - 19:00 | Vasárnap: Zárva"
+    },
+    {
+        "name": "PatikaPlus Gyógyszertár",
+        "lat": "47.19414851434756",
+        "lon": "19.319351453904765",
+        "address": "2370 Dabas, Dancsó u. Hrsz. 2256 / 15. (Tesco)",
+        "phone": "+36-29-561-091",
+        "opening_hours_detailed": "Hétfő: 8:00 - 18:00 | Kedd: 8:00 - 18:00 | Szerda: 8:00 - 18:00 | Csütörtök: 8:00 - 18:00 | Péntek: 8:00 - 18:00 | Szombat: 8:00 - 18:00 | Vasárnap: Zárva"
+    },
+    {
+        "name": "PatikaPlus Gyógyszertár",
+        "lat": "47.53043259833562",
+        "lon": "21.608221307743257",
+        "address": "4031 Debrecen, Kishegyesi út 1-11. (Tesco)",
+        "phone": "+36-52-502-270",
+        "opening_hours_detailed": "Hétfő: 8:00 - 20:00 | Kedd: 8:00 - 20:00 | Szerda: 8:00 - 20:00 | Csütörtök: 8:00 - 20:00 | Péntek: 8:00 - 20:00 | Szombat: 8:00 - 20:00 | Vasárnap: 8:00 - 19:00"
+    },
+    {
+        "name": "PatikaPlus Gyógyszertár",
+        "lat": "46.38665116311125",
+        "lon": "18.137900947254884",
+        "address": "7200 Dombóvár, Köztársaság u. 7. (Tesco)",
+        "phone": "+36-74-565-424",
+        "opening_hours_detailed": "Hétfő: 8:00 - 20:00 | Kedd: 8:00 - 20:00 | Szerda: 8:00 - 20:00 | Csütörtök: 8:00 - 20:00 | Péntek: 8:00 - 20:00 | Szombat: 8:00 - 20:00 | Vasárnap: 8:00 - 18:00"
+    },
+    {
+        "name": "PatikaPlus Gyógyszertár",
+        "lat": "47.343894154068664",
+        "lon": "19.11897355443901",
+        "address": "2330 Dunaharaszti,  Némedi út 69. (Tesco)",
+        "phone": "+36-24-510-265",
+        "opening_hours_detailed": "Hétfő: 8:00 - 20:00 | Kedd: 8:00 - 20:00 | Szerda: 8:00 - 20:00 | Csütörtök: 8:00 - 20:00 | Péntek: 8:00 - 20:00 | Szombat: 8:00 - 20:00 | Vasárnap: 9:00 - 18:00"
+    },
+    {
+        "name": "PatikaPlus Gyógyszertár",
+        "lat": "47.62031675161978",
+        "lon": "19.16638869787904",
+        "address": "2120 Dunakeszi, Fóti út 120. (Tesco)",
+        "phone": "+36-27-546-398",
+        "opening_hours_detailed": "Hétfő: 8:00 - 20:00 | Kedd: 8:00 - 20:00 | Szerda: 8:00 - 20:00 | Csütörtök: 8:00 - 20:00 | Péntek: 8:00 - 20:00 | Szombat: 8:00 - 20:00 | Vasárnap: Zárva"
+    },
+    {
+        "name": "PatikaPlus Gyógyszertár",
+        "lat": "47.6560019365593",
+        "lon": "19.129764712141746",
+        "address": "2120 Dunakeszi, Fő út 190. (Tesco)",
+        "phone": "+36-27-543-265",
+        "opening_hours_detailed": "Hétfő: 8:00 - 20:00 | Kedd: 8:00 - 20:00 | Szerda: 8:00 - 20:00 | Csütörtök: 8:00 - 20:00 | Péntek: 8:00 - 20:00 | Szombat: 8:00 - 20:00 | Vasárnap: Zárva"
+    },
+    {
+        "name": "PatikaPlus Gyógyszertár",
+        "lat": "46.97739781032089",
+        "lon": "18.924567948313186",
+        "address": "2400 Dunaújváros, Aranyvölgyi út 6. (Tesco)",
+        "phone": "+36-25-500-520",
+        "opening_hours_detailed": "Hétfő: 8:00 - 20:00 | Kedd: 8:00 - 20:00 | Szerda: 8:00 - 20:00 | Csütörtök: 8:00 - 20:00 | Péntek: 8:00 - 20:00 | Szombat: 8:00 - 20:00 | Vasárnap: 8:00 - 19:00"
+    },
+    {
+        "name": "PatikaPlus Gyógyszertár",
+        "lat": "47.89000959850257",
+        "lon": "20.381277102818892",
+        "address": "3300 Eger, Sas u. 1. (Spar)",
+        "phone": "+36-36-515-145",
+        "opening_hours_detailed": "Hétfő: 8:00 - 19:00 | Kedd: 8:00 - 19:00 | Szerda: 8:00 - 19:00 | Csütörtök: 8:00 - 19:00 | Péntek: 8:00 - 19:00 | Szombat: 8:00 - 15:00 | Vasárnap: Zárva"
+    },
+    {
+        "name": "PatikaPlus Gyógyszertár",
+        "lat": "47.779987358584954",
+        "lon": "18.74896841006012",
+        "address": "2500 Esztergom,  Mátyás király u. 30. (Tesco)",
+        "phone": "+36-33-500-275",
+        "opening_hours_detailed": "Hétfő: 8:00 - 20:00 | Kedd: 8:00 - 20:00 | Szerda: 8:00 - 20:00 | Csütörtök: 8:00 - 20:00 | Péntek: 8:00 - 20:00 | Szombat: 8:00 - 20:00 | Vasárnap: 8:00 - 19:00"
+    },
+    {
+        "name": "PatikaPlus Gyógyszertár",
+        "lat": "47.76916213359571",
+        "lon": "19.912765956846567",
+        "address": "3200 Gyöngyös, Vásár u. 2. (Tesco)",
+        "phone": "+36-37-502-020",
+        "opening_hours_detailed": "Hétfő: 8:00 - 20:00 | Kedd: 8:00 - 20:00 | Szerda: 8:00 - 20:00 | Csütörtök: 8:00 - 20:00 | Péntek: 8:00 - 20:00 | Szombat: 8:00 - 20:00 | Vasárnap: 8:00 - 19:00"
+    },
+    {
+        "name": "PatikaPlus Gyógyszertár",
+        "lat": "47.64927189445085",
+        "lon": "17.626952402474803",
+        "address": "9012 Győr, Királyszék u. 33. (Tesco)",
+        "phone": "+36-96-517-068",
+        "opening_hours_detailed": "Hétfő: 8:00 - 20:00 | Kedd: 8:00 - 20:00 | Szerda: 8:00 - 20:00 | Csütörtök: 8:00 - 20:00 | Péntek: 8:00 - 20:00 | Szombat: 8:00 - 20:00 | Vasárnap: 8:00 - 18:00"
+    },
+    {
+        "name": "PatikaPlus Gyógyszertár",
+        "lat": "47.68810197044055",
+        "lon": "17.64976224196535",
+        "address": "9027 Győr, Fehérvári út 3. (Interspar)",
+        "phone": "+36-96-550-800",
+        "opening_hours_detailed": "Hétfő: 8:00 - 20:00 | Kedd: 8:00 - 20:00 | Szerda: 8:00 - 20:00 | Csütörtök: 8:00 - 20:00 | Péntek: 8:00 - 20:00 | Szombat: 8:00 - 20:00 | Vasárnap: 8:00 - 16:00"
+    },
+    {
+        "name": "PatikaPlus Gyógyszertár",
+        "lat": "46.63999541427326",
+        "lon": "21.26224397343827",
+        "address": "5700 Gyula, Kétegyházi u. 1. (Interspar)",
+        "phone": "+36-66-521-025",
+        "opening_hours_detailed": "Hétfő: 8:00 - 18:30 | Kedd: 8:00 - 18:30 | Szerda: 8:00 - 18:30 | Csütörtök: 8:00 - 18:30 | Péntek: 8:00 - 18:30 | Szombat: 8:00 - 18:30 | Vasárnap: Zárva"
+    },
+    {
+        "name": "PatikaPlus Gyógyszertár",
+        "lat": "47.67157232490438",
+        "lon": "21.50092356965108",
+        "address": "4220 Hajdúböszörmény, Vörösmarty u. 1.",
+        "phone": "+36-52-561-102",
+        "opening_hours_detailed": "Hétfő: 8:00 - 17:30 | Kedd: 8:00 - 17:30 | Szerda: 8:00 - 17:30 | Csütörtök: 8:00 - 17:30 | Péntek: 8:00 - 17:30 | Szombat: Zárva | Vasárnap: Zárva"
+    },
+    {
+        "name": "PatikaPlus Gyógyszertár",
+        "lat": "47.49016598946862",
+        "lon": "19.896497715594098",
+        "address": "5100 Jászberény, Nagykátai u. 2. (Tesco)",
+        "phone": "+36-57-506-930",
+        "opening_hours_detailed": "Hétfő: 8:00 - 20:00 | Kedd: 8:00 - 20:00 | Szerda: 8:00 - 20:00 | Csütörtök: 8:00 - 20:00 | Péntek: 8:00 - 20:00 | Szombat: 8:00 - 20:00 | Vasárnap: 8:00 - 19:00"
+    },
+    {
+        "name": "PatikaPlus Gyógyszertár",
+        "lat": "46.519442653428506",
+        "lon": "18.980252225529266",
+        "address": "6300 Kalocsa, Bátyai út 8-10. (Tesco)",
+        "phone": "+36-78-561-032",
+        "opening_hours_detailed": "Hétfő: 8:00 - 19:00 | Kedd: 8:00 - 19:00 | Szerda: 8:00 - 19:00 | Csütörtök: 8:00 - 19:00 | Péntek: 8:00 - 19:00 | Szombat: 8:00 - 19:00 | Vasárnap: Zárva"
+    },
+    {
+        "name": "PatikaPlus Gyógyszertár",
+        "lat": "46.36103827407063",
+        "lon": "17.78175878423335",
+        "address": "7400 Kaposvár, Berzsenyi u. 13. (Tesco)",
+        "phone": "+36-82-510-664",
+        "opening_hours_detailed": "Hétfő: 7:30 - 20:00 | Kedd: 7:30 - 20:00 | Szerda: 7:30 - 20:00 | Csütörtök: 7:30 - 20:00 | Péntek: 7:30 - 20:00 | Szombat: 7:30 - 20:00 | Vasárnap: 7:30 - 19:00"
+    },
+    {
+        "name": "PatikaPlus Gyógyszertár",
+        "lat": "46.355580306964185",
+        "lon": "17.786037322857194",
+        "address": "7400 Kaposvár, Áchim András u. 4. (Corso Bevásárlóközpont)",
+        "phone": "+36-82-510-257",
+        "opening_hours_detailed": "Hétfő: 9:00 - 18:30 | Kedd: 9:00 - 18:30 | Szerda: 9:00 - 18:30 | Csütörtök: 9:00 - 18:30 | Péntek: 9:00 - 18:30 | Szombat: 9:00 - 18:30 | Vasárnap: Zárva"
+    },
+    {
+        "name": "PatikaPlus Gyógyszertár",
+        "lat": "48.25996476352599",
+        "lon": "20.618403177248826",
+        "address": "3700 Kazincbarcika, Attila u. 10. / b (Tesco)",
+        "phone": "+36-48-512-592",
+        "opening_hours_detailed": "Hétfő: 8:00 - 20:00 | Kedd: 8:00 - 20:00 | Szerda: 8:00 - 20:00 | Csütörtök: 8:00 - 20:00 | Péntek: 8:00 - 20:00 | Szombat: 8:00 - 20:00 | Vasárnap: 8:00 - 18:00"
+    },
+    {
+        "name": "PatikaPlus Gyógyszertár",
+        "lat": "46.93253311613197",
+        "lon": "19.66562945474653",
+        "address": "6000 Kecskemét, Izsáki u. 12. b. ép. (Target Center)",
+        "phone": "+36-76-506-260",
+        "opening_hours_detailed": "Hétfő: 8:00 - 19:00 | Kedd: 8:00 - 19:00 | Szerda: 8:00 - 19:00 | Csütörtök: 8:00 - 19:00 | Péntek: 8:00 - 19:00 | Szombat: 8:00 - 19:00 | Vasárnap: Zárva"
+    },
+    {
+        "name": "PatikaPlus Gyógyszertár",
+        "lat": "46.93253854969434",
+        "lon": "19.66562683350419",
+        "address": "6000 Kecskemét, Talfája u. 1. (Tesco)",
+        "phone": "+36-76-506-387",
+        "opening_hours_detailed": "Hétfő: 8:00 - 20:00 | Kedd: 8:00 - 20:00 | Szerda: 8:00 - 20:00 | Csütörtök: 8:00 - 20:00 | Péntek: 8:00 - 20:00 | Szombat: 8:00 - 20:00 | Vasárnap: 8:00 - 13:00"
+    },
+    {
+        "name": "PatikaPlus Gyógyszertár",
+        "lat": "46.77916517635342",
+        "lon": "17.260813028496273",
+        "address": "8362 Keszthely, Csapás u. 27. (Tesco)",
+        "phone": "+36-83-510-298",
+        "opening_hours_detailed": "Hétfő: 8:00 - 20:00 | Kedd: 8:00 - 20:00 | Szerda: 8:00 - 20:00 | Csütörtök: 8:00 - 20:00 | Péntek: 8:00 - 20:00 | Szombat: 8:00 - 20:00 | Vasárnap: 8:00 - 19:00"
+    },
+    {
+        "name": "PatikaPlus Gyógyszertár",
+        "lat": "46.41880791666733",
+        "lon": "19.499080162564375",
+        "address": "6400 Kiskunhalas, Fejérföldi út 24. (Tesco)",
+        "phone": "+36-77-520-007",
+        "opening_hours_detailed": "Hétfő: 8:00 - 19:00 | Kedd: 8:00 - 19:00 | Szerda: 8:00 - 19:00 | Csütörtök: 8:00 - 19:00 | Péntek: 8:00 - 19:00 | Szombat: 8:00 - 19:00 | Vasárnap: 8:00 - 18:00"
+    },
+    {
+        "name": "PatikaPlus Gyógyszertár",
+        "lat": "47.74828800126597",
+        "lon": "18.11829415130154",
+        "address": "2900 Komárom, Bajcsy-Zsilinszky E. u. 7. (Tesco)",
+        "phone": "+36-34-526-876",
+        "opening_hours_detailed": "Hétfő: 8:00 - 20:00 | Kedd: 8:00 - 20:00 | Szerda: 8:00 - 20:00 | Csütörtök: 8:00 - 20:00 | Péntek: 8:00 - 20:00 | Szombat: 8:00 - 20:00 | Vasárnap: Zárva"
+    },
+    {
+        "name": "PatikaPlus Gyógyszertár",
+        "lat": "46.19222093249035",
+        "lon": "18.258328325307424",
+        "address": "7300 Komló, Kossuth L. u. 54-56. (Tesco)",
+        "phone": "+36-72-581-300",
+        "opening_hours_detailed": "Hétfő: 8:00 - 19:00 | Kedd: 8:00 - 19:00 | Szerda: 8:00 - 19:00 | Csütörtök: 8:00 - 19:00 | Péntek: 8:00 - 19:00 | Szombat: 8:00 - 19:00 | Vasárnap: Zárva"
+    },
+    {
+        "name": "PatikaPlus Gyógyszertár",
+        "lat": "46.606100152574555",
+        "lon": "17.404756811185315",
+        "address": "8700 Marcali, Noszlopy G. u. 177. (Tesco)",
+        "phone": "+36-85-510-245",
+        "opening_hours_detailed": "Hétfő: 8:00 - 18:00 | Kedd: 8:00 - 18:00 | Szerda: 8:00 - 18:00 | Csütörtök: 8:00 - 18:00 | Péntek: 8:00 - 18:00 | Szombat: 8:00 - 18:00 | Vasárnap: Zárva"
+    },
+    {
+        "name": "PatikaPlus Gyógyszertár",
+        "lat": "47.946285741768286",
+        "lon": "22.323878912284915",
+        "address": "4700 Mátészalka, Alkotmány u. 1. / a (Tesco)",
+        "phone": "+36-44-502-672",
+        "opening_hours_detailed": "Hétfő: 8:00 - 20:00 | Kedd: 8:00 - 20:00 | Szerda: 8:00 - 20:00 | Csütörtök: 8:00 - 20:00 | Péntek: 8:00 - 20:00 | Szombat: 8:00 - 20:00 | Vasárnap: 8:00 - 19:00"
+    },
+    {
+        "name": "PatikaPlus Gyógyszertár",
+        "lat": "47.809912571982544",
+        "lon": "20.549763258264928",
+        "address": "3400 Mezőkövesd, Egri u. 51. (Tesco)",
+        "phone": "+36-49-500-228",
+        "opening_hours_detailed": "Hétfő: 8:00 - 20:00 | Kedd: 8:00 - 20:00 | Szerda: 8:00 - 20:00 | Csütörtök: 8:00 - 20:00 | Péntek: 8:00 - 20:00 | Szombat: 8:00 - 20:00 | Vasárnap: 8:00 - 18:00"
+    },
+    {
+        "name": "PatikaPlus Gyógyszertár",
+        "lat": "45.99589672350176",
+        "lon": "18.659238367989694",
+        "address": "7700 Mohács, Pécsi út 61. (Tesco)",
+        "phone": "+36-69-510-336",
+        "opening_hours_detailed": "Hétfő: 8:00 - 19:00 | Kedd: 8:00 - 19:00 | Szerda: 8:00 - 19:00 | Csütörtök: 8:00 - 19:00 | Péntek: 8:00 - 19:00 | Szombat: 8:00 - 19:00 | Vasárnap: Zárva"
+    },
+    {
+        "name": "PatikaPlus Gyógyszertár",
+        "lat": "47.34828861408199",
+        "lon": "19.41136422532826",
+        "address": "2200 Monor, 4. sz. főút Hrsz. 0359 / 75. (Tesco)",
+        "phone": "+36-29-610-430",
+        "opening_hours_detailed": "Hétfő: 8:00 - 18:30 | Kedd: 8:00 - 18:30 | Szerda: 8:00 - 18:30 | Csütörtök: 8:00 - 18:30 | Péntek: 8:00 - 18:30 | Szombat: 8:00 - 18:30 | Vasárnap: Zárva"
+    },
+    {
+        "name": "PatikaPlus Gyógyszertár",
+        "lat": "46.22689534091853",
+        "lon": "17.386168685752924",
+        "address": "7500 Nagyatád, Szabadság u. 38. (Tesco)",
+        "phone": "+36-82-504-130",
+        "opening_hours_detailed": "Hétfő: 8:00 - 18:00 | Kedd: 8:00 - 18:00 | Szerda: 8:00 - 18:00 | Csütörtök: 8:00 - 18:00 | Péntek: 8:00 - 18:00 | Szombat: 8:00 - 18:00 | Vasárnap: Zárva"
+    },
+    {
+        "name": "PatikaPlus Gyógyszertár",
+        "lat": "46.46462003840936",
+        "lon": "17.012690956041975",
+        "address": "8800 Nagykanizsa, Boszorkány u. 2. (Tesco)",
+        "phone": "+36-93-516-280",
+        "opening_hours_detailed": "Hétfő: 8:00 - 20:00 | Kedd: 8:00 - 20:00 | Szerda: 8:00 - 20:00 | Csütörtök: 8:00 - 20:00 | Péntek: 8:00 - 20:00 | Szombat: 8:00 - 20:00 | Vasárnap: 8:00 - 19:00"
+    },
+    {
+        "name": "PatikaPlus Gyógyszertár",
+        "lat": "47.04675470507845",
+        "lon": "19.781803400041735",
+        "address": "2750 Nagykőrös, Ceglédi u. 28. (Tesco)",
+        "phone": "+36-53-552-134",
+        "opening_hours_detailed": "Hétfő: 8:00 - 18:30 | Kedd: 8:00 - 18:30 | Szerda: 8:00 - 18:30 | Csütörtök: 8:00 - 18:30 | Péntek: 8:00 - 18:30 | Szombat: 8:00 - 18:30 | Vasárnap: Zárva"
+    },
+    {
+        "name": "PatikaPlus Gyógyszertár",
+        "lat": "47.83175721584906",
+        "lon": "22.112247866280654",
+        "address": "4300 Nyírbátor, Debreceni u. 71. (Tesco)",
+        "phone": "+36-42-510-310",
+        "opening_hours_detailed": "Hétfő: 8:00 - 19:00 | Kedd: 8:00 - 19:00 | Szerda: 8:00 - 19:00 | Csütörtök: 8:00 - 19:00 | Péntek: 8:00 - 19:00 | Szombat: 8:00 - 19:00 | Vasárnap: Zárva"
+    },
+    {
+        "name": "PatikaPlus Gyógyszertár",
+        "lat": "47.97127600316557",
+        "lon": "21.726585306337007",
+        "address": "4400 Nyíregyháza, Korányi Frigyes u. 5. (Interspar)",
+        "phone": "+36-42-595-362",
+        "opening_hours_detailed": "Hétfő: 8:00 - 19:00 | Kedd: 8:00 - 19:00 | Szerda: 8:00 - 19:00 | Csütörtök: 8:00 - 19:00 | Péntek: 8:00 - 19:00 | Szombat: 8:00 - 19:00 | Vasárnap: Zárva"
+    },
+    {
+        "name": "PatikaPlus Gyógyszertár",
+        "lat": "47.49602675621383",
+        "lon": "18.32121963599329",
+        "address": "2840 Oroszlány, Környei út 3-5. (Tesco)",
+        "phone": "+36-48-569-246",
+        "opening_hours_detailed": "Hétfő: 8:00 - 19:00 | Kedd: 8:00 - 19:00 | Szerda: 8:00 - 19:00 | Csütörtök: 8:00 - 19:00 | Péntek: 8:00 - 19:00 | Szombat: 8:00 - 19:00 | Vasárnap: Zárva"
+    },
+    {
+        "name": "PatikaPlus Gyógyszertár",
+        "lat": "48.22486089118176",
+        "lon": "20.274629151300736",
+        "address": "3600 Ózd, Brassói út 3. (Tesco)",
+        "phone": "+36-48-569-246",
+        "opening_hours_detailed": "Hétfő: 8:00 - 20:00 | Kedd: 8:00 - 20:00 | Szerda: 8:00 - 20:00 | Csütörtök: 8:00 - 20:00 | Péntek: 8:00 - 20:00 | Szombat: 8:00 - 20:00 | Vasárnap: 8:00 - 16:00"
+    },
+    {
+        "name": "PatikaPlus Gyógyszertár",
+        "lat": "46.08304146077025",
+        "lon": "18.2712962563272",
+        "address": "7630 Pécs, Budai Vám 1. (Tesco)",
+        "phone": "+36-72-538-007",
+        "opening_hours_detailed": "Hétfő: 7:30 - 20:00 | Kedd: 7:30 - 20:00 | Szerda: 7:30 - 20:00 | Csütörtök: 7:30 - 20:00 | Péntek: 7:30 - 20:00 | Szombat: 7:30 - 20:00 | Vasárnap: 7:30 - 19:00"
+    },
+    {
+        "name": "PatikaPlus Gyógyszertár",
+        "lat": "46.03734350974779",
+        "lon": "18.23357038864988",
+        "address": "7631 Pécs, Kincses út 1. (Tesco)",
+        "phone": "+36-72-526-833",
+        "opening_hours_detailed": "Hétfő: 8:00 - 19:00 | Kedd: 8:00 - 19:00 | Szerda: 8:00 - 19:00 | Csütörtök: 8:00 - 19:00 | Péntek: 8:00 - 19:00 | Szombat: 8:00 - 19:00 | Vasárnap: Zárva"
+    },
+    {
+        "name": "PatikaPlus Gyógyszertár",
+        "lat": "46.05649547052822",
+        "lon": "18.233623090121817",
+        "address": "7632 Pécs, Siklósi u. 37. (Interspar)",
+        "phone": "+36-72-526-563",
+        "opening_hours_detailed": "Hétfő: 8:00 - 19:00 | Kedd: 8:00 - 19:00 | Szerda: 8:00 - 19:00 | Csütörtök: 8:00 - 19:00 | Péntek: 8:00 - 19:00 | Szombat: 8:00 - 19:00 | Vasárnap: 8:00 - 16:00"
+    },
+    {
+        "name": "PatikaPlus Gyógyszertár",
+        "lat": "48.07855196913039",
+        "lon": "19.789748173429718",
+        "address": "3100 Salgótarján, Rákóczi út 143. (Tesco)",
+        "phone": "+36-32-511-385",
+        "opening_hours_detailed": "Hétfő: 8:00 - 18:00 | Kedd: 8:00 - 18:00 | Szerda: 8:00 - 18:00 | Csütörtök: 8:00 - 18:00 | Péntek: 8:00 - 18:00 | Szombat: 8:00 - 18:00 | Vasárnap: 8:00 - 17:00"
+    },
+    {
+        "name": "PatikaPlus Gyógyszertár",
+        "lat": "46.89529291500969",
+        "lon": "18.614340507711766",
+        "address": "7000 Sárbogárd, Ady Endre út 19. (Tesco)",
+        "phone": "+36-25-508-815",
+        "opening_hours_detailed": "Hétfő: 8:00 - 19:00 | Kedd: 8:00 - 19:00 | Szerda: 8:00 - 19:00 | Csütörtök: 8:00 - 19:00 | Péntek: 8:00 - 19:00 | Szombat: 8:00 - 19:00 | Vasárnap: Zárva"
+    },
+    {
+        "name": "PatikaPlus Gyógyszertár",
+        "lat": "47.24646155511609",
+        "lon": "16.95655837885054",
+        "address": "9600 Sárvár, Rákóczi út 83. (Tesco)",
+        "phone": "+36-95-520-045",
+        "opening_hours_detailed": "Hétfő: 8:00 - 20:00 | Kedd: 8:00 - 20:00 | Szerda: 8:00 - 20:00 | Csütörtök: 8:00 - 20:00 | Péntek: 8:00 - 20:00 | Szombat: 8:00 - 20:00 | Vasárnap: 8:00 - 18:00"
+    },
+    {
+        "name": "PatikaPlus Gyógyszertár",
+        "lat": "45.85743076216906",
+        "lon": "18.277960103983997",
+        "address": "7801 Siklós, Harkányi út 55. (Tesco)",
+        "phone": "+36-72-579-114",
+        "opening_hours_detailed": "Hétfő: 7:30 - 18:30 | Kedd: 7:30 - 18:30 | Szerda: 7:30 - 18:30 | Csütörtök: 7:30 - 18:30 | Péntek: 7:30 - 18:30 | Szombat: 7:30 - 18:30 | Vasárnap: Zárva"
+    },
+    {
+        "name": "PatikaPlus Gyógyszertár",
+        "lat": "47.689563901171",
+        "lon": "16.583929317859045",
+        "address": "9400 Sopron, Selmeci u. 15-17. (Interspar)",
+        "phone": "+36-99-505-472",
+        "opening_hours_detailed": "Hétfő: 8:00 - 19:00 | Kedd: 8:00 - 19:00 | Szerda: 8:00 - 19:00 | Csütörtök: 8:00 - 19:00 | Péntek: 8:00 - 19:00 | Szombat: 8:00 - 19:00 | Vasárnap: Zárva"
+    },
+    {
+        "name": "PatikaPlus Gyógyszertár",
+        "lat": "47.673135871621774",
+        "lon": "16.611594510681574",
+        "address": "9400 Sopron, Határdomb u. 2. (Alpha Park)",
+        "phone": "+36-99-505-220",
+        "opening_hours_detailed": "Hétfő: 8:00 - 19:00 | Kedd: 8:00 - 19:00 | Szerda: 8:00 - 19:00 | Csütörtök: 8:00 - 19:00 | Péntek: 8:00 - 19:00 | Szombat: 8:00 - 19:00 | Vasárnap: Zárva"
+    },
+    {
+        "name": "PatikaPlus Gyógyszertár",
+        "lat": "47.313875021512544",
+        "lon": "18.914663138659897",
+        "address": "2440 Százhalombatta, Damjanich u. 29. (Tesco)",
+        "phone": "+36-23-540-300",
+        "opening_hours_detailed": "Hétfő: 8:00 - 19:00 | Kedd: 8:00 - 19:00 | Szerda: 8:00 - 19:00 | Csütörtök: 8:00 - 19:00 | Péntek: 8:00 - 19:00 | Szombat: 8:00 - 19:00 | Vasárnap: Zárva"
+    },
+    {
+        "name": "PatikaPlus Gyógyszertár",
+        "lat": "46.26926900495437",
+        "lon": "20.139075861109035",
+        "address": "6724 Szeged, Rókusi krt. 42-64. (Tesco)",
+        "phone": "+36-62-540-575",
+        "opening_hours_detailed": "Hétfő: 7:30 - 20:00 | Kedd: 7:30 - 20:00 | Szerda: 7:30 - 20:00 | Csütörtök: 7:30 - 20:00 | Péntek: 7:30 - 20:00 | Szombat: 7:30 - 20:00 | Vasárnap: 7:30 - 19:00"
+    },
+    {
+        "name": "PatikaPlus Gyógyszertár",
+        "lat": "46.24401408053533",
+        "lon": "20.120979576742464",
+        "address": "6725 Szeged, Szabadkai út 7. (Tesco)",
+        "phone": "+36-62-556-231",
+        "opening_hours_detailed": "Hétfő: 8:00 - 20:00 | Kedd: 8:00 - 20:00 | Szerda: 8:00 - 20:00 | Csütörtök: 8:00 - 20:00 | Péntek: 8:00 - 20:00 | Szombat: 8:00 - 20:00 | Vasárnap: 8:00 - 19:00"
+    },
+    {
+        "name": "PatikaPlus Gyógyszertár",
+        "lat": "47.19346193993867",
+        "lon": "18.415392205954127",
+        "address": "8000 Székesfehérvár, József Attila út 2/B",
+        "phone": "+36-20-377-8556",
+        "opening_hours_detailed": "Hétfő: 7:00 - 22:00 | Kedd: 7:00 - 22:00  | Szerda: 7:00 - 22:00 | Csütörtök: 7:00 - 22:00  | Péntek: 7:00 - 22:00  | Szombat: 7:00 - 22:00 | Vasárnap: 7:00 - 22:00"
+    },
+    {
+        "name": "PatikaPlus Gyógyszertár",
+        "lat": "47.19019828386405",
+        "lon": "18.404825861641545",
+        "address": "8000 Székesfehérvár,  Palotai út 6. (Fehér Palota)",
+        "phone": "+36-22-501-670",
+        "opening_hours_detailed": "Hétfő: 7:30 - 20:00 | Kedd: 7:30 - 20:00 | Szerda: 7:30 - 20:00 | Csütörtök: 7:30 - 20:00 | Péntek: 7:30 - 20:00 | Szombat: 7:30 - 20:00 | Vasárnap: Zárva"
+    },
+    {
+        "name": "PatikaPlus Gyógyszertár",
+        "lat": "47.191155740601765",
+        "lon": "18.424417974273627",
+        "address": "8000 Székesfehérvár, Budai út 41. (Interspar)",
+        "phone": "+36-22-390-222",
+        "opening_hours_detailed": "Hétfő: 8:00 - 20:00 | Kedd: 8:00 - 20:00 | Szerda: 8:00 - 20:00 | Csütörtök: 8:00 - 20:00 | Péntek: 8:00 - 20:00 | Szombat: 8:00 - 20:00 | Vasárnap: Zárva"
+    },
+    {
+        "name": "PatikaPlus Gyógyszertár",
+        "lat": "47.20240083077715",
+        "lon": "18.44607087398576",
+        "address": "8000 Székesfehérvár, Fiskális út 65.",
+        "phone": "+36-22-503-715",
+        "opening_hours_detailed": "Hétfő: 7:30 - 18:30 | Kedd: 7:30 - 18:30 | Szerda: 7:30 - 18:30 | Csütörtök: 7:30 - 18:30 | Péntek: 7:30 - 18:30 | Szombat: Zárva | Vasárnap: Zárva"
+    },
+    {
+        "name": "PatikaPlus Gyógyszertár",
+        "lat": "47.197396341569004",
+        "lon": "18.405553111964533",
+        "address": "8000 Székesfehérvár, Mészöly Géza u. 5.",
+        "phone": "+36-22-505-102",
+        "opening_hours_detailed": "Hétfő: 0:00 - 24.00 | Kedd: 0:00 - 24.00 | Szerda: 0:00 - 24.00 | Csütörtök: 0:00 - 24.00 | Péntek: 0:00 - 24.00 | Szombat: 0:00 - 24.00 | Vasárnap: 0:00 - 24.00"
+    },
+    {
+        "name": "PatikaPlus Gyógyszertár",
+        "lat": "47.19418075132168",
+        "lon": "18.409330241021348",
+        "address": "8000 Székesfehérvár, Országzászló tér 2.",
+        "phone": "+36-22-503-812",
+        "opening_hours_detailed": "Hétfő: 8:00 - 18:00 | Kedd: 8:00 - 18:00 | Szerda: 8:00 - 18:00 | Csütörtök: 8:00 - 18:00 | Péntek: 8:00 - 18:00 | Szombat: Zárva | Vasárnap: Zárva"
+    },
+    {
+        "name": "PatikaPlus Gyógyszertár",
+        "lat": "47.191460948958266",
+        "lon": "18.41045343199218",
+        "address": "8000 Székesfehérvár, Koronázó tér 4-5.",
+        "phone": "+36-22-501-666",
+        "opening_hours_detailed": "Hétfő: 8:00 - 17:00 | Kedd: 8:00 - 17:00 | Szerda: 8:00 - 17:00 | Csütörtök: 8:00 - 17:00 | Péntek: 8:00 - 17:00 | Szombat: Zárva | Vasárnap: Zárva"
+    },
+    {
+        "name": "PatikaPlus Gyógyszertár",
+        "lat": "47.19108085497171",
+        "lon": "18.40676474480448",
+        "address": "8000 Székesfehérvár, Palotai út 1-3. (Alba Plaza)",
+        "phone": "+36-22-501-194",
+        "opening_hours_detailed": "Hétfő: 8:00 - 19:00 | Kedd: 8:00 - 19:00 | Szerda: 8:00 - 19:00 | Csütörtök: 8:00 - 19:00 | Péntek: 8:00 - 19:00 | Szombat: 8:00 - 18:00 | Vasárnap: 8:00 - 16:00"
+    },
+    {
+        "name": "PatikaPlus Gyógyszertár",
+        "lat": "46.3303220295777",
+        "lon": "18.705896508957768",
+        "address": "7100 Szekszárd, Tartsay V. u. 40. (Tesco)",
+        "phone": "+36-74-313-476",
+        "opening_hours_detailed": "Hétfő: 8:00 - 20:00 | Kedd: 8:00 - 20:00 | Szerda: 8:00 - 20:00 | Csütörtök: 8:00 - 20:00 | Péntek: 8:00 - 20:00 | Szombat: 8:00 - 20:00 | Vasárnap: 8:00 - 19:00"
+    },
+    {
+        "name": "PatikaPlus Gyógyszertár",
+        "lat": "46.66551566504345",
+        "lon": "20.234778190905597",
+        "address": "6600 Szentes, Alsórét 258. (Tesco)",
+        "phone": "+36-63-562-201",
+        "opening_hours_detailed": "Hétfő: 8:00 - 18:00 | Kedd: 8:00 - 18:00 | Szerda: 8:00 - 18:00 | Csütörtök: 8:00 - 18:00 | Péntek: 8:00 - 18:00 | Szombat: 8:00 - 18:00 | Vasárnap: Zárva"
+    },
+    {
+        "name": "PatikaPlus Gyógyszertár",
+        "lat": "46.044123227529454",
+        "lon": "17.797732710786235",
+        "address": "7900 Szigetvár, Almáspatak u. 7. (Tesco)",
+        "phone": "+36-73-510-500",
+        "opening_hours_detailed": "Hétfő: 8:00 - 18:30 | Kedd: 8:00 - 18:30 | Szerda: 8:00 - 18:30 | Csütörtök: 8:00 - 18:30 | Péntek: 8:00 - 18:30 | Szombat: 8:00 - 18:30 | Vasárnap: Zárva"
+    },
+    {
+        "name": "PatikaPlus Gyógyszertár",
+        "lat": "47.17725324037813",
+        "lon": "20.16720439663134",
+        "address": "5000 Szolnok, Téglagyári út 30. (Tesco)",
+        "phone": "+36-56-513-326",
+        "opening_hours_detailed": "Hétfő: 8:00 - 19:00 | Kedd: 8:00 - 19:00 | Szerda: 8:00 - 19:00 | Csütörtök: 8:00 - 19:00 | Péntek: 8:00 - 19:00 | Szombat: 8:00 - 19:00 | Vasárnap: Zárva"
+    },
+    {
+        "name": "PatikaPlus Gyógyszertár",
+        "lat": "47.17997977243835",
+        "lon": "20.182948723741685",
+        "address": "5000 Szolnok, Mátyás király u. 29. (Interspar)",
+        "phone": "+36-56-513-416",
+        "opening_hours_detailed": "Hétfő: 8:00 - 18:30 | Kedd: 8:00 - 18:30 | Szerda: 8:00 - 18:30 | Csütörtök: 8:00 - 18:30 | Péntek: 8:00 - 18:30 | Szombat: 8:00 - 18:30 | Vasárnap: Zárva"
+    },
+    {
+        "name": "PatikaPlus Gyógyszertár",
+        "lat": "47.17779140631088",
+        "lon": "20.193896933303552",
+        "address": "5000 Szolnok, Ady Endre út. 15. (Pelikán Bevásárlóközpont)",
+        "phone": "+36-56-786-606",
+        "opening_hours_detailed": "Hétfő: 7:00 - 18:00 | Kedd: 7:00 - 18:00 | Szerda: 7:00 - 18:00 | Csütörtök: 7:00 - 18:00 | Péntek: 7:00 - 18:00 | Szombat: 8:00 - 13:00 | Vasárnap: Zárva"
+    },
+    {
+        "name": "PatikaPlus Gyógyszertár",
+        "lat": "47.23995909545061",
+        "lon": "16.652944676126914",
+        "address": "9700 Szombathely, Zanati u. 70. (Tesco)",
+        "phone": "+36-94-501-607",
+        "opening_hours_detailed": "Hétfő: 8:00 - 20:00 | Kedd: 8:00 - 20:00 | Szerda: 8:00 - 20:00 | Csütörtök: 8:00 - 20:00 | Péntek: 8:00 - 20:00 | Szombat: 8:00 - 20:00 | Vasárnap: 8:00 - 19:00"
+    },
+    {
+        "name": "PatikaPlus Gyógyszertár",
+        "lat": "47.58080698503238",
+        "lon": "18.39105919019394",
+        "address": "2800 Tatabánya, Dózsakert 52.",
+        "phone": "+36-34-309-380",
+        "opening_hours_detailed": "Hétfő: 8:00 - 19:00 | Kedd: 8:00 - 19:00 | Szerda: 8:00 - 19:00 | Csütörtök: 8:00 - 19:00 | Péntek: 8:00 - 19:00 | Szombat: 8:00 - 13:00 | Vasárnap: Zárva"
+    },
+    {
+        "name": "PatikaPlus Gyógyszertár",
+        "lat": "47.57050847044375",
+        "lon": "18.410832170214288",
+        "address": "2800 Tatabánya, Bláthy Ottó u. 1-3. (Tesco)",
+        "phone": "+36-34-309-414",
+        "opening_hours_detailed": "Hétfő: 8:00 - 20:00 | Kedd: 8:00 - 20:00 | Szerda: 8:00 - 20:00 | Csütörtök: 8:00 - 20:00 | Péntek: 8:00 - 20:00 | Szombat: 8:00 - 20:00 | Vasárnap: 8:00 - 19:00"
+    },
+    {
+        "name": "PatikaPlus Gyógyszertár",
+        "lat": "47.60584934560247",
+        "lon": "20.76021485282889",
+        "address": "5350 Tiszafüred, Madách Imre u. 2. (Tesco)",
+        "phone": "+36-59-511-035",
+        "opening_hours_detailed": "Hétfő: 8:00 - 19:00 | Kedd: 8:00 - 19:00 | Szerda: 8:00 - 19:00 | Csütörtök: 8:00 - 19:00 | Péntek: 8:00 - 19:00 | Szombat: 8:00 - 19:00 | Vasárnap: Zárva"
+    },
+    {
+        "name": "PatikaPlus Gyógyszertár",
+        "lat": "47.75549124536734",
+        "lon": "19.146374562481363",
+        "address": "2600 Vác, Deres u. 2. (Tesco)",
+        "phone": "+36-27-501-415",
+        "opening_hours_detailed": "Hétfő: 8:00 - 19:30 | Kedd: 8:00 - 19:30 | Szerda: 8:00 - 19:30 | Csütörtök: 8:00 - 19:30 | Péntek: 8:00 - 19:30 | Szombat: 8:00 - 19:30 | Vasárnap: Zárva"
+    },
+    {
+        "name": "PatikaPlus Gyógyszertár",
+        "lat": "47.41652764291089",
+        "lon": "19.248510478895206",
+        "address": "2220 Vecsés,  Fő út 246-248. (Market Central)",
+        "phone": "+36-29-557-820",
+        "opening_hours_detailed": "Hétfő: 8:00 - 20:00 | Kedd: 8:00 - 20:00 | Szerda: 8:00 - 20:00 | Csütörtök: 8:00 - 20:00 | Péntek: 8:00 - 20:00 | Szombat: 8:00 - 20:00 | Vasárnap: 9:00 - 18:00"
+    },
+    {
+        "name": "PatikaPlus Gyógyszertár",
+        "lat": "47.103491391594126",
+        "lon": "17.932994294799464",
+        "address": "8200 Veszprém, Külső-Kádártai u. 3. (Tesco)",
+        "phone": "+36-88-562-317",
+        "opening_hours_detailed": "Hétfő: 8:00 - 20:00 | Kedd: 8:00 - 20:00 | Szerda: 8:00 - 20:00 | Csütörtök: 8:00 - 20:00 | Péntek: 8:00 - 20:00 | Szombat: 8:00 - 20:00 | Vasárnap: 8:00 - 19:00"
+    }
+]
