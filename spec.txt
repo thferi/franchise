@@ -1,0 +1,8 @@
+Az urls.json fájlban patikai franchise-ok adatvégpontjai lesznek.
+Ezek más és más formátumú formában adhatnak vissza adatokat.
+A cél az, hogy ezeket a végpontokat meghívva az adatokat kinyerjük ezekből a adatforrásokból.
+Majd ezekből az adatokból egy változáskezelt adatbázist tudjunk építeni.
+
+Technológiai stack:
+- Programozási nyelv: Python
+- Adatbázis: MS-SQL

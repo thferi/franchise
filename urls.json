@@ -1,0 +1,37 @@
+﻿{   
+    "franchise" : [
+    { 
+    "name": "Szimpatika API - Gyógyszertárak", 
+    "url": "https://api-webter.szimpatika.hu/api/v2.0/pharmacies?page=0&sort%5Bdistance%5D=ASC&filters%5Bsearch%5D=%20&itemsPerPage=1000"
+    },
+    {
+    "name": "Alma API",
+    "url": "https://alma-middleware-prod.melkweg.hu/pharmacy"
+    },
+    {
+    "name": "Gyongy API",
+    "url": "https://gyongy-middleware-prod.melkweg.hu/pharmacy"
+    },
+    {
+    "name": "Csillag Patikák WEB",
+    "url": "https://www.csillagpatikak.hu/patikakereso"
+    },
+    {
+    "name": "BENU WEB",
+    "url": "https://benu.hu/pages/patikakereso"
+    },
+    {
+    "name": "Kulcs Patikák",
+    "url": "https://kulcspatikak.hu/patikakereso"
+    },
+    {"name": "Pingvin Patikák",
+    "url": "https://pingvinpatika.hu/patikak"
+    },
+    {"name": "PatikaPlus WEB",
+    "url": "https://patikaplus.hu/patikakereso"
+    },
+    {"name": "Szirom Patikák WEB",
+    "url": "https://szirompatikak.hu/patika-kereso/"
+    }      
+    ]
+}
